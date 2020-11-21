@@ -7,6 +7,12 @@
 - Models.ipynb defines and builds the models based on fpl_data.csv, as well as evaluating and comparing the models.
 
 
+## Setup:
+
+1. Clone repo and cd into folder: `git clone https://github.com/Markusmk101/TDT4173-project.git` and `cd TDT4173-project`
+2. Install requirements: `pip install -r requirements.txt`
+3. Open notebook: `jupyter notebook`
+
 ## Run code:
 
 #### If you want to run the data preprocessing:

@@ -25,5 +25,5 @@
 1. Open Models.ipynb and click on "run all cells". Then the outputs can be viewed beneath each cell.
    - NOTE: When running this file, a folder called logs will be created in the same folder as this file. This is logs used by tensorboard. If you decide to run the notebook several times, make sure to delete the logs folder before each run. 
 
-Both of the ipynb files shold be sufficent commented for you to follow the code.
+###### Both of the ipynb files shold be sufficent commented for you to follow the code.
 

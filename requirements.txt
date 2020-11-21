@@ -1,8 +1,9 @@
 keras
 matplotlib
-numpy
+numpy==1.19.0
 pandas
 scikit-learn
 seaborn
 sklearn
 tensorflow
+h5py==3.1.0

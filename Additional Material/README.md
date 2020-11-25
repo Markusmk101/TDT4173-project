@@ -3,6 +3,7 @@
 This is an additional folder to provide extra information related to our website https://fpl-wizard.web.app/
 
 
+
 ### About the website
 
 The website is designed to always predict the best combination of 11 players (typically called dream team) for the next gameweek in the game Fantasy Premier League.
@@ -11,6 +12,7 @@ Thus, the website can be used as a decision support system to help out with deci
 - Which players should one prioritize to swap into your team before next gameweek?
 - Which player should you make your captain the next gameweek? (Captains earns double points, so you would want your highest scoring player to be captain)
 - And lots of other stuff we are sure.
+
 
 
 ### Predicting the next dream team

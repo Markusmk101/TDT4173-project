@@ -36,16 +36,14 @@ Each week do:
 4. Predict points for all players
 5. Formulate consatraind optimization problem and solve by the Simplex method to construct the predicted dream team
 
+<p>&nbsp;</p>
 
-
-
-
-The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing. 
+##### The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing. 
 - Note that the code provided in SimplexFPL_preprocessing will preprocess data and train models for gameweek 9 2020 only. The code output is also provided, as the file new_optimize_df_to_gw9-1.csv. Also note that, as this includes the model training, the marjority of the code wil be similar to the code in ../Models.ipynb.
 
 <p>&nbsp;</p>
 
-The code for step 5 is provided in the file SimplexFPL.
+##### The code for step 5 is provided in the file SimplexFPL.
 
 
 

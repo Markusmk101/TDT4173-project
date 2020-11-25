@@ -38,6 +38,7 @@ Each week do:
 
 
 The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing.
+
 The code for step 5 is provided in the file SimplexFPL.
 
 

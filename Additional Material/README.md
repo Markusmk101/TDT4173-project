@@ -39,8 +39,9 @@ Each week do:
 
 
 
-The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing.
+The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing. Note that the code provided here will preprocess data and train models for gameweek 9 2020 only. The code output is also provided, as the file new_optimize_df_to_gw9-1.csv. Also note that, as this includes the model training, the marjority of the code wil be similar to the code in ../Models.ipynb.
 
 The code for step 5 is provided in the file SimplexFPL.
+
 
 

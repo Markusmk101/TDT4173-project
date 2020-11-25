@@ -1,0 +1,3519 @@
+,predictions,name,GW,team,value,position,opponent_team
+0,4.06,Alex McCarthy,4,Southampton,45,GK,18
+1,3.65,Emiliano Martínez,4,Aston Villa,46,GK,11
+2,3.45,Kasper Schmeichel,4,Leicester,55,GK,19
+3,3.33,Illan Meslier,4,Leeds,45,GK,12
+4,3.14,Rui Pedro dos Santos Patrício,4,Wolves,55,GK,8
+5,3.14,Bernd Leno,4,Arsenal,50,GK,15
+6,3.04,Jordan Pickford,4,Everton,50,GK,3
+7,2.93,Mathew Ryan,4,Brighton,45,GK,7
+8,2.9,Lukasz Fabianski,4,West Ham,50,GK,9
+9,2.87,Alisson Ramses Becker,4,Liverpool,60,GK,2
+10,2.87,Karl Darlow,4,Newcastle,50,GK,4
+11,2.72,Hugo Lloris,4,Spurs,55,GK,13
+12,2.71,Willy Caballero,4,Chelsea,49,GK,6
+13,2.51,Aaron Ramsdale,4,Sheffield Utd,50,GK,1
+14,2.47,Sam Johnstone,4,West Brom,45,GK,16
+15,2.4,Alphonse Areola,4,Fulham,45,GK,20
+16,2.14,Vicente Guaita,4,Crystal Palace,50,GK,5
+17,1.58,Fraser Forster,4,Southampton,40,GK,18
+18,1.56,Angus Gunn,4,Southampton,45,GK,18
+19,1.56,Danny Ward,4,Leicester,45,GK,19
+20,1.55,João Virgínia,4,Everton,45,GK,3
+21,1.55,Jonas Lössl,4,Everton,45,GK,3
+22,1.44,Matt Macey,4,Arsenal,40,GK,15
+23,1.44,John Ruddy,4,Wolves,45,GK,8
+24,1.43,Mark Gillespie,4,Newcastle,45,GK,4
+25,1.43,Martin Dubravka,4,Newcastle,49,GK,4
+26,1.43,Matija Sarkic,4,Wolves,45,GK,8
+27,1.32,Joe Hart,4,Spurs,45,GK,13
+28,1.31,Paulo Gazzaniga,4,Spurs,45,GK,13
+29,1.24,Kepa Arrizabalaga,4,Chelsea,49,GK,6
+30,1.2,Francisco Casilla Cortés,4,Leeds,44,GK,12
+31,1.2,Kamil Miazek,4,Leeds,40,GK,12
+32,1.04,Adrián San Miguel del Castillo,4,Liverpool,45,GK,2
+33,1.04,Wayne Hennessey,4,Crystal Palace,45,GK,5
+34,0.9,Simon Moore,4,Sheffield Utd,45,GK,1
+35,0.9,Wes Foderingham,4,Sheffield Utd,45,GK,1
+36,0.9,Fabricio Agosto Ramírez,4,Fulham,40,GK,20
+37,0.9,Marcus Bettinelli,4,Fulham,44,GK,20
+38,0.84,David Martin,4,West Ham,40,GK,9
+39,0.8,David Button,4,West Brom,40,GK,16
+40,0.77,Roberto Jimenez Gago,4,West Ham,45,GK,9
+41,0.77,Christian Walton,4,Brighton,40,GK,7
+42,0.77,Darren Randolph,4,West Ham,45,GK,9
+43,0.76,Jason Steele,4,Brighton,40,GK,7
+44,0.7,Marek Rodák,4,Fulham,45,GK,20
+45,,Bailey Peacock-Farrell,4,Burnley,40,GK,14
+46,,Caoimhin Kelleher,4,Liverpool,45,GK,2
+47,,Claudio Bravo,4,Man City,45,GK,10
+48,,David de Gea,4,Man Utd,55,GK,17
+49,,Dean Henderson,4,Man Utd,54,GK,17
+50,,Ederson Santana de Moraes,4,Man City,60,GK,10
+51,,Edouard Mendy,4,Chelsea,50,GK,6
+52,,Elia Caprile,4,Leeds,40,GK,12
+53,,Jed Steer,4,Aston Villa,40,GK,11
+54,,Nick Pope,4,Burnley,55,GK,14
+55,,Rúnar Alex Rúnarsson,4,Arsenal,45,GK,15
+56,,Sergio Romero,4,Man Utd,50,GK,17
+57,,Tom Heaton,4,Aston Villa,45,GK,11
+58,,Zack Steffen,4,Man City,45,GK,10
+59,,Ørjan Nyland,4,Aston Villa,40,GK,11
+60,5.41,Matt Doherty,4,Spurs,59,DEF,13
+61,5.14,Çaglar Söyüncü,4,Leicester,55,DEF,19
+62,5.04,Ryan Bertrand,4,Southampton,50,DEF,18
+63,4.98,Andrew Robertson,4,Liverpool,70,DEF,2
+64,4.83,Trent Alexander-Arnold,4,Liverpool,75,DEF,2
+65,4.83,Kyle Walker-Peters,4,Southampton,45,DEF,18
+66,4.76,Reece James,4,Chelsea,51,DEF,6
+67,4.74,Ben Davies,4,Spurs,49,DEF,13
+68,4.67,James Justin,4,Leicester,47,DEF,19
+69,4.6,Jannik Vestergaard,4,Southampton,45,DEF,18
+70,4.5,Jan Bednarek,4,Southampton,45,DEF,18
+71,4.49,Michael Keane,4,Everton,50,DEF,3
+72,4.35,Yerry Mina,4,Everton,55,DEF,3
+73,4.26,Héctor Bellerín,4,Arsenal,50,DEF,15
+74,4.15,Robin Koch,4,Leeds,45,DEF,12
+75,4.09,Seamus Coleman,4,Everton,50,DEF,3
+76,4.06,Federico Fernández,4,Newcastle,50,DEF,4
+77,3.99,Javier Manquillo,4,Newcastle,45,DEF,4
+78,3.94,Jamaal Lascelles,4,Newcastle,45,DEF,4
+79,3.83,Rob Holding,4,Arsenal,45,DEF,15
+80,3.79,Kieran Tierney,4,Arsenal,54,DEF,15
+81,3.78,Lucas Digne,4,Everton,61,DEF,3
+82,3.78,Willy Boly,4,Wolves,55,DEF,8
+83,3.75,Virgil van Dijk,4,Liverpool,65,DEF,2
+84,3.75,Davinson Sánchez,4,Spurs,54,DEF,13
+85,3.72,Stuart Dallas,4,Leeds,45,DEF,12
+86,3.62,Luke Ayling,4,Leeds,45,DEF,12
+87,3.54,Conor Coady,4,Wolves,50,DEF,8
+88,3.48,Rúben Gonçalo Silva Nascimento Vinagre,4,Wolves,44,DEF,8
+89,3.43,Daniel Amartey,4,Leicester,40,DEF,19
+90,3.38,Jonny Evans,4,Leicester,55,DEF,19
+91,3.34,Eric Dier,4,Spurs,50,DEF,13
+92,3.34,Romain Saïss,4,Wolves,51,DEF,8
+93,3.2,Ainsley Maitland-Niles,4,Arsenal,50,DEF,15
+94,3.16,Andreas Christensen,4,Chelsea,49,DEF,6
+95,3.15,Jamal Lewis,4,Newcastle,45,DEF,4
+96,3.08,Timothy Castagne,4,Leicester,57,DEF,19
+97,2.89,Jack Stephens,4,Southampton,49,DEF,18
+98,2.74,Liam Cooper,4,Leeds,44,DEF,12
+99,2.7,David Luiz Moreira Marinho,4,Arsenal,55,DEF,15
+100,2.67,Marcos Alonso,4,Chelsea,59,DEF,6
+101,2.52,Enda Stevens,4,Sheffield Utd,54,DEF,1
+102,2.5,George Baldock,4,Sheffield Utd,54,DEF,1
+103,2.23,Denis Odoi,4,Fulham,45,DEF,20
+104,2.22,Joe Bryan,4,Fulham,49,DEF,20
+105,2.17,Joel Ward,4,Crystal Palace,45,DEF,5
+106,2.12,Tyrick Mitchell,4,Crystal Palace,41,DEF,5
+107,2.11,Gabriel Magalhães,4,Arsenal,51,DEF,15
+108,2.05,Kyle Bartley,4,West Brom,45,DEF,16
+109,2.0,Chris Basham,4,Sheffield Utd,49,DEF,1
+110,2.0,César Azpilicueta,4,Chelsea,59,DEF,6
+111,1.99,Sead Kolasinac,4,Arsenal,49,DEF,15
+112,1.97,Joseph Gomez,4,Liverpool,54,DEF,2
+113,1.94,Jarrad Branthwaite,4,Everton,40,DEF,3
+114,1.9,Thiago Thiago,4,Chelsea,55,DEF,6
+115,1.88,Fikayo Tomori,4,Chelsea,49,DEF,6
+116,1.87,Jake Vokins,4,Southampton,40,DEF,18
+117,1.87,Tariq Lamptey,4,Brighton,46,DEF,7
+118,1.86,Luke Thomas,4,Leicester,43,DEF,19
+119,1.85,Ricardo Domingos Barbosa Pereira,4,Leicester,59,DEF,19
+120,1.85,Mason Holgate,4,Everton,49,DEF,3
+121,1.85,Filip Benkovic,4,Leicester,44,DEF,19
+122,1.85,Jonjoe Kenny,4,Everton,44,DEF,3
+123,1.85,Christian Fuchs,4,Leicester,45,DEF,19
+124,1.85,Mohammed Salisu,4,Southampton,44,DEF,18
+125,1.85,Yan Valery,4,Southampton,49,DEF,18
+126,1.84,Wes Morgan,4,Leicester,44,DEF,19
+127,1.83,Darnell Furlong,4,West Brom,45,DEF,16
+128,1.8,Mamadou Sakho,4,Crystal Palace,45,DEF,5
+129,1.74,Kurt Zouma,4,Chelsea,50,DEF,6
+130,1.74,Michael Hector,4,Fulham,44,DEF,20
+131,1.74,Fernando Marçal,4,Wolves,49,DEF,8
+132,1.72,Oluwasemilogo Adesewo Ibidapo Ajayi,4,West Brom,49,DEF,16
+133,1.71,William Saliba,4,Arsenal,43,DEF,15
+134,1.67,Angelo Ogbonna,4,West Ham,49,DEF,9
+135,1.65,Max Kilman,4,Wolves,40,DEF,8
+136,1.65,Aaron Cresswell,4,West Ham,49,DEF,9
+137,1.64,Oskar Buur,4,Wolves,40,DEF,8
+138,1.64,Cédric Soares,4,Arsenal,48,DEF,15
+139,1.63,Pablo Marí,4,Arsenal,45,DEF,15
+140,1.63,Kelland Watts,4,Newcastle,40,DEF,4
+141,1.63,Paul Dummett,4,Newcastle,44,DEF,4
+142,1.63,Jonathan Castro Otto,4,Wolves,54,DEF,8
+143,1.63,Ryan Bennett,4,Wolves,44,DEF,8
+144,1.63,Ciaran Clark,4,Newcastle,45,DEF,4
+145,1.63,Sokratis Papastathopoulos,4,Arsenal,49,DEF,15
+146,1.63,Florian Lejeune,4,Newcastle,44,DEF,4
+147,1.63,Fabian Schär,4,Newcastle,49,DEF,4
+148,1.63,Emil Krafth,4,Newcastle,44,DEF,4
+149,1.63,DeAndre Yedlin,4,Newcastle,44,DEF,4
+150,1.63,Calum Chambers,4,Arsenal,45,DEF,15
+151,1.63,Shkodran Mustafi,4,Arsenal,50,DEF,15
+152,1.6,Arthur Masuaku,4,West Ham,45,DEF,9
+153,1.53,Dara O'Shea,4,West Brom,44,DEF,16
+154,1.52,Ezgjan Alioski,4,Leeds,44,DEF,12
+155,1.52,Adam Webster,4,Brighton,45,DEF,7
+156,1.51,Lewis Dunk,4,Brighton,50,DEF,7
+157,1.5,Serge Aurier,4,Spurs,52,DEF,13
+158,1.48,Barry Douglas,4,Leeds,40,DEF,12
+159,1.47,Ryan Fredericks,4,West Ham,45,DEF,9
+160,1.45,Antonio Rüdiger,4,Chelsea,47,DEF,6
+161,1.43,Ethan Ampadu,4,Sheffield Utd,45,DEF,1
+162,1.42,Kenny Tete,4,Fulham,45,DEF,20
+163,1.42,Toby Alderweireld,4,Spurs,54,DEF,13
+164,1.41,Jack Robinson,4,Sheffield Utd,44,DEF,1
+165,1.41,Ben White,4,Brighton,45,DEF,7
+166,1.41,Tim Ream,4,Fulham,44,DEF,20
+167,1.41,Benjamin Chilwell,4,Chelsea,55,DEF,6
+168,1.4,Danny Rose,4,Spurs,49,DEF,13
+169,1.39,Ryan Sessegnon,4,Spurs,49,DEF,13
+170,1.39,Emerson Palmieri dos Santos,4,Chelsea,49,DEF,6
+171,1.39,Japhet Tanganga,4,Spurs,49,DEF,13
+172,1.39,Cameron Carter-Vickers,4,Spurs,40,DEF,13
+173,1.39,Juan Foyth,4,Spurs,44,DEF,13
+174,1.35,John Egan,4,Sheffield Utd,49,DEF,1
+175,1.26,Jack O'Connell,4,Sheffield Utd,49,DEF,1
+176,1.21,Leif Davis,4,Leeds,40,DEF,12
+177,1.21,Oliver Casey,4,Leeds,40,DEF,12
+178,1.18,Pascal Struijk,4,Leeds,40,DEF,12
+179,1.17,Fabián Balbuena,4,West Ham,44,DEF,9
+180,1.14,Maxime Le Marchand,4,Fulham,44,DEF,20
+181,1.13,Neco Williams,4,Liverpool,40,DEF,2
+182,1.1,Martin Kelly,4,Crystal Palace,44,DEF,5
+183,1.1,Nathan Ferguson,4,Crystal Palace,40,DEF,5
+184,1.09,Sam Woods,4,Crystal Palace,40,DEF,5
+185,1.09,Konstantinos Tsimikas,4,Liverpool,49,DEF,2
+186,1.09,Patrick van Aanholt,4,Crystal Palace,54,DEF,5
+187,1.09,James Tomkins,4,Crystal Palace,45,DEF,5
+188,1.09,Gary Cahill,4,Crystal Palace,45,DEF,5
+189,1.09,Joel Matip,4,Liverpool,54,DEF,2
+190,1.07,Conor Townsend,4,West Brom,45,DEF,16
+191,1.05,Issa Diop,4,West Ham,45,DEF,9
+192,1.05,Scott Dann,4,Crystal Palace,45,DEF,5
+193,1.03,Zeze Steven Sessegnon,4,Fulham,44,DEF,20
+194,1.02,Alfie Mawson,4,Fulham,44,DEF,20
+195,1.02,Max Lowe,4,Sheffield Utd,45,DEF,1
+196,1.02,Phil Jagielka,4,Sheffield Utd,40,DEF,1
+197,1.02,Cyrus Christie,4,Fulham,44,DEF,20
+198,1.02,Jayden Bogle,4,Sheffield Utd,45,DEF,1
+199,1.02,Antonee Robinson,4,Fulham,44,DEF,20
+200,0.99,Ben Johnson,4,West Ham,40,DEF,9
+201,0.94,Bernardo Fernandes da Silva Junior,4,Brighton,40,DEF,7
+202,0.87,Dan Burn,4,Brighton,44,DEF,7
+203,0.87,Ahmed El-Sayed Hegazy,4,West Brom,44,DEF,16
+204,0.87,Kieran Gibbs,4,West Brom,44,DEF,16
+205,0.86,Cedric Kipre,4,West Brom,45,DEF,16
+206,0.86,Matthew Clarke,4,Brighton,45,DEF,7
+207,0.86,Joël Veltman,4,Brighton,44,DEF,7
+208,0.86,Martín Montoya,4,Brighton,45,DEF,7
+209,0.86,Shane Duffy,4,Brighton,44,DEF,7
+210,,Aaron Wan-Bissaka,4,Man Utd,54,DEF,17
+211,,Ahmed El Mohamady,4,Aston Villa,45,DEF,11
+212,,Anthony Driscoll-Glennon,4,Burnley,40,DEF,14
+213,,Axel Tuanzebe,4,Man Utd,45,DEF,17
+214,,Aymeric Laporte,4,Man City,60,DEF,10
+215,,Benjamin Mendy,4,Man City,60,DEF,10
+216,,Ben Gibson,4,Burnley,40,DEF,14
+217,,Ben Mee,4,Burnley,50,DEF,14
+218,,Bjorn Engels,4,Aston Villa,44,DEF,11
+219,,Bobby Thomas,4,Burnley,40,DEF,14
+220,,Brandon Williams,4,Man Utd,44,DEF,17
+221,,Branislav Ivanovic,4,West Brom,45,DEF,16
+222,,Charlie Taylor,4,Burnley,45,DEF,14
+223,,Chris Smalling,4,Man Utd,49,DEF,17
+224,,Diego Llorente,4,Leeds,45,DEF,12
+225,,Eric Bailly,4,Man Utd,50,DEF,17
+226,,Eric Garcia,4,Man City,49,DEF,10
+227,,Erik Pieters,4,Burnley,45,DEF,14
+228,,Ezri Konsa Ngoyo,4,Aston Villa,45,DEF,11
+229,,Fernando Luiz Rosa,4,Man City,55,DEF,10
+230,,Frédéric Guilbert,4,Aston Villa,45,DEF,11
+231,,Harry Maguire,4,Man Utd,55,DEF,17
+232,,James Bree,4,Aston Villa,45,DEF,11
+233,,James Tarkowski,4,Burnley,54,DEF,14
+234,,Jimmy Dunne,4,Burnley,40,DEF,14
+235,,John Stones,4,Man City,50,DEF,10
+236,,José Diogo Dalot Teixeira,4,Man Utd,49,DEF,17
+237,,João Pedro Cavaco Cancelo,4,Man City,54,DEF,10
+238,,Kevin Long,4,Burnley,45,DEF,14
+239,,Ki-Jana Hoever,4,Wolves,45,DEF,8
+240,,Kortney Hause,4,Aston Villa,45,DEF,11
+241,,Kyle Walker,4,Man City,60,DEF,10
+242,,Luke Shaw,4,Man Utd,50,DEF,17
+243,,Marcos Rojo,4,Man Utd,49,DEF,17
+244,,Matthew Cash,4,Aston Villa,50,DEF,11
+245,,Matthew Lowton,4,Burnley,45,DEF,14
+246,,Matt Targett,4,Aston Villa,45,DEF,11
+247,,Nathan Aké,4,Man City,55,DEF,10
+248,,Neil Taylor,4,Aston Villa,45,DEF,11
+249,,Nicolás Otamendi,4,Man City,49,DEF,10
+250,,Niels Nkounkou,4,Everton,40,DEF,3
+251,,Nélson Cabral Semedo,4,Wolves,55,DEF,8
+252,,Ola Aina,4,Fulham,45,DEF,20
+253,,Oleksandr Zinchenko,4,Man City,55,DEF,10
+254,,Phil Bardsley,4,Burnley,45,DEF,14
+255,,Phil Jones,4,Man Utd,49,DEF,17
+256,,Ryan Inniss,4,Crystal Palace,40,DEF,5
+257,,Rúben Santos Gato Alves Dias,4,Man City,55,DEF,10
+258,,Sergio Reguilón,4,Spurs,55,DEF,13
+259,,Teden Mengi,4,Man Utd,40,DEF,17
+260,,Timothy Fosu-Mensah,4,Man Utd,45,DEF,17
+261,,Tyrone Mings,4,Aston Villa,50,DEF,11
+262,,Victor Lindelöf,4,Man Utd,49,DEF,17
+263,,Vladimir Coufal,4,West Ham,45,DEF,9
+264,,Wesley Fofana,4,Leicester,50,DEF,19
+265,8.95,Heung-Min Son,4,Spurs,90,MID,13
+266,8.57,Mohamed Salah,4,Liverpool,122,MID,2
+267,7.19,Harvey Barnes,4,Leicester,71,MID,19
+268,6.72,James Rodríguez,4,Everton,77,MID,3
+269,6.72,Pierre-Emerick Aubameyang,4,Arsenal,119,MID,15
+270,6.44,Wilfried Zaha,4,Crystal Palace,72,MID,5
+271,6.14,Sadio Mané,4,Liverpool,119,MID,2
+272,5.2,Mason Mount,4,Chelsea,69,MID,6
+273,5.12,Dennis Praet,4,Leicester,55,MID,19
+274,4.61,James Ward-Prowse,4,Southampton,59,MID,18
+275,4.56,Lucas Rodrigues Moura da Silva,4,Spurs,69,MID,13
+276,4.56,Adama Traoré,4,Wolves,65,MID,8
+277,4.54,Willian Borges Da Silva,4,Arsenal,80,MID,15
+278,4.53,Abdoulaye Doucouré,4,Everton,55,MID,3
+279,4.33,James Maddison,4,Leicester,70,MID,19
+280,4.32,Stuart Armstrong,4,Southampton,55,MID,18
+281,4.28,Miguel Almirón,4,Newcastle,59,MID,4
+282,4.25,Moussa Djenepo,4,Southampton,55,MID,18
+283,4.19,Jonjo Shelvey,4,Newcastle,55,MID,4
+284,4.14,Youri Tielemans,4,Leicester,64,MID,19
+285,4.14,Kai Havertz,4,Chelsea,84,MID,6
+286,4.08,Hélder Wander Sousa de Azevedo e Costa,4,Leeds,57,MID,12
+287,4.04,Giovani Lo Celso,4,Spurs,69,MID,13
+288,4.02,Pedro Lomba Neto,4,Wolves,55,MID,8
+289,3.96,Rúben Diogo da Silva Neves,4,Wolves,54,MID,8
+290,3.91,Mateusz Klich,4,Leeds,56,MID,12
+291,3.79,Oriol Romeu Vidal,4,Southampton,45,MID,18
+292,3.79,Jack Harrison,4,Leeds,55,MID,12
+293,3.72,Andros Townsend,4,Crystal Palace,61,MID,5
+294,3.7,Allan Saint-Maximin,4,Newcastle,54,MID,4
+295,3.7,Nampalys Mendy,4,Leicester,45,MID,19
+296,3.69,Jeff Hendrick,4,Newcastle,51,MID,4
+297,3.67,João Filipe Iria Santos Moutinho,4,Wolves,55,MID,8
+298,3.63,Allan Marques Loureiro,4,Everton,55,MID,3
+299,3.62,Ayoze Pérez,4,Leicester,63,MID,19
+300,3.58,Callum Hudson-Odoi,4,Chelsea,58,MID,6
+301,3.58,André Filipe Tavares Gomes,4,Everton,55,MID,3
+302,3.54,Matt Ritchie,4,Newcastle,50,MID,4
+303,3.5,Bukayo Saka,4,Arsenal,53,MID,15
+304,3.48,Tomas Soucek,4,West Ham,50,MID,9
+305,3.46,John Lundstram,4,Sheffield Utd,54,MID,1
+306,3.27,Daniel Castelo Podence,4,Wolves,56,MID,8
+307,3.27,Daniel Ceballos Fernández,4,Arsenal,50,MID,15
+308,3.2,Steven Bergwijn,4,Spurs,72,MID,13
+309,3.14,Isaac Hayden,4,Newcastle,50,MID,4
+310,3.13,Gylfi Sigurdsson,4,Everton,69,MID,3
+311,3.13,Matheus Pereira,4,West Brom,60,MID,16
+312,3.12,Oliver Burke,4,Sheffield Utd,45,MID,1
+313,3.1,Pierre-Emile Højbjerg,4,Spurs,49,MID,13
+314,3.09,Ivan Ricardo Neves Abreu Cavaleiro,4,Fulham,55,MID,20
+315,3.08,Solomon March,4,Brighton,50,MID,7
+316,3.08,Cheikhou Kouyaté,4,Crystal Palace,50,MID,5
+317,3.02,Leandro Trossard,4,Brighton,60,MID,7
+318,3.02,Kalvin Phillips,4,Leeds,50,MID,12
+319,2.99,André-Frank Zambo Anguissa,4,Fulham,45,MID,20
+320,2.97,Nicolas Pépé,4,Arsenal,78,MID,15
+321,2.93,Georginio Wijnaldum,4,Liverpool,54,MID,2
+322,2.9,Jarrod Bowen,4,West Ham,63,MID,9
+323,2.87,Eberechi Eze,4,Crystal Palace,59,MID,5
+324,2.86,Nathan Redmond,4,Southampton,64,MID,18
+325,2.86,Diogo Jota,4,Liverpool,63,MID,2
+326,2.81,Jorge Luiz Frello Filho,4,Chelsea,51,MID,6
+327,2.79,Granit Xhaka,4,Arsenal,55,MID,15
+328,2.78,Nathan Tella,4,Southampton,45,MID,18
+329,2.74,Pablo Fornals,4,West Ham,64,MID,9
+330,2.73,Dale Stephens,4,Burnley,44,MID,14
+331,2.71,Mohamed Naser El Sayed Elneny,4,Arsenal,45,MID,15
+332,2.71,Ben Osborn,4,Sheffield Utd,49,MID,1
+333,2.71,William Smallbone,4,Southampton,45,MID,18
+334,2.68,Erik Lamela,4,Spurs,59,MID,13
+335,2.66,N'Golo Kanté,4,Chelsea,50,MID,6
+336,2.64,Alex Iwobi,4,Everton,59,MID,3
+337,2.61,Ian Carlo Poveda-Ocampo,4,Leeds,44,MID,12
+338,2.58,Sander Berge,4,Sheffield Utd,50,MID,1
+339,2.57,Harry Winks,4,Spurs,55,MID,13
+340,2.55,Christian Pulisic,4,Chelsea,83,MID,6
+341,2.54,Naby Keita,4,Liverpool,54,MID,2
+342,2.54,Adrien Silva,4,Leicester,45,MID,19
+343,2.53,Anthony Gordon,4,Everton,44,MID,3
+344,2.52,Matty James,4,Leicester,45,MID,19
+345,2.52,Leander Dendoncker,4,Wolves,49,MID,8
+346,2.48,Marc Albrighton,4,Leicester,54,MID,19
+347,2.48,Theo Walcott,4,Everton,59,MID,3
+348,2.47,Josh Sims,4,Southampton,45,MID,18
+349,2.47,Bernard Anício Caldeira Duarte,4,Everton,59,MID,3
+350,2.47,Demarai Gray,4,Leicester,54,MID,19
+351,2.46,Tom Davies,4,Everton,54,MID,3
+352,2.46,Wilfred Ndidi,4,Leicester,49,MID,19
+353,2.45,Hamza Choudhury,4,Leicester,49,MID,19
+354,2.45,Sofiane Boufal,4,Southampton,54,MID,18
+355,2.45,Fabian Delph,4,Everton,49,MID,3
+356,2.44,Jean-Philippe Gbamin,4,Everton,50,MID,3
+357,2.41,Grady Diangana,4,West Brom,55,MID,16
+358,2.36,Bamidele Alli,4,Spurs,76,MID,13
+359,2.35,Vitor Ferreira,4,Wolves,50,MID,8
+360,2.27,Jeffrey Schlupp,4,Crystal Palace,55,MID,5
+361,2.27,Jacob Murphy,4,Newcastle,50,MID,4
+362,2.24,Tyler Roberts,4,Leeds,50,MID,12
+363,2.18,James McCarthy,4,Crystal Palace,45,MID,5
+364,2.13,Declan Rice,4,West Ham,49,MID,9
+365,2.1,Fabio Henrique Tavares,4,Liverpool,55,MID,2
+366,2.09,Jake Livermore,4,West Brom,49,MID,16
+367,2.08,Mesut Özil,4,Arsenal,68,MID,15
+368,2.05,James McArthur,4,Crystal Palace,55,MID,5
+369,2.05,Alireza Jahanbakhsh,4,Brighton,55,MID,7
+370,2.04,Ryan Fraser,4,Newcastle,59,MID,4
+371,2.02,Steven Alzate,4,Brighton,45,MID,7
+372,2.0,Bruno André Cavaco Jordao,4,Wolves,44,MID,8
+373,1.99,Tom Cairney,4,Fulham,54,MID,20
+374,1.98,Tanguy Ndombele,4,Spurs,59,MID,13
+375,1.97,Aboubakar Kamara,4,Fulham,50,MID,20
+376,1.96,Lucas Torreira,4,Arsenal,48,MID,15
+377,1.96,Matteo Guendouzi,4,Arsenal,48,MID,15
+378,1.96,Emile Smith Rowe,4,Arsenal,45,MID,15
+379,1.95,Romaine Sawyers,4,West Brom,50,MID,16
+380,1.95,Joseph Willock,4,Arsenal,49,MID,15
+381,1.94,Rolando Aarons,4,Newcastle,49,MID,4
+382,1.94,Reiss Nelson,4,Arsenal,53,MID,15
+383,1.94,Christian Atsu,4,Newcastle,54,MID,4
+384,1.94,Matthew Longstaff,4,Newcastle,49,MID,4
+385,1.94,Gabriel Teodoro Martinelli Silva,4,Arsenal,49,MID,15
+386,1.93,Morgan Gibbs-White,4,Wolves,50,MID,8
+387,1.9,Sean Longstaff,4,Newcastle,49,MID,4
+388,1.89,Mateo Kovacic,4,Chelsea,55,MID,6
+389,1.84,Ross Barkley,4,Aston Villa,59,MID,11
+390,1.71,Hakim Ziyech,4,Chelsea,79,MID,6
+391,1.67,Adam Lallana,4,Brighton,64,MID,7
+392,1.66,Moussa Sissoko,4,Spurs,49,MID,13
+393,1.64,Ruben Loftus-Cheek,4,Chelsea,59,MID,6
+394,1.53,Neeskens Kebano,4,Fulham,49,MID,20
+395,1.53,Billy Gilmour,4,Chelsea,45,MID,6
+396,1.53,Gedson Carvalho Fernandes,4,Spurs,49,MID,13
+397,1.52,Oliver Skipp,4,Spurs,45,MID,13
+398,1.42,Pablo Hernández Domínguez,4,Leeds,58,MID,12
+399,1.41,Jordan Henderson,4,Liverpool,54,MID,2
+400,1.41,Pascal Groß,4,Brighton,59,MID,7
+401,1.37,Oliver Norwood,4,Sheffield Utd,49,MID,1
+402,1.35,Yves Bissouma,4,Brighton,45,MID,7
+403,1.35,Jordan Stevens,4,Leeds,45,MID,12
+404,1.28,John Fleck,4,Sheffield Utd,58,MID,1
+405,1.27,Curtis Jones,4,Liverpool,45,MID,2
+406,1.26,Harrison Reed,4,Fulham,45,MID,20
+407,1.26,Josh Onomah,4,Fulham,49,MID,20
+408,1.26,Jay-Roy Grot,4,Leeds,49,MID,12
+409,1.25,Adam Forshaw,4,Leeds,49,MID,12
+410,1.24,Jamie Shackleton,4,Leeds,49,MID,12
+411,1.24,Luka Milivojevic,4,Crystal Palace,58,MID,5
+412,1.22,James Milner,4,Liverpool,54,MID,2
+413,1.21,Matt Phillips,4,West Brom,53,MID,16
+414,1.2,Mark Noble,4,West Ham,49,MID,9
+415,1.14,Takumi Minamino,4,Liverpool,62,MID,2
+416,1.13,Jairo Riedewald,4,Crystal Palace,44,MID,5
+417,1.11,Brandon Pierrick,4,Crystal Palace,45,MID,5
+418,1.11,Harry Wilson,4,Liverpool,53,MID,2
+419,1.11,Harvey Elliott,4,Liverpool,44,MID,2
+420,1.11,Alex Oxlade-Chamberlain,4,Liverpool,64,MID,2
+421,1.11,Xherdan Shaqiri,4,Liverpool,64,MID,2
+422,1.11,Max Meyer,4,Crystal Palace,49,MID,5
+423,1.1,Kyle Edwards,4,West Brom,49,MID,16
+424,1.1,Andriy Yarmolenko,4,West Ham,58,MID,9
+425,1.09,Rekeem Harper,4,West Brom,45,MID,16
+426,1.09,Mario Lemina,4,Fulham,45,MID,20
+427,1.07,Jean Michaël Seri,4,Fulham,48,MID,20
+428,1.07,Kevin McDonald,4,Fulham,48,MID,20
+429,1.07,Anthony Knockaert,4,Fulham,53,MID,20
+430,1.06,Sam Field,4,West Brom,49,MID,16
+431,1.06,Luke Freeman,4,Sheffield Utd,50,MID,1
+432,1.06,Stefan Johansen,4,Fulham,49,MID,20
+433,1.04,Manuel Lanzini,4,West Ham,64,MID,9
+434,1.04,Alexis Mac Allister,4,Brighton,54,MID,7
+435,1.04,Davy Pröpper,4,Brighton,49,MID,7
+436,1.04,Robert Snodgrass,4,West Ham,59,MID,9
+437,1.04,Kamil Grosicki,4,West Brom,53,MID,16
+438,1.04,José Izquierdo,4,Brighton,55,MID,7
+439,1.04,Jack Wilshere,4,West Ham,49,MID,9
+440,1.04,Jonathan Leko,4,West Brom,45,MID,16
+441,1.04,Aaron Mooy,4,Brighton,50,MID,7
+442,1.03,Felipe Anderson Pereira Gomes,4,West Ham,63,MID,9
+443,,Ademola Lookman,4,Fulham,50,MID,20
+444,,Adrián Bernabé,4,Man City,45,MID,10
+445,,Andreas Pereira,4,Man Utd,49,MID,17
+446,,Anwar El Ghazi,4,Aston Villa,59,MID,11
+447,,Ashley Westwood,4,Burnley,55,MID,14
+448,,Bernardo Mota Veiga de Carvalho e Silva,4,Man City,74,MID,10
+449,,Bertrand Traoré,4,Aston Villa,60,MID,11
+450,,Bruno Miguel Borges Fernandes,4,Man Utd,105,MID,17
+451,,Cengiz Ünder,4,Leicester,60,MID,19
+452,,Cole Palmer,4,Man City,45,MID,10
+453,,Conor Gallagher,4,West Brom,55,MID,16
+454,,Conor Hourihane,4,Aston Villa,60,MID,11
+455,,Daniel James,4,Man Utd,64,MID,17
+456,,Donny van de Beek,4,Man Utd,70,MID,17
+457,,Douglas Luiz Soares de Paulo,4,Aston Villa,50,MID,11
+458,,Dwight McNeil,4,Burnley,60,MID,14
+459,,Ferran Torres,4,Man City,69,MID,10
+460,,Filip Krovinovic,4,West Brom,50,MID,16
+461,,Frederico Rodrigues de Paula Santos,4,Man Utd,54,MID,17
+462,,Gareth Bale,4,Spurs,95,MID,13
+463,,Henri Lansbury,4,Aston Villa,45,MID,11
+464,,Ilkay Gündogan,4,Man City,54,MID,10
+465,,Jack Cork,4,Burnley,50,MID,14
+466,,Jack Grealish,4,Aston Villa,70,MID,11
+467,,Jacob Ramsey,4,Aston Villa,45,MID,11
+468,,James Garner,4,Man Utd,45,MID,17
+469,,Jayson Molumby,4,Brighton,45,MID,7
+470,,Jesse Lingard,4,Man Utd,59,MID,17
+471,,Johann Berg Gudmundsson,4,Burnley,54,MID,14
+472,,John McGinn,4,Aston Villa,55,MID,11
+473,,Josh Benson,4,Burnley,45,MID,14
+474,,Josh Brownhill,4,Burnley,50,MID,14
+475,,José Ignacio Peleteiro Romallo,4,Aston Villa,59,MID,11
+476,,Juan Mata,4,Man Utd,59,MID,17
+477,,Kevin De Bruyne,4,Man City,117,MID,10
+478,,Mace Goodridge,4,Burnley,45,MID,14
+479,,Mahmoud Ahmed Ibrahim Hassan,4,Aston Villa,55,MID,11
+480,,Marcus Rashford,4,Man Utd,95,MID,17
+481,,Marvelous Nakamba,4,Aston Villa,45,MID,11
+482,,Mason Greenwood,4,Man Utd,74,MID,17
+483,,Mateusz Bogusz,4,Leeds,45,MID,12
+484,,Meritan Shabani,4,Wolves,45,MID,8
+485,,Nemanja Matic,4,Man Utd,50,MID,17
+486,,Paul Pogba,4,Man Utd,79,MID,17
+487,,Phil Foden,4,Man City,66,MID,10
+488,,Raheem Sterling,4,Man City,115,MID,10
+489,,Riyad Mahrez,4,Man City,85,MID,10
+490,,Robbie Brady,4,Burnley,50,MID,14
+491,,Rodrigo Hernandez,4,Man City,55,MID,10
+492,,Scott McTominay,4,Man Utd,50,MID,17
+493,,Tahith Chong,4,Man Utd,45,MID,17
+494,,Thiago Alcántara do Nascimento,4,Liverpool,60,MID,2
+495,,Tommy Doyle,4,Man City,45,MID,10
+496,5.98,Jamie Vardy,4,Leicester,101,FWD,19
+497,5.88,Dominic Calvert-Lewin,4,Everton,75,FWD,3
+498,5.65,Timo Werner,4,Chelsea,94,FWD,6
+499,5.48,Raúl Jiménez,4,Wolves,86,FWD,8
+500,5.35,Richarlison de Andrade,4,Everton,80,FWD,3
+501,5.23,Danny Ings,4,Southampton,85,FWD,18
+502,4.86,Harry Kane,4,Spurs,105,FWD,13
+503,4.79,Callum Wilson,4,Newcastle,64,FWD,4
+504,4.71,Alexandre Lacazette,4,Arsenal,85,FWD,15
+505,4.43,Patrick Bamford,4,Leeds,58,FWD,12
+506,3.65,Aleksandar Mitrović,4,Fulham,60,FWD,20
+507,3.57,Michail Antonio,4,West Ham,63,FWD,9
+508,3.43,Che Adams,4,Southampton,59,FWD,18
+509,3.35,Roberto Firmino,4,Liverpool,94,FWD,2
+510,3.31,Tammy Abraham,4,Chelsea,73,FWD,6
+511,3.26,Neal Maupay,4,Brighton,65,FWD,7
+512,3.23,Joelinton Cássio Apolinário de Lira,4,Newcastle,59,FWD,4
+513,3.01,Jordan Ayew,4,Crystal Palace,59,FWD,5
+514,2.48,Fabio Silva,4,Wolves,54,FWD,8
+515,2.46,Aaron Connolly,4,Brighton,55,FWD,7
+516,2.38,David McGoldrick,4,Sheffield Utd,54,FWD,1
+517,2.24,Edward Nketiah,4,Arsenal,58,FWD,15
+518,2.24,Rodrigo Moreno,4,Leeds,58,FWD,12
+519,2.19,Michael Obafemi,4,Southampton,49,FWD,18
+520,2.16,Bobby Decordova-Reid,4,Fulham,55,FWD,20
+521,2.15,Callum Robinson,4,West Brom,55,FWD,16
+522,2.02,Kelechi Iheanacho,4,Leicester,58,FWD,19
+523,2.02,Moise Kean,4,Everton,59,FWD,3
+524,1.97,Shane Long,4,Southampton,54,FWD,18
+525,1.93,Cenk Tosun,4,Everton,60,FWD,3
+526,1.92,Andy Carroll,4,Newcastle,55,FWD,4
+527,1.75,Olivier Giroud,4,Chelsea,68,FWD,6
+528,1.71,Léo Bonatini,4,Wolves,49,FWD,8
+529,1.71,Yoshinori Muto,4,Newcastle,49,FWD,4
+530,1.71,Leonardo Campana,4,Wolves,50,FWD,8
+531,1.7,Dwight Gayle,4,Newcastle,59,FWD,4
+532,1.36,Oliver McBurnie,4,Sheffield Utd,58,FWD,1
+533,1.29,Michy Batshuayi,4,Crystal Palace,58,FWD,5
+534,1.29,Billy Sharp,4,Sheffield Utd,58,FWD,1
+535,1.24,Sébastien Haller,4,West Ham,63,FWD,9
+536,1.2,Hal Robson-Kanu,4,West Brom,54,FWD,16
+537,1.13,Rhian Brewster,4,Sheffield Utd,45,FWD,1
+538,1.11,Christian Benteke,4,Crystal Palace,55,FWD,5
+539,1.06,Connor Wickham,4,Crystal Palace,45,FWD,5
+540,1.05,Divock Origi,4,Liverpool,54,FWD,2
+541,0.91,Lys Mousset,4,Sheffield Utd,59,FWD,1
+542,0.86,Charlie Austin,4,West Brom,53,FWD,16
+543,0.85,Jordan Hugill,4,West Ham,55,FWD,9
+544,0.85,Albian Ajeti,4,West Ham,55,FWD,9
+545,0.85,Kenneth Zohore,4,West Brom,49,FWD,16
+546,0.85,Florin Andone,4,Brighton,49,FWD,7
+547,0.85,Glenn Murray,4,Brighton,49,FWD,7
+548,,Anthony Martial,4,Man Utd,89,FWD,17
+549,,Ashley Barnes,4,Burnley,60,FWD,14
+550,,Chris Wood,4,Burnley,65,FWD,14
+551,,Gabriel Fernando de Jesus,4,Man City,94,FWD,10
+552,,Indiana Vassilev,4,Aston Villa,45,FWD,11
+553,,Jay Rodriguez,4,Burnley,59,FWD,14
+554,,Keinan Davis,4,Aston Villa,45,FWD,11
+555,,Liam Delap,4,Man City,45,FWD,10
+556,,Matej Vydra,4,Burnley,50,FWD,14
+557,,Mbwana Samatta,4,Aston Villa,59,FWD,11
+558,,Odion Ighalo,4,Man Utd,63,FWD,17
+559,,Ollie Watkins,4,Aston Villa,60,FWD,11
+560,,Sergio Agüero,4,Man City,104,FWD,10
+561,,Wesley Moraes,4,Aston Villa,60,FWD,11
+562,3.85,Alex McCarthy,5,Southampton,45,GK,5
+563,3.63,Vicente Guaita,5,Crystal Palace,50,GK,3
+564,3.51,Kasper Schmeichel,5,Leicester,55,GK,2
+565,3.38,Jordan Pickford,5,Everton,50,GK,11
+566,3.38,Hugo Lloris,5,Spurs,55,GK,19
+567,3.38,Rui Pedro dos Santos Patrício,5,Wolves,55,GK,10
+568,3.29,Ederson Santana de Moraes,5,Man City,60,GK,1
+569,3.25,Sam Johnstone,5,West Brom,45,GK,4
+570,3.24,Aaron Ramsdale,5,Sheffield Utd,50,GK,8
+571,3.14,Nick Pope,5,Burnley,55,GK,18
+572,3.1,Karl Darlow,5,Newcastle,50,GK,13
+573,3.07,Bernd Leno,5,Arsenal,50,GK,12
+574,2.97,David de Gea,5,Man Utd,55,GK,14
+575,2.9,Alphonse Areola,5,Fulham,45,GK,15
+576,2.84,Illan Meslier,5,Leeds,45,GK,20
+577,2.76,Lukasz Fabianski,5,West Ham,50,GK,17
+578,2.63,Emiliano Martínez,5,Aston Villa,47,GK,9
+579,2.56,Adrián San Miguel del Castillo,5,Liverpool,45,GK,7
+580,2.45,Mathew Ryan,5,Brighton,45,GK,6
+581,1.51,Wayne Hennessey,5,Crystal Palace,44,GK,3
+582,1.51,Joe Hart,5,Spurs,44,GK,19
+583,1.5,Paulo Gazzaniga,5,Spurs,44,GK,19
+584,1.4,Danny Ward,5,Leicester,45,GK,2
+585,1.38,David Button,5,West Brom,40,GK,4
+586,1.29,Mark Gillespie,5,Newcastle,45,GK,13
+587,1.29,Martin Dubravka,5,Newcastle,49,GK,13
+588,1.29,Zack Steffen,5,Man City,45,GK,1
+589,1.29,Wes Foderingham,5,Sheffield Utd,44,GK,8
+590,1.29,João Virgínia,5,Everton,44,GK,11
+591,1.29,Simon Moore,5,Sheffield Utd,44,GK,8
+592,1.29,Jonas Lössl,5,Everton,44,GK,11
+593,1.29,Claudio Bravo,5,Man City,45,GK,1
+594,1.22,Francisco Casilla Cortés,5,Leeds,44,GK,20
+595,1.22,Willy Caballero,5,Chelsea,49,GK,16
+596,1.21,Kamil Miazek,5,Leeds,40,GK,20
+597,1.21,Ørjan Nyland,5,Aston Villa,40,GK,9
+598,1.17,Matija Sarkic,5,Wolves,45,GK,10
+599,1.17,Elia Caprile,5,Leeds,40,GK,20
+600,1.17,John Ruddy,5,Wolves,45,GK,10
+601,1.11,Dean Henderson,5,Man Utd,54,GK,14
+602,1.09,Alisson Ramses Becker,5,Liverpool,60,GK,7
+603,1.07,Fabricio Agosto Ramírez,5,Fulham,40,GK,15
+604,1.05,Bailey Peacock-Farrell,5,Burnley,40,GK,18
+605,1.04,Marek Rodák,5,Fulham,44,GK,15
+606,1.04,Angus Gunn,5,Southampton,44,GK,5
+607,1.04,Sergio Romero,5,Man Utd,49,GK,14
+608,1.04,Marcus Bettinelli,5,Fulham,44,GK,15
+609,1.04,Matt Macey,5,Arsenal,40,GK,12
+610,1.04,Fraser Forster,5,Southampton,40,GK,5
+611,0.98,Kepa Arrizabalaga,5,Chelsea,48,GK,16
+612,0.98,Jed Steer,5,Aston Villa,40,GK,9
+613,0.91,David Martin,5,West Ham,40,GK,17
+614,0.9,Tom Heaton,5,Aston Villa,45,GK,9
+615,0.81,Christian Walton,5,Brighton,40,GK,6
+616,0.81,Jason Steele,5,Brighton,40,GK,6
+617,0.8,Darren Randolph,5,West Ham,45,GK,17
+618,0.8,Roberto Jimenez Gago,5,West Ham,45,GK,17
+619,,Caoimhin Kelleher,5,Liverpool,45,GK,7
+620,,Edouard Mendy,5,Chelsea,50,GK,16
+621,,Michael Verrips,5,Sheffield Utd,40,GK,8
+622,,Robin Olsen,5,Everton,45,GK,11
+623,,Rúnar Alex Rúnarsson,5,Arsenal,45,GK,12
+624,,Stephen Henderson,5,Crystal Palace,40,GK,3
+625,,Will Norris,5,Burnley,40,GK,18
+626,4.7,Çaglar Söyüncü,5,Leicester,55,DEF,2
+627,4.68,Davinson Sánchez,5,Spurs,54,DEF,19
+628,4.53,Timothy Castagne,5,Leicester,58,DEF,2
+629,4.11,Serge Aurier,5,Spurs,52,DEF,19
+630,4.1,Lucas Digne,5,Everton,61,DEF,11
+631,4.09,Trent Alexander-Arnold,5,Liverpool,75,DEF,7
+632,3.9,Eric Dier,5,Spurs,50,DEF,19
+633,3.79,Yerry Mina,5,Everton,55,DEF,11
+634,3.73,César Azpilicueta,5,Chelsea,59,DEF,16
+635,3.7,Joel Ward,5,Crystal Palace,45,DEF,3
+636,3.64,Tyrick Mitchell,5,Crystal Palace,41,DEF,3
+637,3.61,Stuart Dallas,5,Leeds,45,DEF,20
+638,3.59,Kurt Zouma,5,Chelsea,50,DEF,16
+639,3.57,Kyle Walker,5,Man City,60,DEF,1
+640,3.54,Benjamin Chilwell,5,Chelsea,56,DEF,16
+641,3.43,Mamadou Sakho,5,Crystal Palace,45,DEF,3
+642,3.37,Kyle Walker-Peters,5,Southampton,45,DEF,5
+643,3.37,Enda Stevens,5,Sheffield Utd,54,DEF,8
+644,3.35,George Baldock,5,Sheffield Utd,54,DEF,8
+645,3.34,Conor Coady,5,Wolves,50,DEF,10
+646,3.33,Dara O'Shea,5,West Brom,44,DEF,4
+647,3.29,Matt Doherty,5,Spurs,59,DEF,19
+648,3.28,John Egan,5,Sheffield Utd,49,DEF,8
+649,3.19,Thiago Thiago,5,Chelsea,55,DEF,16
+650,3.18,Luke Ayling,5,Leeds,45,DEF,20
+651,3.18,Federico Fernández,5,Newcastle,50,DEF,13
+652,3.11,Jonny Evans,5,Leicester,55,DEF,2
+653,3.09,Chris Basham,5,Sheffield Utd,49,DEF,8
+654,3.06,Jack Robinson,5,Sheffield Utd,44,DEF,8
+655,3.04,Willy Boly,5,Wolves,55,DEF,10
+656,3.04,Oluwasemilogo Adesewo Ibidapo Ajayi,5,West Brom,49,DEF,4
+657,3.03,Virgil van Dijk,5,Liverpool,65,DEF,7
+658,2.89,Liam Cooper,5,Leeds,44,DEF,20
+659,2.89,Romain Saïss,5,Wolves,51,DEF,10
+660,2.87,Daniel Amartey,5,Leicester,40,DEF,2
+661,2.87,Robin Koch,5,Leeds,45,DEF,20
+662,2.83,Charlie Taylor,5,Burnley,45,DEF,18
+663,2.82,James Justin,5,Leicester,47,DEF,2
+664,2.78,Conor Townsend,5,West Brom,45,DEF,4
+665,2.76,Aymeric Laporte,5,Man City,60,DEF,1
+666,2.6,Kyle Bartley,5,West Brom,45,DEF,4
+667,2.58,Michael Keane,5,Everton,50,DEF,11
+668,2.54,Emil Krafth,5,Newcastle,44,DEF,13
+669,2.51,Joe Bryan,5,Fulham,49,DEF,15
+670,2.48,Max Kilman,5,Wolves,40,DEF,10
+671,2.46,Héctor Bellerín,5,Arsenal,50,DEF,12
+672,2.42,Jamal Lewis,5,Newcastle,44,DEF,13
+673,2.41,Benjamin Mendy,5,Man City,60,DEF,1
+674,2.39,Kevin Long,5,Burnley,45,DEF,18
+675,2.38,Seamus Coleman,5,Everton,50,DEF,11
+676,2.25,Jan Bednarek,5,Southampton,45,DEF,5
+677,2.23,Kieran Tierney,5,Arsenal,54,DEF,12
+678,2.22,Harry Maguire,5,Man Utd,54,DEF,14
+679,2.15,Ryan Bertrand,5,Southampton,50,DEF,5
+680,2.13,Phil Bardsley,5,Burnley,45,DEF,18
+681,2.06,James Tarkowski,5,Burnley,54,DEF,18
+682,2.03,Ben Davies,5,Spurs,49,DEF,19
+683,2.03,Luke Shaw,5,Man Utd,49,DEF,14
+684,2.01,Aaron Wan-Bissaka,5,Man Utd,54,DEF,14
+685,2.01,Andrew Robertson,5,Liverpool,70,DEF,7
+686,2.0,David Luiz Moreira Marinho,5,Arsenal,55,DEF,12
+687,2.0,Javier Manquillo,5,Newcastle,45,DEF,13
+688,1.94,Antonee Robinson,5,Fulham,44,DEF,15
+689,1.88,Maxime Le Marchand,5,Fulham,44,DEF,15
+690,1.86,Tim Ream,5,Fulham,44,DEF,15
+691,1.85,Fernando Luiz Rosa,5,Man City,55,DEF,1
+692,1.84,Fabian Schär,5,Newcastle,49,DEF,13
+693,1.84,Jannik Vestergaard,5,Southampton,45,DEF,5
+694,1.77,Nathan Aké,5,Man City,55,DEF,1
+695,1.72,Tyrone Mings,5,Aston Villa,51,DEF,9
+696,1.66,Andreas Christensen,5,Chelsea,49,DEF,16
+697,1.65,Lewis Dunk,5,Brighton,49,DEF,6
+698,1.65,Aaron Cresswell,5,West Ham,49,DEF,17
+699,1.64,Matthew Cash,5,Aston Villa,50,DEF,9
+700,1.62,Ethan Ampadu,5,Sheffield Utd,45,DEF,8
+701,1.6,Darnell Furlong,5,West Brom,45,DEF,4
+702,1.59,Adam Webster,5,Brighton,45,DEF,6
+703,1.58,Toby Alderweireld,5,Spurs,54,DEF,19
+704,1.56,Jamaal Lascelles,5,Newcastle,45,DEF,13
+705,1.56,Marcos Alonso,5,Chelsea,59,DEF,16
+706,1.55,Nathan Ferguson,5,Crystal Palace,40,DEF,3
+707,1.54,Martin Kelly,5,Crystal Palace,43,DEF,3
+708,1.53,Eric Garcia,5,Man City,48,DEF,1
+709,1.51,Juan Foyth,5,Spurs,44,DEF,19
+710,1.51,Scott Dann,5,Crystal Palace,45,DEF,3
+711,1.51,Ryan Sessegnon,5,Spurs,48,DEF,19
+712,1.51,Danny Rose,5,Spurs,48,DEF,19
+713,1.51,Cameron Carter-Vickers,5,Spurs,40,DEF,19
+714,1.5,Gary Cahill,5,Crystal Palace,45,DEF,3
+715,1.5,Japhet Tanganga,5,Spurs,49,DEF,19
+716,1.5,Patrick van Aanholt,5,Crystal Palace,54,DEF,3
+717,1.5,Ryan Inniss,5,Crystal Palace,40,DEF,3
+718,1.5,Rúben Gonçalo Silva Nascimento Vinagre,5,Wolves,43,DEF,10
+719,1.5,Sam Woods,5,Crystal Palace,40,DEF,3
+720,1.5,James Tomkins,5,Crystal Palace,45,DEF,3
+721,1.47,Gabriel Magalhães,5,Arsenal,51,DEF,12
+722,1.47,Ezgjan Alioski,5,Leeds,44,DEF,20
+723,1.45,Matt Targett,5,Aston Villa,45,DEF,9
+724,1.4,Joseph Gomez,5,Liverpool,54,DEF,7
+725,1.37,Christian Fuchs,5,Leicester,45,DEF,2
+726,1.36,Ezri Konsa Ngoyo,5,Aston Villa,46,DEF,9
+727,1.34,Luke Thomas,5,Leicester,43,DEF,2
+728,1.34,Angelo Ogbonna,5,West Ham,49,DEF,17
+729,1.33,Filip Benkovic,5,Leicester,44,DEF,2
+730,1.33,Ricardo Domingos Barbosa Pereira,5,Leicester,59,DEF,2
+731,1.32,Eric Bailly,5,Man Utd,50,DEF,14
+732,1.32,Arthur Masuaku,5,West Ham,45,DEF,17
+733,1.32,Wes Morgan,5,Leicester,44,DEF,2
+734,1.31,Ben White,5,Brighton,45,DEF,6
+735,1.3,Victor Lindelöf,5,Man Utd,49,DEF,14
+736,1.29,Barry Douglas,5,Leeds,39,DEF,20
+737,1.26,Rob Holding,5,Arsenal,45,DEF,12
+738,1.26,Jarrad Branthwaite,5,Everton,39,DEF,11
+739,1.25,Ainsley Maitland-Niles,5,Arsenal,49,DEF,12
+740,1.23,Antonio Rüdiger,5,Chelsea,47,DEF,16
+741,1.22,Tariq Lamptey,5,Brighton,47,DEF,6
+742,1.21,Ahmed El-Sayed Hegazy,5,West Brom,43,DEF,4
+743,1.2,João Pedro Cavaco Cancelo,5,Man City,54,DEF,1
+744,1.19,Nicolás Otamendi,5,Man City,49,DEF,1
+745,1.19,Oleksandr Zinchenko,5,Man City,55,DEF,1
+746,1.19,DeAndre Yedlin,5,Newcastle,44,DEF,13
+747,1.19,Denis Odoi,5,Fulham,45,DEF,15
+748,1.18,Ciaran Clark,5,Newcastle,45,DEF,13
+749,1.18,Florian Lejeune,5,Newcastle,43,DEF,13
+750,1.18,Branislav Ivanovic,5,West Brom,45,DEF,4
+751,1.18,Paul Dummett,5,Newcastle,44,DEF,13
+752,1.18,Jonjoe Kenny,5,Everton,44,DEF,11
+753,1.18,Kelland Watts,5,Newcastle,40,DEF,13
+754,1.18,Kenny Tete,5,Fulham,44,DEF,15
+755,1.18,Mason Holgate,5,Everton,49,DEF,11
+756,1.18,Emerson Palmieri dos Santos,5,Chelsea,49,DEF,16
+757,1.18,Jayden Bogle,5,Sheffield Utd,44,DEF,8
+758,1.18,Cedric Kipre,5,West Brom,44,DEF,4
+759,1.18,Max Lowe,5,Sheffield Utd,45,DEF,8
+760,1.17,Phil Jagielka,5,Sheffield Utd,40,DEF,8
+761,1.15,Leif Davis,5,Leeds,40,DEF,20
+762,1.13,Kieran Gibbs,5,West Brom,44,DEF,4
+763,1.08,Reece James,5,Chelsea,51,DEF,16
+764,1.07,Oliver Casey,5,Leeds,40,DEF,20
+765,1.07,Michael Hector,5,Fulham,44,DEF,15
+766,1.07,Fabián Balbuena,5,West Ham,44,DEF,17
+767,1.06,Pascal Struijk,5,Leeds,40,DEF,20
+768,1.06,Oskar Buur,5,Wolves,40,DEF,10
+769,1.06,Ryan Bennett,5,Wolves,44,DEF,10
+770,1.06,Jonathan Castro Otto,5,Wolves,54,DEF,10
+771,1.05,William Saliba,5,Arsenal,42,DEF,12
+772,1.05,Jack O'Connell,5,Sheffield Utd,49,DEF,8
+773,1.05,Joël Veltman,5,Brighton,43,DEF,6
+774,1.04,Fernando Marçal,5,Wolves,49,DEF,10
+775,1.04,John Stones,5,Man City,50,DEF,1
+776,1.04,Fikayo Tomori,5,Chelsea,48,DEF,16
+777,1.02,Neco Williams,5,Liverpool,40,DEF,7
+778,1.01,Ahmed El Mohamady,5,Aston Villa,44,DEF,9
+779,1.01,Brandon Williams,5,Man Utd,44,DEF,14
+780,1.0,Ben Mee,5,Burnley,49,DEF,18
+781,1.0,Jimmy Dunne,5,Burnley,40,DEF,18
+782,1.0,Cédric Soares,5,Arsenal,48,DEF,12
+783,1.0,Jake Vokins,5,Southampton,40,DEF,5
+784,1.0,Joel Matip,5,Liverpool,54,DEF,7
+785,0.99,José Diogo Dalot Teixeira,5,Man Utd,49,DEF,14
+786,0.99,Marcos Rojo,5,Man Utd,49,DEF,14
+787,0.99,Calum Chambers,5,Arsenal,45,DEF,12
+788,0.99,Teden Mengi,5,Man Utd,40,DEF,14
+789,0.99,Bernardo Fernandes da Silva Junior,5,Brighton,40,DEF,6
+790,0.99,Axel Tuanzebe,5,Man Utd,45,DEF,14
+791,0.99,Sokratis Papastathopoulos,5,Arsenal,49,DEF,12
+792,0.99,Shkodran Mustafi,5,Arsenal,50,DEF,12
+793,0.99,Bobby Thomas,5,Burnley,40,DEF,18
+794,0.99,Ben Gibson,5,Burnley,40,DEF,18
+795,0.99,Phil Jones,5,Man Utd,49,DEF,14
+796,0.99,Alfie Mawson,5,Fulham,44,DEF,15
+797,0.99,Konstantinos Tsimikas,5,Liverpool,49,DEF,7
+798,0.99,Matthew Lowton,5,Burnley,44,DEF,18
+799,0.99,Cyrus Christie,5,Fulham,44,DEF,15
+800,0.99,Mohammed Salisu,5,Southampton,44,DEF,5
+801,0.99,Zeze Steven Sessegnon,5,Fulham,44,DEF,15
+802,0.99,Anthony Driscoll-Glennon,5,Burnley,40,DEF,18
+803,0.99,Chris Smalling,5,Man Utd,49,DEF,14
+804,0.99,Yan Valery,5,Southampton,48,DEF,5
+805,0.99,Pablo Marí,5,Arsenal,45,DEF,12
+806,0.96,Kortney Hause,5,Aston Villa,44,DEF,9
+807,0.96,Neil Taylor,5,Aston Villa,44,DEF,9
+808,0.96,Frédéric Guilbert,5,Aston Villa,44,DEF,9
+809,0.96,James Bree,5,Aston Villa,45,DEF,9
+810,0.96,Ben Johnson,5,West Ham,40,DEF,17
+811,0.96,Bjorn Engels,5,Aston Villa,44,DEF,9
+812,0.9,Timothy Fosu-Mensah,5,Man Utd,45,DEF,14
+813,0.9,Shane Duffy,5,Brighton,44,DEF,6
+814,0.9,Martín Montoya,5,Brighton,45,DEF,6
+815,0.9,Matthew Clarke,5,Brighton,44,DEF,6
+816,0.87,Dan Burn,5,Brighton,44,DEF,6
+817,0.86,Sead Kolasinac,5,Arsenal,49,DEF,12
+818,0.85,Jack Stephens,5,Southampton,49,DEF,5
+819,0.85,Erik Pieters,5,Burnley,44,DEF,18
+820,0.8,Ryan Fredericks,5,West Ham,44,DEF,17
+821,0.77,Issa Diop,5,West Ham,45,DEF,17
+822,,Alex Nicolao Telles,5,Man Utd,55,DEF,14
+823,,Ben Godfrey,5,Everton,50,DEF,11
+824,,Craig Dawson,5,West Ham,45,DEF,17
+825,,Diego Llorente,5,Leeds,45,DEF,20
+826,,Joachim Andersen,5,Fulham,45,DEF,15
+827,,Ki-Jana Hoever,5,Wolves,45,DEF,10
+828,,Nathaniel Clyne,5,Crystal Palace,45,DEF,3
+829,,Niels Nkounkou,5,Everton,40,DEF,11
+830,,Nélson Cabral Semedo,5,Wolves,55,DEF,10
+831,,Ola Aina,5,Fulham,45,DEF,15
+832,,Rayan Ait Nouri,5,Wolves,50,DEF,10
+833,,Rúben Santos Gato Alves Dias,5,Man City,55,DEF,1
+834,,Sergio Reguilón,5,Spurs,55,DEF,19
+835,,Tosin Adarabioyo,5,Fulham,45,DEF,15
+836,,Vladimir Coufal,5,West Ham,45,DEF,17
+837,,Wesley Fofana,5,Leicester,50,DEF,2
+838,7.93,Kevin De Bruyne,5,Man City,116,MID,1
+839,7.88,Heung-Min Son,5,Spurs,92,MID,19
+840,6.57,Wilfried Zaha,5,Crystal Palace,72,MID,3
+841,6.47,Jack Grealish,5,Aston Villa,71,MID,9
+842,6.29,Raheem Sterling,5,Man City,115,MID,1
+843,5.95,James Rodríguez,5,Everton,79,MID,11
+844,5.85,Lucas Rodrigues Moura da Silva,5,Spurs,69,MID,19
+845,5.51,Mohamed Salah,5,Liverpool,123,MID,7
+846,4.96,Pierre-Emerick Aubameyang,5,Arsenal,118,MID,12
+847,4.95,Harvey Barnes,5,Leicester,71,MID,2
+848,4.88,Riyad Mahrez,5,Man City,85,MID,1
+849,4.63,John Lundstram,5,Sheffield Utd,53,MID,8
+850,4.61,Kai Havertz,5,Chelsea,84,MID,16
+851,4.48,Jarrod Bowen,5,West Ham,63,MID,17
+852,4.46,Sadio Mané,5,Liverpool,119,MID,7
+853,4.21,Cheikhou Kouyaté,5,Crystal Palace,50,MID,3
+854,4.2,Phil Foden,5,Man City,66,MID,1
+855,4.18,Callum Hudson-Odoi,5,Chelsea,58,MID,16
+856,4.17,Diogo Jota,5,Liverpool,63,MID,7
+857,4.08,Tanguy Ndombele,5,Spurs,59,MID,19
+858,4.02,Erik Lamela,5,Spurs,59,MID,19
+859,4.0,Mason Mount,5,Chelsea,69,MID,16
+860,3.94,Andros Townsend,5,Crystal Palace,61,MID,3
+861,3.91,Bruno Miguel Borges Fernandes,5,Man Utd,105,MID,14
+862,3.91,Hélder Wander Sousa de Azevedo e Costa,5,Leeds,57,MID,20
+863,3.87,Ferran Torres,5,Man City,69,MID,1
+864,3.76,John McGinn,5,Aston Villa,55,MID,9
+865,3.63,Leandro Trossard,5,Brighton,60,MID,6
+866,3.54,Allan Saint-Maximin,5,Newcastle,53,MID,13
+867,3.54,Pedro Lomba Neto,5,Wolves,55,MID,10
+868,3.51,Giovani Lo Celso,5,Spurs,69,MID,19
+869,3.5,Jorge Luiz Frello Filho,5,Chelsea,52,MID,16
+870,3.47,Bukayo Saka,5,Arsenal,53,MID,12
+871,3.39,Youri Tielemans,5,Leicester,64,MID,2
+872,3.27,Eberechi Eze,5,Crystal Palace,59,MID,3
+873,3.27,Solomon March,5,Brighton,50,MID,6
+874,3.27,Oliver Burke,5,Sheffield Utd,45,MID,8
+875,3.22,Pierre-Emile Højbjerg,5,Spurs,49,MID,19
+876,3.2,Gylfi Sigurdsson,5,Everton,69,MID,11
+877,3.2,Mateusz Klich,5,Leeds,56,MID,20
+878,3.15,Leander Dendoncker,5,Wolves,49,MID,10
+879,3.14,Abdoulaye Doucouré,5,Everton,54,MID,11
+880,3.12,Matheus Pereira,5,West Brom,60,MID,4
+881,3.01,James McArthur,5,Crystal Palace,54,MID,3
+882,2.97,Marcus Rashford,5,Man Utd,95,MID,14
+883,2.85,Pablo Fornals,5,West Ham,64,MID,17
+884,2.79,Ross Barkley,5,Aston Villa,59,MID,9
+885,2.76,Mahmoud Ahmed Ibrahim Hassan,5,Aston Villa,55,MID,9
+886,2.76,Jeffrey Schlupp,5,Crystal Palace,55,MID,3
+887,2.75,Nampalys Mendy,5,Leicester,45,MID,2
+888,2.69,Ben Osborn,5,Sheffield Utd,49,MID,8
+889,2.65,James McCarthy,5,Crystal Palace,45,MID,3
+890,2.64,Kalvin Phillips,5,Leeds,50,MID,20
+891,2.62,Grady Diangana,5,West Brom,55,MID,4
+892,2.6,Jonjo Shelvey,5,Newcastle,54,MID,13
+893,2.54,Oriol Romeu Vidal,5,Southampton,45,MID,5
+894,2.51,Moussa Djenepo,5,Southampton,55,MID,5
+895,2.46,Daniel Ceballos Fernández,5,Arsenal,50,MID,12
+896,2.42,Rodrigo Hernandez,5,Man City,55,MID,1
+897,2.42,Ayoze Pérez,5,Leicester,63,MID,2
+898,2.42,Isaac Hayden,5,Newcastle,49,MID,13
+899,2.41,Ashley Westwood,5,Burnley,54,MID,18
+900,2.41,Josh Brownhill,5,Burnley,50,MID,18
+901,2.39,Stuart Armstrong,5,Southampton,55,MID,5
+902,2.37,James Maddison,5,Leicester,70,MID,2
+903,2.35,Sander Berge,5,Sheffield Utd,50,MID,8
+904,2.35,Moussa Sissoko,5,Spurs,48,MID,19
+905,2.33,Daniel Castelo Podence,5,Wolves,56,MID,10
+906,2.31,Dwight McNeil,5,Burnley,59,MID,18
+907,2.31,André-Frank Zambo Anguissa,5,Fulham,45,MID,15
+908,2.3,Ivan Ricardo Neves Abreu Cavaleiro,5,Fulham,54,MID,15
+909,2.29,Alex Iwobi,5,Everton,59,MID,11
+910,2.28,Rúben Diogo da Silva Neves,5,Wolves,54,MID,10
+911,2.28,Naby Keita,5,Liverpool,54,MID,7
+912,2.24,Willian Borges Da Silva,5,Arsenal,79,MID,12
+913,2.23,Mason Greenwood,5,Man Utd,73,MID,14
+914,2.2,Dale Stephens,5,Burnley,44,MID,18
+915,2.18,James Ward-Prowse,5,Southampton,58,MID,5
+916,2.16,Tomas Soucek,5,West Ham,49,MID,17
+917,2.16,Jeff Hendrick,5,Newcastle,51,MID,13
+918,2.15,Adama Traoré,5,Wolves,64,MID,10
+919,2.15,Tom Cairney,5,Fulham,53,MID,15
+920,2.14,Jake Livermore,5,West Brom,49,MID,4
+921,2.13,Steven Bergwijn,5,Spurs,72,MID,19
+922,2.12,Bamidele Alli,5,Spurs,76,MID,19
+923,2.07,Conor Hourihane,5,Aston Villa,60,MID,9
+924,2.07,N'Golo Kanté,5,Chelsea,49,MID,16
+925,2.05,Jack Harrison,5,Leeds,55,MID,20
+926,2.04,Georginio Wijnaldum,5,Liverpool,54,MID,7
+927,2.04,Aboubakar Kamara,5,Fulham,49,MID,15
+928,2.0,Nicolas Pépé,5,Arsenal,77,MID,12
+929,1.97,Yves Bissouma,5,Brighton,45,MID,6
+930,1.91,Romaine Sawyers,5,West Brom,49,MID,4
+931,1.89,Dennis Praet,5,Leicester,55,MID,2
+932,1.86,Paul Pogba,5,Man Utd,79,MID,14
+933,1.85,Mohamed Naser El Sayed Elneny,5,Arsenal,45,MID,12
+934,1.84,Fabio Henrique Tavares,5,Liverpool,55,MID,7
+935,1.79,Declan Rice,5,West Ham,49,MID,17
+936,1.77,Steven Alzate,5,Brighton,45,MID,6
+937,1.75,Douglas Luiz Soares de Paulo,5,Aston Villa,50,MID,9
+938,1.74,Kyle Edwards,5,West Brom,49,MID,4
+939,1.71,Tyler Roberts,5,Leeds,49,MID,20
+940,1.65,Luka Milivojevic,5,Crystal Palace,58,MID,3
+941,1.63,Scott McTominay,5,Man Utd,49,MID,14
+942,1.61,Ryan Fraser,5,Newcastle,58,MID,13
+943,1.61,Bernardo Mota Veiga de Carvalho e Silva,5,Man City,74,MID,1
+944,1.57,Harry Winks,5,Spurs,54,MID,19
+945,1.52,Ian Carlo Poveda-Ocampo,5,Leeds,44,MID,20
+946,1.5,Takumi Minamino,5,Liverpool,62,MID,7
+947,1.5,Christian Pulisic,5,Chelsea,83,MID,16
+948,1.5,Jairo Riedewald,5,Crystal Palace,44,MID,3
+949,1.45,Miguel Almirón,5,Newcastle,58,MID,13
+950,1.44,Tom Davies,5,Everton,54,MID,11
+951,1.44,Nemanja Matic,5,Man Utd,50,MID,14
+952,1.42,Allan Marques Loureiro,5,Everton,54,MID,11
+953,1.41,João Filipe Iria Santos Moutinho,5,Wolves,54,MID,10
+954,1.32,Oliver Skipp,5,Spurs,45,MID,19
+955,1.32,Brandon Pierrick,5,Crystal Palace,44,MID,3
+956,1.32,Max Meyer,5,Crystal Palace,49,MID,3
+957,1.32,Gedson Carvalho Fernandes,5,Spurs,49,MID,19
+958,1.29,Neeskens Kebano,5,Fulham,48,MID,15
+959,1.28,Sam Field,5,West Brom,49,MID,4
+960,1.27,André Filipe Tavares Gomes,5,Everton,55,MID,11
+961,1.26,Donny van de Beek,5,Man Utd,69,MID,14
+962,1.26,John Fleck,5,Sheffield Utd,58,MID,8
+963,1.26,Fabian Delph,5,Everton,49,MID,11
+964,1.21,James Milner,5,Liverpool,53,MID,7
+965,1.18,Nathan Redmond,5,Southampton,64,MID,5
+966,1.18,Frederico Rodrigues de Paula Santos,5,Man Utd,54,MID,14
+967,1.16,Matt Ritchie,5,Newcastle,49,MID,13
+968,1.14,Granit Xhaka,5,Arsenal,54,MID,12
+969,1.13,Adam Lallana,5,Brighton,63,MID,6
+970,1.12,Mateo Kovacic,5,Chelsea,55,MID,16
+971,1.1,Wilfred Ndidi,5,Leicester,49,MID,2
+972,1.1,Hamza Choudhury,5,Leicester,49,MID,2
+973,1.1,Adrien Silva,5,Leicester,44,MID,2
+974,1.09,Curtis Jones,5,Liverpool,45,MID,7
+975,1.09,Matty James,5,Leicester,44,MID,2
+976,1.07,Marc Albrighton,5,Leicester,54,MID,2
+977,1.07,Demarai Gray,5,Leicester,53,MID,2
+978,1.04,Alireza Jahanbakhsh,5,Brighton,54,MID,6
+979,1.04,Johann Berg Gudmundsson,5,Burnley,54,MID,18
+980,1.03,Josh Onomah,5,Fulham,48,MID,15
+981,1.03,Harrison Reed,5,Fulham,45,MID,15
+982,1.02,Hakim Ziyech,5,Chelsea,79,MID,16
+983,1.01,Matt Phillips,5,West Brom,52,MID,4
+984,1.01,Sean Longstaff,5,Newcastle,48,MID,13
+985,1.01,Daniel James,5,Man Utd,64,MID,14
+986,1.01,Oliver Norwood,5,Sheffield Utd,48,MID,8
+987,1.01,Vitor Ferreira,5,Wolves,49,MID,10
+988,1.0,Rolando Aarons,5,Newcastle,49,MID,13
+989,1.0,Ilkay Gündogan,5,Man City,54,MID,1
+990,1.0,Rekeem Harper,5,West Brom,45,MID,4
+991,1.0,Bernard Anício Caldeira Duarte,5,Everton,58,MID,11
+992,1.0,Christian Atsu,5,Newcastle,53,MID,13
+993,1.0,Anthony Gordon,5,Everton,44,MID,11
+994,1.0,Jonathan Leko,5,West Brom,45,MID,4
+995,1.0,Billy Gilmour,5,Chelsea,45,MID,16
+996,1.0,Kamil Grosicki,5,West Brom,53,MID,4
+997,1.0,Luke Freeman,5,Sheffield Utd,50,MID,8
+998,1.0,William Smallbone,5,Southampton,45,MID,5
+999,1.0,Tommy Doyle,5,Man City,45,MID,1
+1000,1.0,Matthew Longstaff,5,Newcastle,49,MID,13
+1001,0.99,Adrián Bernabé,5,Man City,45,MID,1
+1002,0.99,Jean-Philippe Gbamin,5,Everton,50,MID,11
+1003,0.99,Thiago Alcántara do Nascimento,5,Liverpool,60,MID,7
+1004,0.99,Jordan Henderson,5,Liverpool,54,MID,7
+1005,0.98,Robbie Brady,5,Burnley,50,MID,18
+1006,0.98,Nathan Tella,5,Southampton,45,MID,5
+1007,0.98,Marvelous Nakamba,5,Aston Villa,44,MID,9
+1008,0.98,Pascal Groß,5,Brighton,58,MID,6
+1009,0.98,Theo Walcott,5,Southampton,58,MID,5
+1010,0.98,Jacob Murphy,5,Newcastle,49,MID,13
+1011,0.97,Jay-Roy Grot,5,Leeds,49,MID,20
+1012,0.97,Jamie Shackleton,5,Leeds,49,MID,20
+1013,0.97,Adam Forshaw,5,Leeds,49,MID,20
+1014,0.97,Jordan Stevens,5,Leeds,44,MID,20
+1015,0.97,Bruno André Cavaco Jordao,5,Wolves,44,MID,10
+1016,0.97,Pablo Hernández Domínguez,5,Leeds,58,MID,20
+1017,0.97,Morgan Gibbs-White,5,Wolves,50,MID,10
+1018,0.97,Mateusz Bogusz,5,Leeds,45,MID,20
+1019,0.96,Mario Lemina,5,Fulham,45,MID,15
+1020,0.96,Mesut Özil,5,Arsenal,68,MID,12
+1021,0.95,Juan Mata,5,Man Utd,59,MID,14
+1022,0.95,Emile Smith Rowe,5,Arsenal,44,MID,12
+1023,0.95,Tahith Chong,5,Man Utd,45,MID,14
+1024,0.95,Jean Michaël Seri,5,Fulham,47,MID,15
+1025,0.95,Alex Oxlade-Chamberlain,5,Liverpool,64,MID,7
+1026,0.95,Harry Wilson,5,Liverpool,52,MID,7
+1027,0.95,Sofiane Boufal,5,Southampton,54,MID,5
+1028,0.95,Matteo Guendouzi,5,Arsenal,48,MID,12
+1029,0.95,Gabriel Teodoro Martinelli Silva,5,Arsenal,49,MID,12
+1030,0.95,Kevin McDonald,5,Fulham,48,MID,15
+1031,0.95,Xherdan Shaqiri,5,Liverpool,64,MID,7
+1032,0.95,Lucas Torreira,5,Arsenal,48,MID,12
+1033,0.95,Andreas Pereira,5,Man Utd,49,MID,14
+1034,0.95,Stefan Johansen,5,Fulham,48,MID,15
+1035,0.95,James Garner,5,Man Utd,45,MID,14
+1036,0.95,Jack Cork,5,Burnley,50,MID,18
+1037,0.95,Reiss Nelson,5,Arsenal,53,MID,12
+1038,0.95,Joseph Willock,5,Arsenal,48,MID,12
+1039,0.95,Josh Benson,5,Burnley,45,MID,18
+1040,0.95,Anthony Knockaert,5,Fulham,52,MID,15
+1041,0.95,Ruben Loftus-Cheek,5,Fulham,59,MID,15
+1042,0.95,Harvey Elliott,5,Liverpool,44,MID,7
+1043,0.95,Josh Sims,5,Southampton,44,MID,5
+1044,0.95,Jesse Lingard,5,Man Utd,59,MID,14
+1045,0.94,José Ignacio Peleteiro Romallo,5,Aston Villa,59,MID,9
+1046,0.94,Anwar El Ghazi,5,Aston Villa,59,MID,9
+1047,0.94,Mark Noble,5,West Ham,48,MID,17
+1048,0.94,Henri Lansbury,5,Aston Villa,45,MID,9
+1049,0.94,Andriy Yarmolenko,5,West Ham,57,MID,17
+1050,0.93,Alexis Mac Allister,5,Brighton,53,MID,6
+1051,0.93,Jack Wilshere,5,West Ham,49,MID,17
+1052,0.93,José Izquierdo,5,Brighton,55,MID,6
+1053,0.93,Felipe Anderson Pereira Gomes,5,West Ham,62,MID,17
+1054,0.93,Robert Snodgrass,5,West Ham,58,MID,17
+1055,0.93,Davy Pröpper,5,Brighton,49,MID,6
+1056,0.93,Manuel Lanzini,5,West Ham,64,MID,17
+1057,0.93,Aaron Mooy,5,Brighton,50,MID,6
+1058,,Ademola Lookman,5,Fulham,50,MID,15
+1059,,Bertrand Traoré,5,Aston Villa,60,MID,9
+1060,,Cengiz Ünder,5,Leicester,60,MID,2
+1061,,Cole Palmer,5,Man City,45,MID,1
+1062,,Conor Gallagher,5,West Brom,55,MID,4
+1063,,Facundo Pellistri,5,Man Utd,55,MID,14
+1064,,Filip Krovinovic,5,West Brom,50,MID,4
+1065,,Gareth Bale,5,Spurs,95,MID,19
+1066,,Ibrahima Diallo,5,Southampton,45,MID,5
+1067,,Jacob Ramsey,5,Aston Villa,45,MID,9
+1068,,Jayson Molumby,5,Brighton,45,MID,6
+1069,,Mace Goodridge,5,Burnley,45,MID,18
+1070,,Meritan Shabani,5,Wolves,45,MID,10
+1071,,Owen Otasowie,5,Wolves,45,MID,10
+1072,,Raphael Dias Belloli,5,Leeds,55,MID,20
+1073,,Thomas Partey,5,Arsenal,50,MID,12
+1074,6.72,Harry Kane,5,Spurs,106,FWD,19
+1075,6.26,Dominic Calvert-Lewin,5,Everton,76,FWD,11
+1076,4.74,Patrick Bamford,5,Leeds,58,FWD,20
+1077,4.42,Callum Wilson,5,Newcastle,65,FWD,13
+1078,4.39,Danny Ings,5,Southampton,85,FWD,5
+1079,4.33,Timo Werner,5,Chelsea,93,FWD,16
+1080,4.25,Jamie Vardy,5,Leicester,101,FWD,2
+1081,4.06,Ollie Watkins,5,Aston Villa,60,FWD,9
+1082,4.05,Tammy Abraham,5,Chelsea,73,FWD,16
+1083,4.02,Aleksandar Mitrović,5,Fulham,59,FWD,15
+1084,4.0,Michail Antonio,5,West Ham,63,FWD,17
+1085,3.98,Raúl Jiménez,5,Wolves,86,FWD,10
+1086,3.87,Jordan Ayew,5,Crystal Palace,58,FWD,3
+1087,3.76,Neal Maupay,5,Brighton,66,FWD,6
+1088,3.35,David McGoldrick,5,Sheffield Utd,54,FWD,8
+1089,3.34,Chris Wood,5,Burnley,64,FWD,18
+1090,3.31,Richarlison de Andrade,5,Everton,79,FWD,11
+1091,3.3,Roberto Firmino,5,Liverpool,93,FWD,7
+1092,3.18,Joelinton Cássio Apolinário de Lira,5,Newcastle,58,FWD,13
+1093,3.09,Che Adams,5,Southampton,58,FWD,5
+1094,3.0,Rodrigo Moreno,5,Leeds,58,FWD,20
+1095,2.77,Callum Robinson,5,West Brom,55,FWD,4
+1096,2.53,Kelechi Iheanacho,5,Leicester,57,FWD,2
+1097,2.46,Ashley Barnes,5,Burnley,60,FWD,18
+1098,2.16,Bobby Decordova-Reid,5,Fulham,55,FWD,15
+1099,2.15,Anthony Martial,5,Man Utd,88,FWD,14
+1100,2.1,Oliver McBurnie,5,Sheffield Utd,58,FWD,8
+1101,2.09,Edward Nketiah,5,Arsenal,58,FWD,12
+1102,2.05,Michy Batshuayi,5,Crystal Palace,58,FWD,3
+1103,2.04,Christian Benteke,5,Crystal Palace,55,FWD,3
+1104,2.01,Connor Wickham,5,Crystal Palace,45,FWD,3
+1105,1.76,Aaron Connolly,5,Brighton,55,FWD,6
+1106,1.74,Alexandre Lacazette,5,Arsenal,85,FWD,12
+1107,1.71,Billy Sharp,5,Sheffield Utd,58,FWD,8
+1108,1.69,Hal Robson-Kanu,5,West Brom,53,FWD,4
+1109,1.68,Andy Carroll,5,Newcastle,54,FWD,13
+1110,1.66,Rhian Brewster,5,Sheffield Utd,45,FWD,8
+1111,1.57,Olivier Giroud,5,Chelsea,68,FWD,16
+1112,1.54,Sergio Agüero,5,Man City,104,FWD,1
+1113,1.47,Charlie Austin,5,West Brom,52,FWD,4
+1114,1.46,Dwight Gayle,5,Newcastle,59,FWD,13
+1115,1.46,Cenk Tosun,5,Everton,60,FWD,11
+1116,1.46,Yoshinori Muto,5,Newcastle,49,FWD,13
+1117,1.46,Lys Mousset,5,Sheffield Utd,58,FWD,8
+1118,1.46,Kenneth Zohore,5,West Brom,49,FWD,4
+1119,1.45,Gabriel Fernando de Jesus,5,Man City,94,FWD,1
+1120,1.42,Moise Kean,5,Everton,58,FWD,11
+1121,1.28,Matej Vydra,5,Burnley,50,FWD,18
+1122,1.23,Leonardo Campana,5,Wolves,49,FWD,10
+1123,1.22,Léo Bonatini,5,Wolves,49,FWD,10
+1124,1.12,Keinan Davis,5,Aston Villa,44,FWD,9
+1125,1.1,Liam Delap,5,Man City,45,FWD,1
+1126,1.08,Shane Long,5,Southampton,53,FWD,5
+1127,1.05,Jay Rodriguez,5,Burnley,59,FWD,18
+1128,1.04,Fabio Silva,5,Wolves,53,FWD,10
+1129,1.04,Sébastien Haller,5,West Ham,62,FWD,17
+1130,1.03,Michael Obafemi,5,Southampton,48,FWD,5
+1131,0.99,Divock Origi,5,Liverpool,53,FWD,7
+1132,0.98,Odion Ighalo,5,Man Utd,63,FWD,14
+1133,0.82,Indiana Vassilev,5,Aston Villa,44,FWD,9
+1134,0.8,Mbwana Samatta,5,Aston Villa,59,FWD,9
+1135,0.8,Wesley Moraes,5,Aston Villa,60,FWD,9
+1136,0.73,Florin Andone,5,Brighton,49,FWD,6
+1137,0.73,Albian Ajeti,5,West Ham,55,FWD,17
+1138,0.73,Glenn Murray,5,Brighton,49,FWD,6
+1139,0.73,Jordan Hugill,5,West Ham,55,FWD,17
+1140,,Andi Zeqiri,5,Brighton,50,FWD,6
+1141,,Carlos Vinicius Alves Morais,5,Spurs,70,FWD,19
+1142,,Edinson Cavani,5,Man Utd,80,FWD,14
+1143,,Islam Slimani,5,Leicester,50,FWD,2
+1144,,Karlan Grant,5,West Brom,60,FWD,4
+1145,4.35,Emiliano Martínez,6,Aston Villa,48,GK,10
+1146,3.51,Rui Pedro dos Santos Patrício,6,Wolves,55,GK,14
+1147,3.51,Hugo Lloris,6,Spurs,55,GK,4
+1148,3.48,Alex McCarthy,6,Southampton,45,GK,7
+1149,3.41,Mathew Ryan,6,Brighton,45,GK,18
+1150,3.4,Nick Pope,6,Burnley,55,GK,17
+1151,3.36,Kasper Schmeichel,6,Leicester,55,GK,1
+1152,3.14,Vicente Guaita,6,Crystal Palace,50,GK,8
+1153,3.11,Lukasz Fabianski,6,West Ham,50,GK,12
+1154,3.11,Bernd Leno,6,Arsenal,50,GK,9
+1155,3.07,Ederson Santana de Moraes,6,Man City,60,GK,19
+1156,3.02,Adrián San Miguel del Castillo,6,Liverpool,45,GK,15
+1157,2.98,Jordan Pickford,6,Everton,50,GK,16
+1158,2.89,Alphonse Areola,6,Fulham,45,GK,6
+1159,2.87,Sam Johnstone,6,West Brom,45,GK,3
+1160,2.86,David de Gea,6,Man Utd,55,GK,5
+1161,2.66,Kepa Arrizabalaga,6,Chelsea,48,GK,13
+1162,2.29,Karl Darlow,6,Newcastle,50,GK,20
+1163,2.07,Aaron Ramsdale,6,Sheffield Utd,49,GK,11
+1164,1.95,Illan Meslier,6,Leeds,45,GK,2
+1165,1.73,Ørjan Nyland,6,Aston Villa,40,GK,10
+1166,1.56,Alisson Ramses Becker,6,Liverpool,59,GK,15
+1167,1.52,Jed Steer,6,Aston Villa,40,GK,10
+1168,1.44,Tom Heaton,6,Aston Villa,45,GK,10
+1169,1.34,Paulo Gazzaniga,6,Spurs,44,GK,4
+1170,1.34,Joe Hart,6,Spurs,44,GK,4
+1171,1.28,David Martin,6,West Ham,40,GK,12
+1172,1.25,Fraser Forster,6,Southampton,40,GK,7
+1173,1.23,John Ruddy,6,Wolves,44,GK,14
+1174,1.23,Matija Sarkic,6,Wolves,45,GK,14
+1175,1.23,Roberto Jimenez Gago,6,West Ham,45,GK,12
+1176,1.23,Angus Gunn,6,Southampton,44,GK,7
+1177,1.23,Jason Steele,6,Brighton,40,GK,18
+1178,1.23,Darren Randolph,6,West Ham,45,GK,12
+1179,1.23,Wayne Hennessey,6,Crystal Palace,44,GK,8
+1180,1.23,Christian Walton,6,Brighton,40,GK,18
+1181,1.23,Danny Ward,6,Leicester,45,GK,1
+1182,1.13,Sergio Romero,6,Man Utd,49,GK,5
+1183,1.12,Dean Henderson,6,Man Utd,54,GK,5
+1184,1.09,Edouard Mendy,6,Chelsea,50,GK,13
+1185,1.01,David Button,6,West Brom,40,GK,3
+1186,1.01,Fabricio Agosto Ramírez,6,Fulham,40,GK,6
+1187,1.0,Jonas Lössl,6,Everton,44,GK,16
+1188,1.0,João Virgínia,6,Everton,44,GK,16
+1189,1.0,Matt Macey,6,Arsenal,40,GK,9
+1190,1.0,Rúnar Alex Rúnarsson,6,Arsenal,45,GK,9
+1191,1.0,Zack Steffen,6,Man City,45,GK,19
+1192,1.0,Marcus Bettinelli,6,Fulham,44,GK,6
+1193,1.0,Martin Dubravka,6,Newcastle,49,GK,20
+1194,1.0,Mark Gillespie,6,Newcastle,45,GK,20
+1195,1.0,Marek Rodák,6,Fulham,44,GK,6
+1196,1.0,Claudio Bravo,6,Man City,45,GK,19
+1197,0.93,Willy Caballero,6,Chelsea,48,GK,13
+1198,0.88,Bailey Peacock-Farrell,6,Burnley,40,GK,17
+1199,0.79,Kamil Miazek,6,Leeds,40,GK,2
+1200,0.78,Wes Foderingham,6,Sheffield Utd,44,GK,11
+1201,0.78,Simon Moore,6,Sheffield Utd,44,GK,11
+1202,0.78,Elia Caprile,6,Leeds,40,GK,2
+1203,0.78,Francisco Casilla Cortés,6,Leeds,43,GK,2
+1204,,Jack Butland,6,Crystal Palace,45,GK,8
+1205,,Robin Olsen,6,Everton,45,GK,16
+1206,,Caoimhin Kelleher,6,Liverpool,45,GK,15
+1207,,Michael Verrips,6,Sheffield Utd,40,GK,11
+1208,,Stephen Henderson,6,Crystal Palace,40,GK,8
+1209,,Will Norris,6,Burnley,40,GK,17
+1210,6.49,Trent Alexander-Arnold,6,Liverpool,75,DEF,15
+1211,4.91,Arthur Masuaku,6,West Ham,45,DEF,12
+1212,4.38,Matthew Cash,6,Aston Villa,50,DEF,10
+1213,4.38,Tyrone Mings,6,Aston Villa,52,DEF,10
+1214,4.31,Matt Targett,6,Aston Villa,45,DEF,10
+1215,4.22,Davinson Sánchez,6,Spurs,54,DEF,4
+1216,4.2,Aaron Wan-Bissaka,6,Man Utd,54,DEF,5
+1217,4.08,Ezri Konsa Ngoyo,6,Aston Villa,46,DEF,10
+1218,4.03,Willy Boly,6,Wolves,55,DEF,14
+1219,4.02,Nélson Cabral Semedo,6,Wolves,55,DEF,14
+1220,3.96,Adam Webster,6,Brighton,45,DEF,18
+1221,3.93,Andrew Robertson,6,Liverpool,71,DEF,15
+1222,3.86,Romain Saïss,6,Wolves,52,DEF,14
+1223,3.85,Conor Coady,6,Wolves,50,DEF,14
+1224,3.85,César Azpilicueta,6,Chelsea,59,DEF,13
+1225,3.8,Virgil van Dijk,6,Liverpool,64,DEF,15
+1226,3.75,Tariq Lamptey,6,Brighton,47,DEF,18
+1227,3.7,Joseph Gomez,6,Liverpool,54,DEF,15
+1228,3.64,Tyrick Mitchell,6,Crystal Palace,42,DEF,8
+1229,3.63,James Justin,6,Leicester,48,DEF,1
+1230,3.58,Kyle Walker-Peters,6,Southampton,45,DEF,7
+1231,3.57,Fabián Balbuena,6,West Ham,44,DEF,12
+1232,3.57,Ryan Bertrand,6,Southampton,50,DEF,7
+1233,3.56,Jannik Vestergaard,6,Southampton,45,DEF,7
+1234,3.55,Harry Maguire,6,Man Utd,54,DEF,5
+1235,3.53,Ben White,6,Brighton,45,DEF,18
+1236,3.53,Lewis Dunk,6,Brighton,49,DEF,18
+1237,3.38,Timothy Castagne,6,Leicester,58,DEF,1
+1238,3.36,Jan Bednarek,6,Southampton,45,DEF,7
+1239,3.34,Kyle Walker,6,Man City,60,DEF,19
+1240,3.31,Joel Matip,6,Liverpool,54,DEF,15
+1241,3.3,Serge Aurier,6,Spurs,52,DEF,4
+1242,3.15,Joel Ward,6,Crystal Palace,45,DEF,8
+1243,3.04,Jonny Evans,6,Leicester,55,DEF,1
+1244,2.96,Michael Keane,6,Everton,51,DEF,16
+1245,2.96,Conor Townsend,6,West Brom,45,DEF,3
+1246,2.95,Matt Doherty,6,Spurs,58,DEF,4
+1247,2.95,Angelo Ogbonna,6,West Ham,49,DEF,12
+1248,2.9,Darnell Furlong,6,West Brom,45,DEF,3
+1249,2.83,Toby Alderweireld,6,Spurs,54,DEF,4
+1250,2.8,Luke Shaw,6,Man Utd,49,DEF,5
+1251,2.75,Kieran Tierney,6,Arsenal,54,DEF,9
+1252,2.73,Gary Cahill,6,Crystal Palace,45,DEF,8
+1253,2.7,David Luiz Moreira Marinho,6,Arsenal,55,DEF,9
+1254,2.59,Lucas Digne,6,Everton,62,DEF,16
+1255,2.58,James Tarkowski,6,Burnley,54,DEF,17
+1256,2.51,Tim Ream,6,Fulham,44,DEF,6
+1257,2.48,Max Kilman,6,Wolves,41,DEF,14
+1258,2.45,Dan Burn,6,Brighton,44,DEF,18
+1259,2.41,Gabriel Magalhães,6,Arsenal,51,DEF,9
+1260,2.41,Victor Lindelöf,6,Man Utd,49,DEF,5
+1261,2.28,Aaron Cresswell,6,West Ham,50,DEF,12
+1262,2.28,Luke Ayling,6,Leeds,45,DEF,2
+1263,2.27,Jamal Lewis,6,Newcastle,44,DEF,20
+1264,2.26,Antonee Robinson,6,Fulham,44,DEF,6
+1265,2.26,Stuart Dallas,6,Leeds,45,DEF,2
+1266,2.23,Çaglar Söyüncü,6,Leicester,54,DEF,1
+1267,2.17,Ahmed El-Sayed Hegazy,6,West Brom,43,DEF,3
+1268,2.17,Andreas Christensen,6,Chelsea,49,DEF,13
+1269,2.17,Branislav Ivanovic,6,West Brom,45,DEF,3
+1270,2.16,João Pedro Cavaco Cancelo,6,Man City,54,DEF,19
+1271,2.15,Charlie Taylor,6,Burnley,45,DEF,17
+1272,2.12,Federico Fernández,6,Newcastle,50,DEF,20
+1273,2.12,Kevin Long,6,Burnley,45,DEF,17
+1274,2.08,Héctor Bellerín,6,Arsenal,50,DEF,9
+1275,2.07,Kurt Zouma,6,Chelsea,50,DEF,13
+1276,2.05,Nathan Aké,6,Man City,55,DEF,19
+1277,2.0,Sergio Reguilón,6,Spurs,55,DEF,4
+1278,1.95,Eric Dier,6,Spurs,50,DEF,4
+1279,1.87,Chris Basham,6,Sheffield Utd,49,DEF,11
+1280,1.86,Benjamin Chilwell,6,Chelsea,57,DEF,13
+1281,1.84,Yerry Mina,6,Everton,55,DEF,16
+1282,1.83,Neco Williams,6,Liverpool,40,DEF,15
+1283,1.76,Enda Stevens,6,Sheffield Utd,54,DEF,11
+1284,1.73,Jamaal Lascelles,6,Newcastle,44,DEF,20
+1285,1.7,Mamadou Sakho,6,Crystal Palace,45,DEF,8
+1286,1.7,George Baldock,6,Sheffield Utd,54,DEF,11
+1287,1.67,Neil Taylor,6,Aston Villa,44,DEF,10
+1288,1.67,Ahmed El Mohamady,6,Aston Villa,44,DEF,10
+1289,1.66,James Bree,6,Aston Villa,45,DEF,10
+1290,1.66,Bjorn Engels,6,Aston Villa,44,DEF,10
+1291,1.66,Konstantinos Tsimikas,6,Liverpool,49,DEF,15
+1292,1.66,Kortney Hause,6,Aston Villa,44,DEF,10
+1293,1.66,Frédéric Guilbert,6,Aston Villa,44,DEF,10
+1294,1.63,Eric Bailly,6,Man Utd,49,DEF,5
+1295,1.62,Seamus Coleman,6,Everton,50,DEF,16
+1296,1.6,Ben Davies,6,Spurs,48,DEF,4
+1297,1.57,Erik Pieters,6,Burnley,44,DEF,17
+1298,1.56,Thiago Thiago,6,Chelsea,55,DEF,13
+1299,1.55,Bernardo Fernandes da Silva Junior,6,Brighton,40,DEF,18
+1300,1.53,John Egan,6,Sheffield Utd,49,DEF,11
+1301,1.5,Joël Veltman,6,Brighton,43,DEF,18
+1302,1.5,Robin Koch,6,Leeds,45,DEF,2
+1303,1.47,Cameron Carter-Vickers,6,Spurs,40,DEF,4
+1304,1.47,Juan Foyth,6,Spurs,44,DEF,4
+1305,1.47,Ryan Sessegnon,6,Spurs,48,DEF,4
+1306,1.47,Danny Rose,6,Spurs,48,DEF,4
+1307,1.47,Japhet Tanganga,6,Spurs,49,DEF,4
+1308,1.44,Dara O'Shea,6,West Brom,44,DEF,3
+1309,1.42,Rúben Gonçalo Silva Nascimento Vinagre,6,Wolves,43,DEF,14
+1310,1.4,Reece James,6,Chelsea,50,DEF,13
+1311,1.39,Daniel Amartey,6,Leicester,40,DEF,1
+1312,1.37,Aymeric Laporte,6,Man City,60,DEF,19
+1313,1.32,Maxime Le Marchand,6,Fulham,43,DEF,6
+1314,1.31,Nathan Ferguson,6,Crystal Palace,40,DEF,8
+1315,1.31,Oskar Buur,6,Wolves,40,DEF,14
+1316,1.31,Issa Diop,6,West Ham,45,DEF,12
+1317,1.31,Scott Dann,6,Crystal Palace,45,DEF,8
+1318,1.3,Jake Vokins,6,Southampton,40,DEF,7
+1319,1.3,Ki-Jana Hoever,6,Wolves,45,DEF,14
+1320,1.3,Martin Kelly,6,Crystal Palace,43,DEF,8
+1321,1.29,Ryan Fredericks,6,West Ham,44,DEF,12
+1322,1.29,Jack Stephens,6,Southampton,48,DEF,7
+1323,1.29,Oluwasemilogo Adesewo Ibidapo Ajayi,6,West Brom,49,DEF,3
+1324,1.28,Wes Morgan,6,Leicester,44,DEF,1
+1325,1.28,Matthew Clarke,6,Brighton,44,DEF,18
+1326,1.28,Mohammed Salisu,6,Southampton,43,DEF,7
+1327,1.28,Sam Woods,6,Crystal Palace,40,DEF,8
+1328,1.28,Fernando Marçal,6,Wolves,49,DEF,14
+1329,1.28,Ricardo Domingos Barbosa Pereira,6,Leicester,59,DEF,1
+1330,1.28,Luke Thomas,6,Leicester,43,DEF,1
+1331,1.28,Ryan Bennett,6,Wolves,44,DEF,14
+1332,1.28,Martín Montoya,6,Brighton,45,DEF,18
+1333,1.28,Ryan Inniss,6,Crystal Palace,40,DEF,8
+1334,1.28,Filip Benkovic,6,Leicester,44,DEF,1
+1335,1.28,James Tomkins,6,Crystal Palace,45,DEF,8
+1336,1.28,Yan Valery,6,Southampton,48,DEF,7
+1337,1.28,Jonathan Castro Otto,6,Wolves,54,DEF,14
+1338,1.28,Shane Duffy,6,Brighton,44,DEF,18
+1339,1.28,Patrick van Aanholt,6,Crystal Palace,54,DEF,8
+1340,1.26,Emil Krafth,6,Newcastle,44,DEF,20
+1341,1.23,Fabian Schär,6,Newcastle,49,DEF,20
+1342,1.22,Christian Fuchs,6,Leicester,45,DEF,1
+1343,1.21,Benjamin Mendy,6,Man City,60,DEF,19
+1344,1.2,Jack Robinson,6,Sheffield Utd,44,DEF,11
+1345,1.2,Ben Johnson,6,West Ham,40,DEF,12
+1346,1.19,Phil Bardsley,6,Burnley,45,DEF,17
+1347,1.18,Antonio Rüdiger,6,Chelsea,46,DEF,13
+1348,1.18,Marcos Alonso,6,Chelsea,58,DEF,13
+1349,1.17,Brandon Williams,6,Man Utd,44,DEF,5
+1350,1.16,Joe Bryan,6,Fulham,49,DEF,6
+1351,1.16,Pascal Struijk,6,Leeds,40,DEF,2
+1352,1.15,Teden Mengi,6,Man Utd,40,DEF,5
+1353,1.14,Chris Smalling,6,Man Utd,49,DEF,5
+1354,1.14,Timothy Fosu-Mensah,6,Man Utd,44,DEF,5
+1355,1.14,Emerson Palmieri dos Santos,6,Chelsea,48,DEF,13
+1356,1.14,Fikayo Tomori,6,Chelsea,48,DEF,13
+1357,1.14,Marcos Rojo,6,Man Utd,49,DEF,5
+1358,1.14,Phil Jones,6,Man Utd,49,DEF,5
+1359,1.14,José Diogo Dalot Teixeira,6,Man Utd,49,DEF,5
+1360,1.14,Axel Tuanzebe,6,Man Utd,45,DEF,5
+1361,1.1,Javier Manquillo,6,Newcastle,45,DEF,20
+1362,1.1,Jarrad Branthwaite,6,Everton,39,DEF,16
+1363,1.09,William Saliba,6,Arsenal,42,DEF,9
+1364,1.08,Ezgjan Alioski,6,Leeds,44,DEF,2
+1365,1.07,Barry Douglas,6,Leeds,39,DEF,2
+1366,1.06,Oleksandr Zinchenko,6,Man City,55,DEF,19
+1367,1.06,Cédric Soares,6,Arsenal,48,DEF,9
+1368,1.06,DeAndre Yedlin,6,Newcastle,43,DEF,20
+1369,1.06,Kieran Gibbs,6,West Brom,44,DEF,3
+1370,1.06,Nicolás Otamendi,6,Man City,49,DEF,19
+1371,1.06,Kenny Tete,6,Fulham,44,DEF,6
+1372,1.05,Pablo Marí,6,Arsenal,44,DEF,9
+1373,1.05,Max Lowe,6,Sheffield Utd,44,DEF,11
+1374,1.05,Calum Chambers,6,Arsenal,45,DEF,9
+1375,1.05,Sokratis Papastathopoulos,6,Arsenal,49,DEF,9
+1376,1.05,John Stones,6,Man City,49,DEF,19
+1377,1.05,Kelland Watts,6,Newcastle,40,DEF,20
+1378,1.05,Jonjoe Kenny,6,Everton,43,DEF,16
+1379,1.05,Florian Lejeune,6,Newcastle,43,DEF,20
+1380,1.05,Cyrus Christie,6,Fulham,43,DEF,6
+1381,1.05,Mason Holgate,6,Everton,49,DEF,16
+1382,1.05,Shkodran Mustafi,6,Arsenal,50,DEF,9
+1383,1.05,Alfie Mawson,6,Fulham,44,DEF,6
+1384,1.05,Ciaran Clark,6,Newcastle,45,DEF,20
+1385,1.05,Paul Dummett,6,Newcastle,44,DEF,20
+1386,1.05,Cedric Kipre,6,West Brom,44,DEF,3
+1387,1.05,Sead Kolasinac,6,Arsenal,48,DEF,9
+1388,1.05,Zeze Steven Sessegnon,6,Fulham,44,DEF,6
+1389,1.02,Anthony Driscoll-Glennon,6,Burnley,40,DEF,17
+1390,1.02,Matthew Lowton,6,Burnley,44,DEF,17
+1391,1.02,Bobby Thomas,6,Burnley,40,DEF,17
+1392,1.02,Ben Mee,6,Burnley,49,DEF,17
+1393,1.02,Ben Gibson,6,Burnley,40,DEF,17
+1394,1.0,Leif Davis,6,Leeds,40,DEF,2
+1395,0.99,Jack O'Connell,6,Sheffield Utd,49,DEF,11
+1396,0.98,Fernando Luiz Rosa,6,Man City,55,DEF,19
+1397,0.98,Oliver Casey,6,Leeds,40,DEF,2
+1398,0.98,Jayden Bogle,6,Sheffield Utd,44,DEF,11
+1399,0.97,Kyle Bartley,6,West Brom,45,DEF,3
+1400,0.97,Diego Llorente,6,Leeds,45,DEF,2
+1401,0.97,Phil Jagielka,6,Sheffield Utd,40,DEF,11
+1402,0.95,Liam Cooper,6,Leeds,44,DEF,2
+1403,0.94,Denis Odoi,6,Fulham,44,DEF,6
+1404,0.94,Rob Holding,6,Arsenal,45,DEF,9
+1405,0.91,Eric Garcia,6,Man City,48,DEF,19
+1406,0.9,Ainsley Maitland-Niles,6,Arsenal,49,DEF,9
+1407,0.88,Michael Hector,6,Fulham,44,DEF,6
+1408,0.8,Ethan Ampadu,6,Sheffield Utd,45,DEF,11
+1409,0.76,Jimmy Dunne,6,Burnley,41,DEF,17
+1410,,Craig Dawson,6,West Ham,45,DEF,12
+1411,,Rayan Ait Nouri,6,Wolves,50,DEF,14
+1412,,Niels Nkounkou,6,Everton,40,DEF,16
+1413,,Nathaniel Phillips,6,Liverpool,40,DEF,15
+1414,,Alex Nicolao Telles,6,Man Utd,55,DEF,5
+1415,,Terence Kongolo,6,Fulham,45,DEF,6
+1416,,Vladimir Coufal,6,West Ham,45,DEF,12
+1417,,Joachim Andersen,6,Fulham,45,DEF,6
+1418,,Joe Rodon,6,Spurs,50,DEF,4
+1419,,Nathaniel Clyne,6,Crystal Palace,45,DEF,8
+1420,,Rúben Santos Gato Alves Dias,6,Man City,55,DEF,19
+1421,,Wesley Fofana,6,Leicester,50,DEF,1
+1422,,Tosin Adarabioyo,6,Fulham,45,DEF,6
+1423,,Ben Godfrey,6,Everton,50,DEF,16
+1424,,Ola Aina,6,Fulham,45,DEF,6
+1425,10.39,Mohamed Salah,6,Liverpool,123,MID,15
+1426,9.08,Heung-Min Son,6,Spurs,94,MID,4
+1427,9.02,Jack Grealish,6,Aston Villa,72,MID,10
+1428,6.77,James Rodríguez,6,Everton,80,MID,16
+1429,6.53,Bruno Miguel Borges Fernandes,6,Man Utd,105,MID,5
+1430,5.99,Ross Barkley,6,Aston Villa,60,MID,10
+1431,5.8,Marcus Rashford,6,Man Utd,95,MID,5
+1432,5.71,Jarrod Bowen,6,West Ham,63,MID,12
+1433,5.59,Jorge Luiz Frello Filho,6,Chelsea,52,MID,13
+1434,5.58,Sadio Mané,6,Liverpool,120,MID,15
+1435,5.37,John McGinn,6,Aston Villa,55,MID,10
+1436,5.04,Diogo Jota,6,Liverpool,63,MID,15
+1437,4.93,Raheem Sterling,6,Man City,116,MID,19
+1438,4.9,Pablo Fornals,6,West Ham,64,MID,12
+1439,4.58,Wilfried Zaha,6,Crystal Palace,72,MID,8
+1440,4.43,Pedro Lomba Neto,6,Wolves,55,MID,14
+1441,4.4,Yves Bissouma,6,Brighton,45,MID,18
+1442,4.29,Bukayo Saka,6,Arsenal,53,MID,9
+1443,4.29,Mason Mount,6,Chelsea,69,MID,13
+1444,4.1,Tanguy Ndombele,6,Spurs,59,MID,4
+1445,3.97,Leandro Trossard,6,Brighton,60,MID,18
+1446,3.92,Solomon March,6,Brighton,50,MID,18
+1447,3.86,Phil Foden,6,Man City,66,MID,19
+1448,3.77,Mahmoud Ahmed Ibrahim Hassan,6,Aston Villa,54,MID,10
+1449,3.77,Allan Saint-Maximin,6,Newcastle,53,MID,20
+1450,3.76,Kai Havertz,6,Chelsea,84,MID,13
+1451,3.64,Riyad Mahrez,6,Man City,85,MID,19
+1452,3.63,Kevin De Bruyne,6,Man City,115,MID,19
+1453,3.61,Tomas Soucek,6,West Ham,49,MID,12
+1454,3.59,Ayoze Pérez,6,Leicester,62,MID,1
+1455,3.58,Leander Dendoncker,6,Wolves,49,MID,14
+1456,3.57,Pierre-Emerick Aubameyang,6,Arsenal,118,MID,9
+1457,3.36,Harvey Barnes,6,Leicester,70,MID,1
+1458,3.36,Jordan Henderson,6,Liverpool,54,MID,15
+1459,3.23,Oriol Romeu Vidal,6,Southampton,45,MID,7
+1460,3.17,Naby Keita,6,Liverpool,53,MID,15
+1461,3.01,Fabio Henrique Tavares,6,Liverpool,55,MID,15
+1462,2.98,Theo Walcott,6,Southampton,58,MID,7
+1463,2.96,Matheus Pereira,6,West Brom,60,MID,3
+1464,2.94,Juan Mata,6,Man Utd,59,MID,5
+1465,2.91,Douglas Luiz Soares de Paulo,6,Aston Villa,50,MID,10
+1466,2.88,Nicolas Pépé,6,Arsenal,77,MID,9
+1467,2.84,Andros Townsend,6,Crystal Palace,61,MID,8
+1468,2.82,Bertrand Traoré,6,Aston Villa,60,MID,10
+1469,2.8,Cheikhou Kouyaté,6,Crystal Palace,50,MID,8
+1470,2.79,Daniel James,6,Man Utd,63,MID,5
+1471,2.78,Youri Tielemans,6,Leicester,64,MID,1
+1472,2.74,Conor Hourihane,6,Aston Villa,60,MID,10
+1473,2.72,Lucas Rodrigues Moura da Silva,6,Spurs,69,MID,4
+1474,2.65,Giovani Lo Celso,6,Spurs,69,MID,4
+1475,2.61,Daniel Castelo Podence,6,Wolves,55,MID,14
+1476,2.55,Pierre-Emile Højbjerg,6,Spurs,49,MID,4
+1477,2.54,Thiago Alcántara do Nascimento,6,Liverpool,60,MID,15
+1478,2.52,Steven Bergwijn,6,Spurs,71,MID,4
+1479,2.5,John Lundstram,6,Sheffield Utd,53,MID,11
+1480,2.5,Grady Diangana,6,West Brom,55,MID,3
+1481,2.48,Dwight McNeil,6,Burnley,59,MID,17
+1482,2.47,Callum Hudson-Odoi,6,Chelsea,58,MID,13
+1483,2.41,Ivan Ricardo Neves Abreu Cavaleiro,6,Fulham,54,MID,6
+1484,2.41,Alexis Mac Allister,6,Brighton,53,MID,18
+1485,2.38,Nampalys Mendy,6,Leicester,45,MID,1
+1486,2.34,Ashley Westwood,6,Burnley,54,MID,17
+1487,2.34,Christian Pulisic,6,Chelsea,83,MID,13
+1488,2.33,James Ward-Prowse,6,Southampton,58,MID,7
+1489,2.3,Willian Borges Da Silva,6,Arsenal,79,MID,9
+1490,2.29,Abdoulaye Doucouré,6,Everton,54,MID,16
+1491,2.28,Mateusz Klich,6,Leeds,56,MID,2
+1492,2.27,Hélder Wander Sousa de Azevedo e Costa,6,Leeds,57,MID,2
+1493,2.26,Tom Cairney,6,Fulham,53,MID,6
+1494,2.25,James McArthur,6,Crystal Palace,54,MID,8
+1495,2.23,André-Frank Zambo Anguissa,6,Fulham,45,MID,6
+1496,2.22,João Filipe Iria Santos Moutinho,6,Wolves,54,MID,14
+1497,2.21,Scott McTominay,6,Man Utd,49,MID,5
+1498,2.21,Adama Traoré,6,Wolves,64,MID,14
+1499,2.2,Jonjo Shelvey,6,Newcastle,54,MID,20
+1500,2.2,Jack Harrison,6,Leeds,55,MID,2
+1501,2.2,Manuel Lanzini,6,West Ham,64,MID,12
+1502,2.19,Moussa Djenepo,6,Southampton,55,MID,7
+1503,2.18,James Maddison,6,Leicester,70,MID,1
+1504,2.16,Rodrigo Hernandez,6,Man City,54,MID,19
+1505,2.16,Georginio Wijnaldum,6,Liverpool,54,MID,15
+1506,2.14,Josh Brownhill,6,Burnley,50,MID,17
+1507,2.11,Ruben Loftus-Cheek,6,Fulham,59,MID,6
+1508,2.11,Adam Lallana,6,Brighton,63,MID,18
+1509,2.08,Rúben Diogo da Silva Neves,6,Wolves,54,MID,14
+1510,2.07,Takumi Minamino,6,Liverpool,61,MID,15
+1511,2.07,Kalvin Phillips,6,Leeds,50,MID,2
+1512,2.06,Daniel Ceballos Fernández,6,Arsenal,50,MID,9
+1513,2.03,Moussa Sissoko,6,Spurs,48,MID,4
+1514,2.03,Declan Rice,6,West Ham,49,MID,12
+1515,2.0,Stuart Armstrong,6,Southampton,55,MID,7
+1516,1.97,Jeffrey Schlupp,6,Crystal Palace,55,MID,8
+1517,1.93,Sander Berge,6,Sheffield Utd,50,MID,11
+1518,1.9,Jake Livermore,6,West Brom,49,MID,3
+1519,1.89,Jeff Hendrick,6,Newcastle,50,MID,20
+1520,1.88,Bernardo Mota Veiga de Carvalho e Silva,6,Man City,74,MID,19
+1521,1.87,Conor Gallagher,6,West Brom,55,MID,3
+1522,1.84,N'Golo Kanté,6,Chelsea,49,MID,13
+1523,1.77,Erik Lamela,6,Spurs,59,MID,4
+1524,1.76,Frederico Rodrigues de Paula Santos,6,Man Utd,53,MID,5
+1525,1.74,Jairo Riedewald,6,Crystal Palace,44,MID,8
+1526,1.73,Dennis Praet,6,Leicester,55,MID,1
+1527,1.72,James Milner,6,Liverpool,53,MID,15
+1528,1.7,Johann Berg Gudmundsson,6,Burnley,54,MID,17
+1529,1.67,Paul Pogba,6,Man Utd,78,MID,5
+1530,1.66,Nathan Redmond,6,Southampton,64,MID,7
+1531,1.64,Isaac Hayden,6,Newcastle,49,MID,20
+1532,1.62,Allan Marques Loureiro,6,Everton,54,MID,16
+1533,1.57,Curtis Jones,6,Liverpool,44,MID,15
+1534,1.56,Oliver Norwood,6,Sheffield Utd,48,MID,11
+1535,1.55,Eberechi Eze,6,Crystal Palace,59,MID,8
+1536,1.54,Mason Greenwood,6,Man Utd,73,MID,5
+1537,1.52,Pascal Groß,6,Brighton,58,MID,18
+1538,1.51,André Filipe Tavares Gomes,6,Everton,55,MID,16
+1539,1.51,Granit Xhaka,6,Arsenal,54,MID,9
+1540,1.5,Oliver Burke,6,Sheffield Utd,45,MID,11
+1541,1.48,Steven Alzate,6,Brighton,45,MID,18
+1542,1.47,Ian Carlo Poveda-Ocampo,6,Leeds,44,MID,2
+1543,1.45,Harvey Elliott,6,Liverpool,44,MID,15
+1544,1.45,Henri Lansbury,6,Aston Villa,44,MID,10
+1545,1.45,Marvelous Nakamba,6,Aston Villa,44,MID,10
+1546,1.44,José Ignacio Peleteiro Romallo,6,Aston Villa,59,MID,10
+1547,1.44,Anwar El Ghazi,6,Aston Villa,58,MID,10
+1548,1.43,Harry Wilson,6,Liverpool,52,MID,15
+1549,1.43,Gylfi Sigurdsson,6,Everton,69,MID,16
+1550,1.43,Xherdan Shaqiri,6,Liverpool,64,MID,15
+1551,1.43,Alex Oxlade-Chamberlain,6,Liverpool,64,MID,15
+1552,1.42,James McCarthy,6,Crystal Palace,45,MID,8
+1553,1.41,Ferran Torres,6,Man City,69,MID,19
+1554,1.39,Nemanja Matic,6,Man Utd,49,MID,5
+1555,1.36,Donny van de Beek,6,Man Utd,69,MID,5
+1556,1.36,Romaine Sawyers,6,West Brom,49,MID,3
+1557,1.36,Gareth Bale,6,Spurs,95,MID,4
+1558,1.35,Jacob Ramsey,6,Aston Villa,45,MID,10
+1559,1.34,Mohamed Naser El Sayed Elneny,6,Arsenal,44,MID,9
+1560,1.34,Dale Stephens,6,Burnley,44,MID,17
+1561,1.3,Bamidele Alli,6,Spurs,75,MID,4
+1562,1.26,Hakim Ziyech,6,Chelsea,79,MID,13
+1563,1.26,Alireza Jahanbakhsh,6,Brighton,54,MID,18
+1564,1.24,Pablo Hernández Domínguez,6,Leeds,58,MID,2
+1565,1.24,Ilkay Gündogan,6,Man City,54,MID,19
+1566,1.2,Alex Iwobi,6,Everton,59,MID,16
+1567,1.19,Andriy Yarmolenko,6,West Ham,57,MID,12
+1568,1.19,Ben Osborn,6,Sheffield Utd,49,MID,11
+1569,1.18,Aboubakar Kamara,6,Fulham,49,MID,6
+1570,1.17,Hamza Choudhury,6,Leicester,49,MID,1
+1571,1.16,Luka Milivojevic,6,Crystal Palace,57,MID,8
+1572,1.16,Nathan Tella,6,Southampton,45,MID,7
+1573,1.16,Oliver Skipp,6,Spurs,45,MID,4
+1574,1.16,Gedson Carvalho Fernandes,6,Spurs,48,MID,4
+1575,1.14,Mario Lemina,6,Fulham,45,MID,6
+1576,1.13,Ryan Fraser,6,Newcastle,58,MID,20
+1577,1.13,Vitor Ferreira,6,Wolves,49,MID,14
+1578,1.13,Cengiz Ünder,6,Leicester,60,MID,1
+1579,1.11,Matt Ritchie,6,Newcastle,49,MID,20
+1580,1.11,Mateo Kovacic,6,Chelsea,54,MID,13
+1581,1.09,Matt Phillips,6,West Brom,52,MID,3
+1582,1.09,Neeskens Kebano,6,Fulham,48,MID,6
+1583,1.09,Tyler Roberts,6,Leeds,49,MID,2
+1584,1.09,Robbie Brady,6,Burnley,50,MID,17
+1585,1.09,Harry Winks,6,Spurs,54,MID,4
+1586,1.08,Wilfred Ndidi,6,Leicester,49,MID,1
+1587,1.06,Mark Noble,6,West Ham,48,MID,12
+1588,1.06,Adrien Silva,6,Leicester,44,MID,1
+1589,1.06,Bruno André Cavaco Jordao,6,Wolves,44,MID,14
+1590,1.06,Matty James,6,Leicester,44,MID,1
+1591,1.06,Robert Snodgrass,6,West Ham,58,MID,12
+1592,1.06,William Smallbone,6,Southampton,45,MID,7
+1593,1.05,Morgan Gibbs-White,6,Wolves,50,MID,14
+1594,1.05,Max Meyer,6,Crystal Palace,48,MID,8
+1595,1.05,José Izquierdo,6,Brighton,55,MID,18
+1596,1.05,Felipe Anderson Pereira Gomes,6,West Ham,62,MID,12
+1597,1.05,Meritan Shabani,6,Wolves,45,MID,14
+1598,1.05,Josh Sims,6,Southampton,44,MID,7
+1599,1.05,Sofiane Boufal,6,Southampton,54,MID,7
+1600,1.05,Jayson Molumby,6,Brighton,45,MID,18
+1601,1.05,Davy Pröpper,6,Brighton,49,MID,18
+1602,1.05,Marc Albrighton,6,Leicester,53,MID,1
+1603,1.05,Jack Wilshere,6,West Ham,49,MID,12
+1604,1.05,Brandon Pierrick,6,Crystal Palace,44,MID,8
+1605,1.05,Aaron Mooy,6,Brighton,50,MID,18
+1606,1.05,Demarai Gray,6,Leicester,53,MID,1
+1607,1.04,Kyle Edwards,6,West Brom,49,MID,3
+1608,1.03,Sam Field,6,West Brom,48,MID,3
+1609,1.02,John Fleck,6,Sheffield Utd,57,MID,11
+1610,1.02,Billy Gilmour,6,Chelsea,45,MID,13
+1611,1.02,Miguel Almirón,6,Newcastle,58,MID,20
+1612,1.02,Andreas Pereira,6,Man Utd,49,MID,5
+1613,1.02,James Garner,6,Man Utd,45,MID,5
+1614,1.02,Jesse Lingard,6,Man Utd,59,MID,5
+1615,1.01,Harrison Reed,6,Fulham,45,MID,6
+1616,1.01,Mesut Özil,6,Arsenal,68,MID,9
+1617,1.01,Fabian Delph,6,Everton,49,MID,16
+1618,1.01,Tahith Chong,6,Man Utd,45,MID,5
+1619,1.0,Bernard Anício Caldeira Duarte,6,Everton,58,MID,16
+1620,1.0,Kamil Grosicki,6,West Brom,53,MID,3
+1621,1.0,Jean-Philippe Gbamin,6,Everton,50,MID,16
+1622,1.0,Joseph Willock,6,Arsenal,48,MID,9
+1623,1.0,Stefan Johansen,6,Fulham,48,MID,6
+1624,1.0,Kevin McDonald,6,Fulham,48,MID,6
+1625,1.0,Josh Onomah,6,Fulham,48,MID,6
+1626,1.0,Anthony Gordon,6,Everton,44,MID,16
+1627,1.0,Adrián Bernabé,6,Man City,45,MID,19
+1628,1.0,Reiss Nelson,6,Arsenal,52,MID,9
+1629,1.0,Rekeem Harper,6,West Brom,44,MID,3
+1630,1.0,Cole Palmer,6,Man City,45,MID,19
+1631,1.0,Matthew Longstaff,6,Newcastle,49,MID,20
+1632,1.0,Gabriel Teodoro Martinelli Silva,6,Arsenal,49,MID,9
+1633,1.0,Tom Davies,6,Everton,54,MID,16
+1634,1.0,Emile Smith Rowe,6,Arsenal,44,MID,9
+1635,1.0,Anthony Knockaert,6,Fulham,52,MID,6
+1636,1.0,Jean Michaël Seri,6,Fulham,47,MID,6
+1637,1.0,Tommy Doyle,6,Man City,45,MID,19
+1638,1.0,Lucas Torreira,6,Arsenal,48,MID,9
+1639,1.0,Matteo Guendouzi,6,Arsenal,48,MID,9
+1640,1.0,Christian Atsu,6,Newcastle,53,MID,20
+1641,1.0,Sean Longstaff,6,Newcastle,48,MID,20
+1642,1.0,Rolando Aarons,6,Newcastle,49,MID,20
+1643,1.0,Jonathan Leko,6,West Brom,45,MID,3
+1644,0.98,Mace Goodridge,6,Burnley,45,MID,17
+1645,0.98,Jacob Murphy,6,Newcastle,49,MID,20
+1646,0.98,Josh Benson,6,Burnley,45,MID,17
+1647,0.98,Jack Cork,6,Burnley,50,MID,17
+1648,0.98,Jordan Stevens,6,Leeds,44,MID,2
+1649,0.97,Jay-Roy Grot,6,Leeds,48,MID,2
+1650,0.97,Luke Freeman,6,Sheffield Utd,50,MID,11
+1651,0.97,Mateusz Bogusz,6,Leeds,45,MID,2
+1652,0.97,Adam Forshaw,6,Leeds,49,MID,2
+1653,0.97,Jamie Shackleton,6,Leeds,48,MID,2
+1654,,Ibrahima Diallo,6,Southampton,45,MID,7
+1655,,Facundo Pellistri,6,Man Utd,55,MID,5
+1656,,Owen Otasowie,6,Wolves,45,MID,14
+1657,,Thomas Partey,6,Arsenal,50,MID,9
+1658,,Ademola Lookman,6,Fulham,50,MID,6
+1659,,Raphael Dias Belloli,6,Leeds,55,MID,2
+1660,,Saïd Benrahma,6,West Ham,60,MID,12
+1661,,Filip Krovinovic,6,West Brom,50,MID,3
+1662,6.8,Harry Kane,6,Spurs,108,FWD,4
+1663,5.28,Dominic Calvert-Lewin,6,Everton,77,FWD,16
+1664,5.22,Timo Werner,6,Chelsea,93,FWD,13
+1665,4.94,Ollie Watkins,6,Aston Villa,60,FWD,10
+1666,4.88,Danny Ings,6,Southampton,85,FWD,7
+1667,4.84,Raúl Jiménez,6,Wolves,85,FWD,14
+1668,4.73,Neal Maupay,6,Brighton,66,FWD,18
+1669,4.22,Callum Wilson,6,Newcastle,65,FWD,20
+1670,4.21,Michail Antonio,6,West Ham,63,FWD,12
+1671,4.1,Che Adams,6,Southampton,58,FWD,7
+1672,4.08,Roberto Firmino,6,Liverpool,93,FWD,15
+1673,4.03,Patrick Bamford,6,Leeds,58,FWD,2
+1674,3.61,Aleksandar Mitrović,6,Fulham,59,FWD,6
+1675,3.29,Richarlison de Andrade,6,Everton,79,FWD,16
+1676,3.18,Kelechi Iheanacho,6,Leicester,57,FWD,1
+1677,3.01,Rodrigo Moreno,6,Leeds,58,FWD,2
+1678,2.91,Chris Wood,6,Burnley,64,FWD,17
+1679,2.68,Michy Batshuayi,6,Crystal Palace,58,FWD,8
+1680,2.68,Sergio Agüero,6,Man City,104,FWD,19
+1681,2.58,Ashley Barnes,6,Burnley,60,FWD,17
+1682,2.51,Joelinton Cássio Apolinário de Lira,6,Newcastle,58,FWD,20
+1683,2.3,Jamie Vardy,6,Leicester,100,FWD,1
+1684,2.28,Keinan Davis,6,Aston Villa,44,FWD,10
+1685,2.25,David McGoldrick,6,Sheffield Utd,53,FWD,11
+1686,2.22,Oliver McBurnie,6,Sheffield Utd,57,FWD,11
+1687,1.98,Divock Origi,6,Liverpool,53,FWD,15
+1688,1.98,Indiana Vassilev,6,Aston Villa,44,FWD,10
+1689,1.97,Tammy Abraham,6,Chelsea,73,FWD,13
+1690,1.96,Wesley Moraes,6,Aston Villa,60,FWD,10
+1691,1.96,Mbwana Samatta,6,Aston Villa,59,FWD,10
+1692,1.69,Jordan Ayew,6,Crystal Palace,58,FWD,8
+1693,1.67,Aaron Connolly,6,Brighton,55,FWD,18
+1694,1.6,Shane Long,6,Southampton,53,FWD,7
+1695,1.56,Christian Benteke,6,Crystal Palace,55,FWD,8
+1696,1.52,Fabio Silva,6,Wolves,53,FWD,14
+1697,1.5,Connor Wickham,6,Crystal Palace,45,FWD,8
+1698,1.49,Leonardo Campana,6,Wolves,49,FWD,14
+1699,1.48,Florin Andone,6,Brighton,48,FWD,18
+1700,1.48,Glenn Murray,6,Brighton,49,FWD,18
+1701,1.48,Léo Bonatini,6,Wolves,49,FWD,14
+1702,1.47,Jordan Hugill,6,West Ham,55,FWD,12
+1703,1.47,Albian Ajeti,6,West Ham,55,FWD,12
+1704,1.45,Anthony Martial,6,Man Utd,88,FWD,5
+1705,1.45,Alexandre Lacazette,6,Arsenal,85,FWD,9
+1706,1.44,Michael Obafemi,6,Southampton,48,FWD,7
+1707,1.42,Sébastien Haller,6,West Ham,62,FWD,12
+1708,1.32,Bobby Decordova-Reid,6,Fulham,54,FWD,6
+1709,1.31,Callum Robinson,6,West Brom,55,FWD,3
+1710,1.26,Edward Nketiah,6,Arsenal,57,FWD,9
+1711,1.23,Odion Ighalo,6,Man Utd,63,FWD,5
+1712,1.22,Rhian Brewster,6,Sheffield Utd,45,FWD,11
+1713,1.18,Olivier Giroud,6,Chelsea,67,FWD,13
+1714,1.13,Billy Sharp,6,Sheffield Utd,58,FWD,11
+1715,1.11,Liam Delap,6,Man City,45,FWD,19
+1716,1.04,Matej Vydra,6,Burnley,50,FWD,17
+1717,0.99,Andy Carroll,6,Newcastle,54,FWD,20
+1718,0.99,Gabriel Fernando de Jesus,6,Man City,93,FWD,19
+1719,0.97,Charlie Austin,6,West Brom,52,FWD,3
+1720,0.97,Yoshinori Muto,6,Newcastle,48,FWD,20
+1721,0.97,Moise Kean,6,Everton,58,FWD,16
+1722,0.96,Kenneth Zohore,6,West Brom,49,FWD,3
+1723,0.96,Cenk Tosun,6,Everton,60,FWD,16
+1724,0.96,Dwight Gayle,6,Newcastle,59,FWD,20
+1725,0.95,Hal Robson-Kanu,6,West Brom,53,FWD,3
+1726,0.93,Jay Rodriguez,6,Burnley,59,FWD,17
+1727,0.74,Lys Mousset,6,Sheffield Utd,58,FWD,11
+1728,,Danny Welbeck,6,Brighton,55,FWD,18
+1729,,Andi Zeqiri,6,Brighton,50,FWD,18
+1730,,Carlos Vinicius Alves Morais,6,Spurs,70,FWD,4
+1731,,Edinson Cavani,6,Man Utd,80,FWD,5
+1732,,Daniel N'Lundulu,6,Southampton,45,FWD,7
+1733,,Karlan Grant,6,West Brom,60,FWD,3
+1734,,Islam Slimani,6,Leicester,50,FWD,1
+1735,3.97,Kasper Schmeichel,7,Leicester,55,GK,10
+1736,3.89,Hugo Lloris,7,Spurs,55,GK,3
+1737,3.7,Emiliano Martínez,7,Aston Villa,48,GK,16
+1738,3.44,Jordan Pickford,7,Everton,50,GK,14
+1739,3.39,David de Gea,7,Man Utd,54,GK,1
+1740,3.22,Nick Pope,7,Burnley,54,GK,5
+1741,3.17,Illan Meslier,7,Leeds,45,GK,9
+1742,3.11,Vicente Guaita,7,Crystal Palace,50,GK,20
+1743,3.05,Alex McCarthy,7,Southampton,45,GK,2
+1744,2.93,Mathew Ryan,7,Brighton,45,GK,17
+1745,2.91,Bernd Leno,7,Arsenal,50,GK,13
+1746,2.84,Alphonse Areola,7,Fulham,45,GK,18
+1747,2.76,Karl Darlow,7,Newcastle,50,GK,7
+1748,2.76,Rui Pedro dos Santos Patrício,7,Wolves,55,GK,6
+1749,2.67,Alisson Ramses Becker,7,Liverpool,59,GK,19
+1750,2.62,Edouard Mendy,7,Chelsea,50,GK,4
+1751,2.61,Lukasz Fabianski,7,West Ham,50,GK,11
+1752,2.57,Sam Johnstone,7,West Brom,45,GK,8
+1753,2.55,Aaron Ramsdale,7,Sheffield Utd,49,GK,12
+1754,2.38,Ederson Santana de Moraes,7,Man City,60,GK,15
+1755,1.48,Ørjan Nyland,7,Aston Villa,40,GK,16
+1756,1.46,Joe Hart,7,Spurs,44,GK,3
+1757,1.45,Paulo Gazzaniga,7,Spurs,44,GK,3
+1758,1.3,Kepa Arrizabalaga,7,Chelsea,48,GK,4
+1759,1.29,Danny Ward,7,Leicester,44,GK,10
+1760,1.29,Caoimhin Kelleher,7,Liverpool,45,GK,19
+1761,1.28,Jed Steer,7,Aston Villa,40,GK,16
+1762,1.24,Dean Henderson,7,Man Utd,53,GK,1
+1763,1.22,Fabricio Agosto Ramírez,7,Fulham,40,GK,18
+1764,1.21,Marek Rodák,7,Fulham,44,GK,18
+1765,1.2,Marcus Bettinelli,7,Fulham,44,GK,18
+1766,1.2,Tom Heaton,7,Aston Villa,45,GK,16
+1767,1.2,Sergio Romero,7,Man Utd,49,GK,1
+1768,1.2,Willy Caballero,7,Chelsea,48,GK,4
+1769,1.12,Wayne Hennessey,7,Crystal Palace,44,GK,20
+1770,1.11,Wes Foderingham,7,Sheffield Utd,44,GK,12
+1771,1.11,Simon Moore,7,Sheffield Utd,44,GK,12
+1772,1.11,John Ruddy,7,Wolves,44,GK,6
+1773,1.11,Adrián San Miguel del Castillo,7,Liverpool,45,GK,19
+1774,1.11,Zack Steffen,7,Man City,45,GK,15
+1775,1.11,Jonas Lössl,7,Everton,44,GK,14
+1776,1.11,Martin Dubravka,7,Newcastle,49,GK,7
+1777,1.11,Mark Gillespie,7,Newcastle,44,GK,7
+1778,1.11,João Virgínia,7,Everton,44,GK,14
+1779,1.11,Matija Sarkic,7,Wolves,45,GK,6
+1780,1.11,Claudio Bravo,7,Man City,45,GK,15
+1781,1.06,David Button,7,West Brom,40,GK,8
+1782,1.04,Fraser Forster,7,Southampton,40,GK,2
+1783,1.03,Bailey Peacock-Farrell,7,Burnley,40,GK,5
+1784,1.02,Matt Macey,7,Arsenal,40,GK,13
+1785,1.02,Angus Gunn,7,Southampton,44,GK,2
+1786,1.02,Rúnar Alex Rúnarsson,7,Arsenal,45,GK,13
+1787,0.98,David Martin,7,West Ham,40,GK,11
+1788,0.95,Kamil Miazek,7,Leeds,40,GK,9
+1789,0.94,Francisco Casilla Cortés,7,Leeds,43,GK,9
+1790,0.93,Darren Randolph,7,West Ham,44,GK,11
+1791,0.93,Elia Caprile,7,Leeds,40,GK,9
+1792,0.92,Roberto Jimenez Gago,7,West Ham,45,GK,11
+1793,0.76,Christian Walton,7,Brighton,40,GK,17
+1794,0.76,Jason Steele,7,Brighton,40,GK,17
+1795,,Jack Butland,7,Crystal Palace,45,GK,20
+1796,,Robin Olsen,7,Everton,45,GK,14
+1797,,James Trafford,7,Man City,40,GK,15
+1798,,Michael Verrips,7,Sheffield Utd,40,GK,12
+1799,,Stephen Henderson,7,Crystal Palace,40,GK,20
+1800,,Robert Sánchez,7,Brighton,45,GK,17
+1801,,Karlo Ziger,7,Chelsea,40,GK,4
+1802,,Will Norris,7,Burnley,40,GK,5
+1803,6.39,Trent Alexander-Arnold,7,Liverpool,74,DEF,19
+1804,4.95,Timothy Castagne,7,Leicester,58,DEF,10
+1805,4.61,Matt Doherty,7,Spurs,58,DEF,3
+1806,4.61,Benjamin Chilwell,7,Chelsea,58,DEF,4
+1807,4.55,Andrew Robertson,7,Liverpool,71,DEF,19
+1808,4.46,Ben Davies,7,Spurs,48,DEF,3
+1809,4.23,Toby Alderweireld,7,Spurs,54,DEF,3
+1810,4.13,James Justin,7,Leicester,48,DEF,10
+1811,4.01,Eric Dier,7,Spurs,49,DEF,3
+1812,3.96,Antonee Robinson,7,Fulham,44,DEF,18
+1813,3.92,César Azpilicueta,7,Chelsea,59,DEF,4
+1814,3.91,Luke Shaw,7,Man Utd,49,DEF,1
+1815,3.75,Kurt Zouma,7,Chelsea,51,DEF,4
+1816,3.7,Joseph Gomez,7,Liverpool,54,DEF,19
+1817,3.69,Tyrick Mitchell,7,Crystal Palace,42,DEF,20
+1818,3.69,Harry Maguire,7,Man Utd,54,DEF,1
+1819,3.6,Reece James,7,Chelsea,50,DEF,4
+1820,3.57,Jonny Evans,7,Leicester,55,DEF,10
+1821,3.52,Aaron Wan-Bissaka,7,Man Utd,54,DEF,1
+1822,3.45,Thiago Thiago,7,Chelsea,55,DEF,4
+1823,3.41,Enda Stevens,7,Sheffield Utd,53,DEF,12
+1824,3.37,James Tarkowski,7,Burnley,54,DEF,5
+1825,3.24,Christian Fuchs,7,Leicester,45,DEF,10
+1826,3.24,George Baldock,7,Sheffield Utd,53,DEF,12
+1827,3.23,Gabriel Magalhães,7,Arsenal,51,DEF,13
+1828,3.22,Kyle Walker-Peters,7,Southampton,45,DEF,2
+1829,3.19,Ola Aina,7,Fulham,45,DEF,18
+1830,3.17,Wesley Fofana,7,Leicester,50,DEF,10
+1831,3.16,Héctor Bellerín,7,Arsenal,50,DEF,13
+1832,3.15,Ryan Bertrand,7,Southampton,50,DEF,2
+1833,3.08,Victor Lindelöf,7,Man Utd,49,DEF,1
+1834,3.07,Nélson Cabral Semedo,7,Wolves,55,DEF,6
+1835,3.07,Kyle Walker,7,Man City,60,DEF,15
+1836,3.02,Kieran Tierney,7,Arsenal,54,DEF,13
+1837,3.01,Stuart Dallas,7,Leeds,45,DEF,9
+1838,2.97,Luke Ayling,7,Leeds,45,DEF,9
+1839,2.88,Conor Coady,7,Wolves,50,DEF,6
+1840,2.87,John Egan,7,Sheffield Utd,49,DEF,12
+1841,2.87,Romain Saïss,7,Wolves,53,DEF,6
+1842,2.87,Willy Boly,7,Wolves,55,DEF,6
+1843,2.75,Davinson Sánchez,7,Spurs,54,DEF,3
+1844,2.68,Ezri Konsa Ngoyo,7,Aston Villa,47,DEF,16
+1845,2.66,Branislav Ivanovic,7,West Brom,45,DEF,8
+1846,2.64,Tim Ream,7,Fulham,44,DEF,18
+1847,2.62,Aaron Cresswell,7,West Ham,50,DEF,11
+1848,2.6,Jan Bednarek,7,Southampton,45,DEF,2
+1849,2.58,Rúben Santos Gato Alves Dias,7,Man City,55,DEF,15
+1850,2.53,Charlie Taylor,7,Burnley,45,DEF,5
+1851,2.52,Federico Fernández,7,Newcastle,49,DEF,7
+1852,2.5,Jamal Lewis,7,Newcastle,44,DEF,7
+1853,2.45,Matt Targett,7,Aston Villa,45,DEF,16
+1854,2.43,Yerry Mina,7,Everton,55,DEF,14
+1855,2.37,Fabian Schär,7,Newcastle,49,DEF,7
+1856,2.31,Chris Basham,7,Sheffield Utd,49,DEF,12
+1857,2.31,Vladimir Coufal,7,West Ham,45,DEF,11
+1858,2.3,Max Kilman,7,Wolves,42,DEF,6
+1859,2.26,Jamaal Lascelles,7,Newcastle,44,DEF,7
+1860,2.25,Sergio Reguilón,7,Spurs,56,DEF,3
+1861,2.24,Matthew Cash,7,Aston Villa,50,DEF,16
+1862,2.2,Arthur Masuaku,7,West Ham,45,DEF,11
+1863,2.17,Conor Townsend,7,West Brom,45,DEF,8
+1864,2.17,Eric Garcia,7,Man City,48,DEF,15
+1865,2.13,Virgil van Dijk,7,Liverpool,64,DEF,19
+1866,2.13,Jannik Vestergaard,7,Southampton,45,DEF,2
+1867,2.12,David Luiz Moreira Marinho,7,Arsenal,55,DEF,13
+1868,2.1,Scott Dann,7,Crystal Palace,44,DEF,20
+1869,2.1,Michael Keane,7,Everton,51,DEF,14
+1870,2.07,Tyrone Mings,7,Aston Villa,52,DEF,16
+1871,2.04,Ezgjan Alioski,7,Leeds,44,DEF,9
+1872,2.03,Serge Aurier,7,Spurs,52,DEF,3
+1873,1.95,Kevin Long,7,Burnley,45,DEF,5
+1874,1.93,Darnell Furlong,7,West Brom,45,DEF,8
+1875,1.93,Joel Matip,7,Liverpool,54,DEF,19
+1876,1.91,Oluwasemilogo Adesewo Ibidapo Ajayi,7,West Brom,48,DEF,8
+1877,1.9,Adam Webster,7,Brighton,45,DEF,17
+1878,1.84,João Pedro Cavaco Cancelo,7,Man City,54,DEF,15
+1879,1.83,Ethan Ampadu,7,Sheffield Utd,45,DEF,12
+1880,1.78,Angelo Ogbonna,7,West Ham,49,DEF,11
+1881,1.74,Robin Koch,7,Leeds,45,DEF,9
+1882,1.72,Matthew Lowton,7,Burnley,44,DEF,5
+1883,1.7,Danny Rose,7,Spurs,48,DEF,3
+1884,1.69,Cameron Carter-Vickers,7,Spurs,40,DEF,3
+1885,1.69,Japhet Tanganga,7,Spurs,49,DEF,3
+1886,1.69,Ryan Sessegnon,7,Spurs,48,DEF,3
+1887,1.69,Juan Foyth,7,Spurs,43,DEF,3
+1888,1.66,Lucas Digne,7,Everton,62,DEF,14
+1889,1.65,Nathan Aké,7,Man City,55,DEF,15
+1890,1.63,Andreas Christensen,7,Chelsea,49,DEF,4
+1891,1.62,Ben White,7,Brighton,45,DEF,17
+1892,1.59,Fabián Balbuena,7,West Ham,44,DEF,11
+1893,1.51,Çaglar Söyüncü,7,Leicester,54,DEF,10
+1894,1.47,Neco Williams,7,Liverpool,40,DEF,19
+1895,1.47,Tariq Lamptey,7,Brighton,47,DEF,17
+1896,1.41,Luke Thomas,7,Leicester,43,DEF,10
+1897,1.4,Ricardo Domingos Barbosa Pereira,7,Leicester,59,DEF,10
+1898,1.4,Filip Benkovic,7,Leicester,43,DEF,10
+1899,1.4,Joel Ward,7,Crystal Palace,45,DEF,20
+1900,1.4,Wes Morgan,7,Leicester,44,DEF,10
+1901,1.4,Konstantinos Tsimikas,7,Liverpool,49,DEF,19
+1902,1.36,Ahmed El Mohamady,7,Aston Villa,44,DEF,16
+1903,1.34,Marcos Alonso,7,Chelsea,58,DEF,4
+1904,1.33,Rúben Gonçalo Silva Nascimento Vinagre,7,Wolves,42,DEF,6
+1905,1.31,Gary Cahill,7,Crystal Palace,45,DEF,20
+1906,1.3,Antonio Rüdiger,7,Chelsea,46,DEF,4
+1907,1.3,Brandon Williams,7,Man Utd,43,DEF,1
+1908,1.28,Cyrus Christie,7,Fulham,43,DEF,18
+1909,1.28,Joël Veltman,7,Brighton,43,DEF,17
+1910,1.28,Marcos Rojo,7,Man Utd,49,DEF,1
+1911,1.28,Fikayo Tomori,7,Chelsea,48,DEF,4
+1912,1.28,Neil Taylor,7,Aston Villa,44,DEF,16
+1913,1.28,Axel Tuanzebe,7,Man Utd,45,DEF,1
+1914,1.28,Chris Smalling,7,Man Utd,49,DEF,1
+1915,1.28,Teden Mengi,7,Man Utd,40,DEF,1
+1916,1.28,Phil Jones,7,Man Utd,49,DEF,1
+1917,1.28,Timothy Fosu-Mensah,7,Man Utd,44,DEF,1
+1918,1.28,Kortney Hause,7,Aston Villa,44,DEF,16
+1919,1.28,Denis Odoi,7,Fulham,44,DEF,18
+1920,1.28,Frédéric Guilbert,7,Aston Villa,44,DEF,16
+1921,1.28,Kenny Tete,7,Fulham,44,DEF,18
+1922,1.28,Zeze Steven Sessegnon,7,Fulham,43,DEF,18
+1923,1.28,Emerson Palmieri dos Santos,7,Chelsea,48,DEF,4
+1924,1.28,José Diogo Dalot Teixeira,7,Man Utd,48,DEF,1
+1925,1.28,Bjorn Engels,7,Aston Villa,44,DEF,16
+1926,1.28,Michael Hector,7,Fulham,43,DEF,18
+1927,1.27,Lewis Dunk,7,Brighton,48,DEF,17
+1928,1.27,Alfie Mawson,7,Fulham,44,DEF,18
+1929,1.27,James Bree,7,Aston Villa,45,DEF,16
+1930,1.27,Emil Krafth,7,Newcastle,44,DEF,7
+1931,1.27,Oleksandr Zinchenko,7,Man City,55,DEF,15
+1932,1.25,Jarrad Branthwaite,7,Everton,39,DEF,14
+1933,1.25,Jack Robinson,7,Sheffield Utd,44,DEF,12
+1934,1.24,Joe Bryan,7,Fulham,48,DEF,18
+1935,1.24,Barry Douglas,7,Leeds,39,DEF,9
+1936,1.24,Oskar Buur,7,Wolves,40,DEF,6
+1937,1.23,Fernando Marçal,7,Wolves,49,DEF,6
+1938,1.23,Dan Burn,7,Brighton,44,DEF,17
+1939,1.23,Erik Pieters,7,Burnley,44,DEF,5
+1940,1.22,Nicolás Otamendi,7,Man City,49,DEF,15
+1941,1.22,Max Lowe,7,Sheffield Utd,44,DEF,12
+1942,1.22,Nathan Ferguson,7,Crystal Palace,40,DEF,20
+1943,1.22,Daniel Amartey,7,Leicester,40,DEF,10
+1944,1.22,Jack O'Connell,7,Sheffield Utd,48,DEF,12
+1945,1.21,Martin Kelly,7,Crystal Palace,43,DEF,20
+1946,1.21,Shkodran Mustafi,7,Arsenal,50,DEF,13
+1947,1.21,Patrick van Aanholt,7,Crystal Palace,54,DEF,20
+1948,1.21,John Stones,7,Man City,49,DEF,15
+1949,1.2,Ciaran Clark,7,Newcastle,45,DEF,7
+1950,1.2,Ryan Bennett,7,Wolves,44,DEF,6
+1951,1.2,Ryan Inniss,7,Crystal Palace,40,DEF,20
+1952,1.2,Ahmed El-Sayed Hegazy,7,West Brom,43,DEF,8
+1953,1.2,Phil Jagielka,7,Sheffield Utd,40,DEF,12
+1954,1.2,Jonathan Castro Otto,7,Wolves,54,DEF,6
+1955,1.2,Kelland Watts,7,Newcastle,40,DEF,7
+1956,1.2,Jonjoe Kenny,7,Everton,43,DEF,14
+1957,1.2,Mason Holgate,7,Everton,48,DEF,14
+1958,1.2,James Tomkins,7,Crystal Palace,45,DEF,20
+1959,1.2,DeAndre Yedlin,7,Newcastle,43,DEF,7
+1960,1.2,Jayden Bogle,7,Sheffield Utd,44,DEF,12
+1961,1.2,Florian Lejeune,7,Newcastle,43,DEF,7
+1962,1.2,Sam Woods,7,Crystal Palace,40,DEF,20
+1963,1.2,Paul Dummett,7,Newcastle,44,DEF,7
+1964,1.19,Niels Nkounkou,7,Everton,40,DEF,14
+1965,1.17,Ki-Jana Hoever,7,Wolves,45,DEF,6
+1966,1.17,Pascal Struijk,7,Leeds,40,DEF,9
+1967,1.17,William Saliba,7,Arsenal,42,DEF,13
+1968,1.16,Ainsley Maitland-Niles,7,Arsenal,48,DEF,13
+1969,1.16,Rob Holding,7,Arsenal,45,DEF,13
+1970,1.15,Jake Vokins,7,Southampton,40,DEF,2
+1971,1.14,Cédric Soares,7,Arsenal,47,DEF,13
+1972,1.14,Bobby Thomas,7,Burnley,40,DEF,5
+1973,1.14,Mohammed Salisu,7,Southampton,43,DEF,2
+1974,1.14,Ben Gibson,7,Burnley,40,DEF,5
+1975,1.14,Fernando Luiz Rosa,7,Man City,54,DEF,15
+1976,1.14,Jack Stephens,7,Southampton,48,DEF,2
+1977,1.14,Sead Kolasinac,7,Arsenal,48,DEF,13
+1978,1.14,Kieran Gibbs,7,West Brom,44,DEF,8
+1979,1.14,Ben Mee,7,Burnley,49,DEF,5
+1980,1.13,Anthony Driscoll-Glennon,7,Burnley,40,DEF,5
+1981,1.13,Sokratis Papastathopoulos,7,Arsenal,49,DEF,13
+1982,1.13,Calum Chambers,7,Arsenal,45,DEF,13
+1983,1.13,Pablo Marí,7,Arsenal,44,DEF,13
+1984,1.13,Cedric Kipre,7,West Brom,44,DEF,8
+1985,1.13,Yan Valery,7,Southampton,48,DEF,2
+1986,1.12,Seamus Coleman,7,Everton,50,DEF,14
+1987,1.1,Issa Diop,7,West Ham,45,DEF,11
+1988,1.1,Ben Johnson,7,West Ham,40,DEF,11
+1989,1.09,Eric Bailly,7,Man Utd,49,DEF,1
+1990,1.09,Ryan Fredericks,7,West Ham,44,DEF,11
+1991,1.09,Leif Davis,7,Leeds,40,DEF,9
+1992,1.09,Oliver Casey,7,Leeds,39,DEF,9
+1993,1.09,Maxime Le Marchand,7,Fulham,43,DEF,18
+1994,1.08,Benjamin Mendy,7,Man City,59,DEF,15
+1995,1.08,Diego Llorente,7,Leeds,44,DEF,9
+1996,1.08,Jimmy Dunne,7,Burnley,41,DEF,5
+1997,1.08,Javier Manquillo,7,Newcastle,45,DEF,7
+1998,1.07,Aymeric Laporte,7,Man City,60,DEF,15
+1999,1.04,Mamadou Sakho,7,Crystal Palace,45,DEF,20
+2000,1.03,Bernardo Fernandes da Silva Junior,7,Brighton,40,DEF,17
+2001,0.98,Dara O'Shea,7,West Brom,44,DEF,8
+2002,0.95,Kyle Bartley,7,West Brom,45,DEF,8
+2003,0.94,Phil Bardsley,7,Burnley,45,DEF,5
+2004,0.93,Liam Cooper,7,Leeds,44,DEF,9
+2005,0.92,Shane Duffy,7,Brighton,44,DEF,17
+2006,0.92,Martín Montoya,7,Brighton,45,DEF,17
+2007,0.92,Matthew Clarke,7,Brighton,44,DEF,17
+2008,,Craig Dawson,7,West Ham,45,DEF,11
+2009,,Rayan Ait Nouri,7,Wolves,50,DEF,6
+2010,,Nathaniel Phillips,7,Liverpool,40,DEF,19
+2011,,Alex Nicolao Telles,7,Man Utd,55,DEF,1
+2012,,Terence Kongolo,7,Fulham,45,DEF,18
+2013,,Joachim Andersen,7,Fulham,45,DEF,18
+2014,,Joe Rodon,7,Spurs,50,DEF,3
+2015,,Rhys Williams,7,Liverpool,40,DEF,19
+2016,,Nathaniel Clyne,7,Crystal Palace,45,DEF,20
+2017,,Tosin Adarabioyo,7,Fulham,45,DEF,18
+2018,,Ben Godfrey,7,Everton,50,DEF,14
+2019,11.56,Heung-Min Son,7,Spurs,95,MID,3
+2020,9.56,Mohamed Salah,7,Liverpool,124,MID,19
+2021,7.24,Sadio Mané,7,Liverpool,120,MID,19
+2022,6.72,Raheem Sterling,7,Man City,116,MID,15
+2023,6.7,Bruno Miguel Borges Fernandes,7,Man Utd,105,MID,1
+2024,6.56,Jack Grealish,7,Aston Villa,73,MID,16
+2025,6.35,Wilfried Zaha,7,Crystal Palace,73,MID,20
+2026,5.92,Marcus Rashford,7,Man Utd,95,MID,1
+2027,5.84,James Rodríguez,7,Everton,80,MID,14
+2028,5.28,Ademola Lookman,7,Fulham,50,MID,18
+2029,4.88,Ross Barkley,7,Aston Villa,60,MID,16
+2030,4.77,Kai Havertz,7,Chelsea,84,MID,4
+2031,4.74,Riyad Mahrez,7,Man City,84,MID,15
+2032,4.26,Phil Foden,7,Man City,66,MID,15
+2033,4.19,Pedro Lomba Neto,7,Wolves,55,MID,6
+2034,4.16,Jorge Luiz Frello Filho,7,Chelsea,53,MID,4
+2035,4.13,Tanguy Ndombele,7,Spurs,59,MID,3
+2036,3.93,Allan Saint-Maximin,7,Newcastle,53,MID,7
+2037,3.65,Christian Pulisic,7,Chelsea,83,MID,4
+2038,3.63,Kevin De Bruyne,7,Man City,115,MID,15
+2039,3.57,Bukayo Saka,7,Arsenal,53,MID,13
+2040,3.5,Tom Cairney,7,Fulham,53,MID,18
+2041,3.42,Diogo Jota,7,Liverpool,63,MID,19
+2042,3.35,Jordan Henderson,7,Liverpool,54,MID,19
+2043,3.34,Pablo Fornals,7,West Ham,64,MID,11
+2044,3.24,Jack Harrison,7,Leeds,55,MID,9
+2045,3.24,Erik Lamela,7,Spurs,59,MID,3
+2046,3.22,Hélder Wander Sousa de Azevedo e Costa,7,Leeds,57,MID,9
+2047,3.21,Pierre-Emerick Aubameyang,7,Arsenal,117,MID,13
+2048,3.19,Daniel James,7,Man Utd,63,MID,1
+2049,3.15,Matheus Pereira,7,West Brom,60,MID,8
+2050,3.14,Daniel Castelo Podence,7,Wolves,55,MID,6
+2051,3.14,Pierre-Emile Højbjerg,7,Spurs,49,MID,3
+2052,3.12,Lucas Rodrigues Moura da Silva,7,Spurs,69,MID,3
+2053,3.08,Juan Mata,7,Man Utd,59,MID,1
+2054,2.95,James Maddison,7,Leicester,70,MID,10
+2055,2.91,Mateusz Klich,7,Leeds,56,MID,9
+2056,2.91,James Ward-Prowse,7,Southampton,58,MID,2
+2057,2.91,Sander Berge,7,Sheffield Utd,50,MID,12
+2058,2.85,Oriol Romeu Vidal,7,Southampton,45,MID,2
+2059,2.83,Jarrod Bowen,7,West Ham,63,MID,11
+2060,2.83,Moussa Sissoko,7,Spurs,48,MID,3
+2061,2.8,Harvey Barnes,7,Leicester,70,MID,10
+2062,2.78,Mason Mount,7,Chelsea,68,MID,4
+2063,2.75,John McGinn,7,Aston Villa,55,MID,16
+2064,2.73,Jairo Riedewald,7,Crystal Palace,44,MID,20
+2065,2.67,Leander Dendoncker,7,Wolves,49,MID,6
+2066,2.63,Mahmoud Ahmed Ibrahim Hassan,7,Aston Villa,54,MID,16
+2067,2.59,Ashley Westwood,7,Burnley,54,MID,5
+2068,2.55,Nathan Redmond,7,Southampton,64,MID,2
+2069,2.53,Youri Tielemans,7,Leicester,64,MID,10
+2070,2.52,Scott McTominay,7,Man Utd,49,MID,1
+2071,2.48,Rúben Diogo da Silva Neves,7,Wolves,53,MID,6
+2072,2.48,Tomas Soucek,7,West Ham,49,MID,11
+2073,2.45,Jacob Murphy,7,Newcastle,49,MID,7
+2074,2.43,Daniel Ceballos Fernández,7,Arsenal,50,MID,13
+2075,2.43,Ayoze Pérez,7,Leicester,62,MID,10
+2076,2.43,Stuart Armstrong,7,Southampton,55,MID,2
+2077,2.4,Andros Townsend,7,Crystal Palace,60,MID,20
+2078,2.39,Leandro Trossard,7,Brighton,60,MID,17
+2079,2.39,Giovani Lo Celso,7,Spurs,69,MID,3
+2080,2.37,N'Golo Kanté,7,Chelsea,49,MID,4
+2081,2.36,Cengiz Ünder,7,Leicester,59,MID,10
+2082,2.31,Rodrigo Hernandez,7,Man City,54,MID,15
+2083,2.29,Solomon March,7,Brighton,50,MID,17
+2084,2.28,Fabio Henrique Tavares,7,Liverpool,55,MID,19
+2085,2.26,Georginio Wijnaldum,7,Liverpool,53,MID,19
+2086,2.26,Dwight McNeil,7,Burnley,59,MID,5
+2087,2.22,John Lundstram,7,Sheffield Utd,52,MID,12
+2088,2.22,Frederico Rodrigues de Paula Santos,7,Man Utd,53,MID,1
+2089,2.2,Yves Bissouma,7,Brighton,45,MID,17
+2090,2.2,Abdoulaye Doucouré,7,Everton,54,MID,14
+2091,2.19,Ruben Loftus-Cheek,7,Fulham,59,MID,18
+2092,2.17,Adam Lallana,7,Brighton,63,MID,17
+2093,2.13,Jeffrey Schlupp,7,Crystal Palace,55,MID,20
+2094,2.11,André-Frank Zambo Anguissa,7,Fulham,45,MID,18
+2095,2.1,Paul Pogba,7,Man Utd,78,MID,1
+2096,2.1,Nampalys Mendy,7,Leicester,45,MID,10
+2097,2.1,Jeff Hendrick,7,Newcastle,50,MID,7
+2098,2.09,Harrison Reed,7,Fulham,45,MID,18
+2099,2.09,Naby Keita,7,Liverpool,53,MID,19
+2100,2.08,Miguel Almirón,7,Newcastle,57,MID,7
+2101,2.08,Grady Diangana,7,West Brom,55,MID,8
+2102,2.07,Declan Rice,7,West Ham,49,MID,11
+2103,2.04,Gylfi Sigurdsson,7,Everton,68,MID,14
+2104,2.03,Gareth Bale,7,Spurs,95,MID,3
+2105,2.01,Ryan Fraser,7,Newcastle,58,MID,7
+2106,1.99,Dennis Praet,7,Leicester,55,MID,10
+2107,1.98,Ilkay Gündogan,7,Man City,54,MID,15
+2108,1.98,Douglas Luiz Soares de Paulo,7,Aston Villa,50,MID,16
+2109,1.94,Ben Osborn,7,Sheffield Utd,49,MID,12
+2110,1.93,Josh Brownhill,7,Burnley,50,MID,5
+2111,1.91,Filip Krovinovic,7,West Brom,50,MID,8
+2112,1.9,Steven Bergwijn,7,Spurs,71,MID,3
+2113,1.89,Johann Berg Gudmundsson,7,Burnley,54,MID,5
+2114,1.89,Conor Gallagher,7,West Brom,55,MID,8
+2115,1.86,Mason Greenwood,7,Man Utd,72,MID,1
+2116,1.86,Nicolas Pépé,7,Arsenal,77,MID,13
+2117,1.85,Cheikhou Kouyaté,7,Crystal Palace,50,MID,20
+2118,1.84,Alex Iwobi,7,Everton,59,MID,14
+2119,1.83,Takumi Minamino,7,Liverpool,61,MID,19
+2120,1.83,Ferran Torres,7,Man City,69,MID,15
+2121,1.81,Granit Xhaka,7,Arsenal,54,MID,13
+2122,1.8,Bernardo Mota Veiga de Carvalho e Silva,7,Man City,74,MID,15
+2123,1.79,Eberechi Eze,7,Crystal Palace,58,MID,20
+2124,1.79,Allan Marques Loureiro,7,Everton,54,MID,14
+2125,1.73,Harry Winks,7,Spurs,54,MID,3
+2126,1.71,Adama Traoré,7,Wolves,63,MID,6
+2127,1.7,Ivan Ricardo Neves Abreu Cavaleiro,7,Fulham,54,MID,18
+2128,1.69,Bernard Anício Caldeira Duarte,7,Everton,58,MID,14
+2129,1.69,Luka Milivojevic,7,Crystal Palace,57,MID,20
+2130,1.69,Jamie Shackleton,7,Leeds,48,MID,9
+2131,1.66,Thiago Alcántara do Nascimento,7,Liverpool,60,MID,19
+2132,1.65,Jake Livermore,7,West Brom,48,MID,8
+2133,1.64,Bamidele Alli,7,Spurs,75,MID,3
+2134,1.63,Theo Walcott,7,Southampton,58,MID,2
+2135,1.62,Aboubakar Kamara,7,Fulham,49,MID,18
+2136,1.6,Willian Borges Da Silva,7,Arsenal,78,MID,13
+2137,1.6,Mario Lemina,7,Fulham,45,MID,18
+2138,1.59,Oliver Burke,7,Sheffield Utd,45,MID,12
+2139,1.55,Bertrand Traoré,7,Aston Villa,59,MID,16
+2140,1.55,Callum Hudson-Odoi,7,Chelsea,58,MID,4
+2141,1.53,Oliver Skipp,7,Spurs,45,MID,3
+2142,1.53,Gedson Carvalho Fernandes,7,Spurs,48,MID,3
+2143,1.52,Jonjo Shelvey,7,Newcastle,54,MID,7
+2144,1.5,João Filipe Iria Santos Moutinho,7,Wolves,53,MID,6
+2145,1.5,Manuel Lanzini,7,West Ham,64,MID,11
+2146,1.47,James McArthur,7,Crystal Palace,54,MID,20
+2147,1.46,Alexis Mac Allister,7,Brighton,53,MID,17
+2148,1.46,Kalvin Phillips,7,Leeds,50,MID,9
+2149,1.46,Kyle Edwards,7,West Brom,49,MID,8
+2150,1.44,James Milner,7,Liverpool,53,MID,19
+2151,1.39,Donny van de Beek,7,Man Utd,68,MID,1
+2152,1.38,Pascal Groß,7,Brighton,58,MID,17
+2153,1.37,Marc Albrighton,7,Leicester,53,MID,10
+2154,1.37,Andriy Yarmolenko,7,West Ham,57,MID,11
+2155,1.35,Hakim Ziyech,7,Chelsea,79,MID,4
+2156,1.35,Isaac Hayden,7,Newcastle,48,MID,7
+2157,1.33,Anthony Gordon,7,Everton,44,MID,14
+2158,1.33,Fabian Delph,7,Everton,49,MID,14
+2159,1.33,André Filipe Tavares Gomes,7,Everton,55,MID,14
+2160,1.32,Oliver Norwood,7,Sheffield Utd,48,MID,12
+2161,1.32,Pablo Hernández Domínguez,7,Leeds,58,MID,9
+2162,1.28,Neeskens Kebano,7,Fulham,48,MID,18
+2163,1.25,Curtis Jones,7,Liverpool,44,MID,19
+2164,1.25,Nemanja Matic,7,Man Utd,49,MID,1
+2165,1.19,Wilfred Ndidi,7,Leicester,48,MID,10
+2166,1.16,Adrien Silva,7,Leicester,44,MID,10
+2167,1.15,Matty James,7,Leicester,44,MID,10
+2168,1.15,Dale Stephens,7,Burnley,44,MID,5
+2169,1.14,Harvey Elliott,7,Liverpool,44,MID,19
+2170,1.14,Demarai Gray,7,Leicester,53,MID,10
+2171,1.14,Marvelous Nakamba,7,Aston Villa,44,MID,16
+2172,1.13,Xherdan Shaqiri,7,Liverpool,64,MID,19
+2173,1.13,Harry Wilson,7,Liverpool,52,MID,19
+2174,1.13,Alex Oxlade-Chamberlain,7,Liverpool,64,MID,19
+2175,1.11,Sean Longstaff,7,Newcastle,48,MID,7
+2176,1.1,Moussa Djenepo,7,Southampton,55,MID,2
+2177,1.09,Hamza Choudhury,7,Leicester,48,MID,10
+2178,1.08,John Fleck,7,Sheffield Utd,57,MID,12
+2179,1.07,Jesse Lingard,7,Man Utd,59,MID,1
+2180,1.07,Conor Hourihane,7,Aston Villa,60,MID,16
+2181,1.07,Henri Lansbury,7,Aston Villa,44,MID,16
+2182,1.07,Mateo Kovacic,7,Chelsea,54,MID,4
+2183,1.06,Andreas Pereira,7,Man Utd,48,MID,1
+2184,1.06,Anwar El Ghazi,7,Aston Villa,58,MID,16
+2185,1.06,Jacob Ramsey,7,Aston Villa,45,MID,16
+2186,1.06,José Ignacio Peleteiro Romallo,7,Aston Villa,59,MID,16
+2187,1.06,Stefan Johansen,7,Fulham,48,MID,18
+2188,1.06,Anthony Knockaert,7,Fulham,51,MID,18
+2189,1.06,James Garner,7,Man Utd,44,MID,1
+2190,1.06,Jean Michaël Seri,7,Fulham,47,MID,18
+2191,1.06,Kevin McDonald,7,Fulham,48,MID,18
+2192,1.06,Josh Onomah,7,Fulham,48,MID,18
+2193,1.06,Billy Gilmour,7,Chelsea,44,MID,4
+2194,1.06,Tahith Chong,7,Man Utd,45,MID,1
+2195,1.06,Ian Carlo Poveda-Ocampo,7,Leeds,44,MID,9
+2196,1.05,Matt Phillips,7,West Brom,52,MID,8
+2197,1.03,James McCarthy,7,Crystal Palace,45,MID,20
+2198,1.03,Robbie Brady,7,Burnley,50,MID,5
+2199,1.03,Bruno André Cavaco Jordao,7,Wolves,44,MID,6
+2200,1.03,Steven Alzate,7,Brighton,45,MID,17
+2201,1.02,Christian Atsu,7,Newcastle,53,MID,7
+2202,1.02,Vitor Ferreira,7,Wolves,49,MID,6
+2203,1.02,Brandon Pierrick,7,Crystal Palace,44,MID,20
+2204,1.02,Morgan Gibbs-White,7,Wolves,50,MID,6
+2205,1.02,Matt Ritchie,7,Newcastle,49,MID,7
+2206,1.02,Rolando Aarons,7,Newcastle,49,MID,7
+2207,1.02,Jean-Philippe Gbamin,7,Everton,50,MID,14
+2208,1.02,Tommy Doyle,7,Man City,44,MID,15
+2209,1.02,Nathan Tella,7,Southampton,44,MID,2
+2210,1.02,Romaine Sawyers,7,West Brom,49,MID,8
+2211,1.02,Max Meyer,7,Crystal Palace,48,MID,20
+2212,1.02,Meritan Shabani,7,Wolves,45,MID,6
+2213,1.02,Luke Freeman,7,Sheffield Utd,50,MID,12
+2214,1.02,Matthew Longstaff,7,Newcastle,49,MID,7
+2215,1.02,Cole Palmer,7,Man City,45,MID,15
+2216,1.02,Adrián Bernabé,7,Man City,45,MID,15
+2217,1.01,Mesut Özil,7,Arsenal,68,MID,13
+2218,1.0,Emile Smith Rowe,7,Arsenal,44,MID,13
+2219,1.0,Gabriel Teodoro Martinelli Silva,7,Arsenal,49,MID,13
+2220,1.0,Kamil Grosicki,7,West Brom,53,MID,8
+2221,1.0,Lucas Torreira,7,Arsenal,47,MID,13
+2222,1.0,Sofiane Boufal,7,Southampton,54,MID,2
+2223,1.0,Jonathan Leko,7,West Brom,45,MID,8
+2224,1.0,Joseph Willock,7,Arsenal,48,MID,13
+2225,1.0,Reiss Nelson,7,Arsenal,52,MID,13
+2226,1.0,Josh Sims,7,Southampton,44,MID,2
+2227,1.0,Rekeem Harper,7,West Brom,44,MID,8
+2228,1.0,Jack Cork,7,Burnley,50,MID,5
+2229,1.0,Josh Benson,7,Burnley,45,MID,5
+2230,1.0,William Smallbone,7,Southampton,45,MID,2
+2231,1.0,Mace Goodridge,7,Burnley,45,MID,5
+2232,1.0,Matteo Guendouzi,7,Arsenal,47,MID,13
+2233,0.99,Mark Noble,7,West Ham,48,MID,11
+2234,0.99,Jack Wilshere,7,West Ham,49,MID,11
+2235,0.99,Jay-Roy Grot,7,Leeds,48,MID,9
+2236,0.99,Mateusz Bogusz,7,Leeds,44,MID,9
+2237,0.99,Jordan Stevens,7,Leeds,44,MID,9
+2238,0.99,Tyler Roberts,7,Leeds,49,MID,9
+2239,0.99,Adam Forshaw,7,Leeds,48,MID,9
+2240,0.99,Felipe Anderson Pereira Gomes,7,West Ham,62,MID,11
+2241,0.98,Sam Field,7,West Brom,48,MID,8
+2242,0.98,Robert Snodgrass,7,West Ham,58,MID,11
+2243,0.97,Aaron Mooy,7,Brighton,50,MID,17
+2244,0.97,Jayson Molumby,7,Brighton,45,MID,17
+2245,0.97,Davy Pröpper,7,Brighton,48,MID,17
+2246,0.97,José Izquierdo,7,Brighton,55,MID,17
+2247,0.97,Alireza Jahanbakhsh,7,Brighton,54,MID,17
+2248,0.97,Mohamed Naser El Sayed Elneny,7,Arsenal,44,MID,13
+2249,0.96,Tom Davies,7,Everton,53,MID,14
+2250,,Ibrahima Diallo,7,Southampton,45,MID,2
+2251,,Facundo Pellistri,7,Man Utd,55,MID,1
+2252,,Owen Otasowie,7,Wolves,45,MID,6
+2253,,Thomas Partey,7,Arsenal,50,MID,13
+2254,,Raphael Dias Belloli,7,Leeds,55,MID,9
+2255,,Saïd Benrahma,7,West Ham,60,MID,11
+2256,6.43,Harry Kane,7,Spurs,109,FWD,3
+2257,5.3,Patrick Bamford,7,Leeds,59,FWD,9
+2258,5.22,Dominic Calvert-Lewin,7,Everton,77,FWD,14
+2259,4.75,Ollie Watkins,7,Aston Villa,60,FWD,16
+2260,4.53,Raúl Jiménez,7,Wolves,85,FWD,6
+2261,4.39,Danny Ings,7,Southampton,85,FWD,2
+2262,4.34,Aleksandar Mitrović,7,Fulham,58,FWD,18
+2263,4.29,Timo Werner,7,Chelsea,93,FWD,4
+2264,4.18,Roberto Firmino,7,Liverpool,93,FWD,19
+2265,3.9,Che Adams,7,Southampton,58,FWD,2
+2266,3.85,Callum Wilson,7,Newcastle,65,FWD,7
+2267,3.67,Rodrigo Moreno,7,Leeds,58,FWD,9
+2268,3.51,Michy Batshuayi,7,Crystal Palace,58,FWD,20
+2269,3.5,Oliver McBurnie,7,Sheffield Utd,57,FWD,12
+2270,3.36,Neal Maupay,7,Brighton,66,FWD,17
+2271,3.3,Chris Wood,7,Burnley,63,FWD,5
+2272,3.15,Ashley Barnes,7,Burnley,60,FWD,5
+2273,2.88,Jamie Vardy,7,Leicester,100,FWD,10
+2274,2.85,Alexandre Lacazette,7,Arsenal,84,FWD,13
+2275,2.72,Michail Antonio,7,West Ham,63,FWD,11
+2276,2.4,Rhian Brewster,7,Sheffield Utd,45,FWD,12
+2277,1.88,Joelinton Cássio Apolinário de Lira,7,Newcastle,58,FWD,7
+2278,1.83,Anthony Martial,7,Man Utd,88,FWD,1
+2279,1.77,David McGoldrick,7,Sheffield Utd,53,FWD,12
+2280,1.73,Sergio Agüero,7,Man City,103,FWD,15
+2281,1.68,Billy Sharp,7,Sheffield Utd,57,FWD,12
+2282,1.64,Keinan Davis,7,Aston Villa,43,FWD,16
+2283,1.62,Tammy Abraham,7,Chelsea,72,FWD,4
+2284,1.61,Divock Origi,7,Liverpool,53,FWD,19
+2285,1.58,Kelechi Iheanacho,7,Leicester,57,FWD,10
+2286,1.51,Bobby Decordova-Reid,7,Fulham,54,FWD,18
+2287,1.48,Callum Robinson,7,West Brom,55,FWD,8
+2288,1.44,Olivier Giroud,7,Chelsea,67,FWD,4
+2289,1.44,Indiana Vassilev,7,Aston Villa,44,FWD,16
+2290,1.42,Odion Ighalo,7,Man Utd,62,FWD,1
+2291,1.42,Mbwana Samatta,7,Aston Villa,59,FWD,16
+2292,1.42,Wesley Moraes,7,Aston Villa,60,FWD,16
+2293,1.33,Edward Nketiah,7,Arsenal,57,FWD,13
+2294,1.31,Richarlison de Andrade,7,Everton,78,FWD,14
+2295,1.3,Jordan Ayew,7,Crystal Palace,57,FWD,20
+2296,1.28,Andy Carroll,7,Newcastle,53,FWD,7
+2297,1.27,Liam Delap,7,Man City,44,FWD,15
+2298,1.27,Gabriel Fernando de Jesus,7,Man City,93,FWD,15
+2299,1.26,Connor Wickham,7,Crystal Palace,45,FWD,20
+2300,1.26,Fabio Silva,7,Wolves,53,FWD,6
+2301,1.25,Lys Mousset,7,Sheffield Utd,58,FWD,12
+2302,1.25,Leonardo Campana,7,Wolves,49,FWD,6
+2303,1.25,Moise Kean,7,Everton,58,FWD,14
+2304,1.25,Léo Bonatini,7,Wolves,49,FWD,6
+2305,1.25,Yoshinori Muto,7,Newcastle,48,FWD,7
+2306,1.24,Dwight Gayle,7,Newcastle,59,FWD,7
+2307,1.24,Cenk Tosun,7,Everton,60,FWD,14
+2308,1.17,Christian Benteke,7,Crystal Palace,55,FWD,20
+2309,1.16,Jay Rodriguez,7,Burnley,59,FWD,5
+2310,1.15,Sébastien Haller,7,West Ham,61,FWD,11
+2311,1.11,Michael Obafemi,7,Southampton,48,FWD,2
+2312,1.1,Aaron Connolly,7,Brighton,55,FWD,17
+2313,1.09,Shane Long,7,Southampton,53,FWD,2
+2314,1.08,Charlie Austin,7,West Brom,52,FWD,8
+2315,1.08,Hal Robson-Kanu,7,West Brom,53,FWD,8
+2316,1.07,Kenneth Zohore,7,West Brom,49,FWD,8
+2317,1.06,Matej Vydra,7,Burnley,50,FWD,5
+2318,0.9,Jordan Hugill,7,West Ham,55,FWD,11
+2319,0.9,Albian Ajeti,7,West Ham,55,FWD,11
+2320,0.74,Florin Andone,7,Brighton,48,FWD,17
+2321,0.74,Glenn Murray,7,Brighton,49,FWD,17
+2322,,Danny Welbeck,7,Brighton,55,FWD,17
+2323,,Andi Zeqiri,7,Brighton,50,FWD,17
+2324,,Carlos Vinicius Alves Morais,7,Spurs,70,FWD,3
+2325,,Edinson Cavani,7,Man Utd,80,FWD,1
+2326,,Max Thompson,7,Burnley,45,FWD,5
+2327,,Daniel N'Lundulu,7,Southampton,45,FWD,2
+2328,,Ellis Simms,7,Everton,45,FWD,14
+2329,,Karlan Grant,7,West Brom,60,FWD,8
+2330,,Islam Slimani,7,Leicester,50,FWD,10
+2331,,Lewis Richardson,7,Burnley,45,FWD,5
+2332,4.05,Alex McCarthy,8,Southampton,45,GK,14
+2333,3.62,Kasper Schmeichel,8,Leicester,55,GK,20
+2334,3.59,Bernd Leno,8,Arsenal,50,GK,2
+2335,3.56,Vicente Guaita,8,Crystal Palace,50,GK,10
+2336,3.54,Edouard Mendy,8,Chelsea,51,GK,15
+2337,3.48,Lukasz Fabianski,8,West Ham,50,GK,8
+2338,3.44,Hugo Lloris,8,Spurs,55,GK,18
+2339,3.29,Emiliano Martínez,8,Aston Villa,48,GK,1
+2340,3.23,Ederson Santana de Moraes,8,Man City,60,GK,11
+2341,2.92,Rui Pedro dos Santos Patrício,8,Wolves,55,GK,9
+2342,2.92,Robin Olsen,8,Everton,45,GK,13
+2343,2.81,Alphonse Areola,8,Fulham,45,GK,19
+2344,2.76,Aaron Ramsdale,8,Sheffield Utd,49,GK,5
+2345,2.67,Alisson Ramses Becker,8,Liverpool,59,GK,12
+2346,2.58,Nick Pope,8,Burnley,54,GK,3
+2347,2.57,Illan Meslier,8,Leeds,45,GK,6
+2348,2.41,David de Gea,8,Man Utd,54,GK,7
+2349,2.25,Karl Darlow,8,Newcastle,50,GK,16
+2350,2.2,Sam Johnstone,8,West Brom,45,GK,17
+2351,1.59,Mathew Ryan,8,Brighton,45,GK,4
+2352,1.44,David Martin,8,West Ham,40,GK,8
+2353,1.44,Wayne Hennessey,8,Crystal Palace,44,GK,10
+2354,1.43,Danny Ward,8,Leicester,44,GK,20
+2355,1.43,Willy Caballero,8,Chelsea,48,GK,15
+2356,1.43,Stephen Henderson,8,Crystal Palace,40,GK,10
+2357,1.37,Ørjan Nyland,8,Aston Villa,40,GK,1
+2358,1.35,Fraser Forster,8,Southampton,40,GK,14
+2359,1.33,Joe Hart,8,Spurs,44,GK,18
+2360,1.32,Paulo Gazzaniga,8,Spurs,44,GK,18
+2361,1.32,Angus Gunn,8,Southampton,44,GK,14
+2362,1.32,Roberto Jimenez Gago,8,West Ham,45,GK,8
+2363,1.32,Darren Randolph,8,West Ham,44,GK,8
+2364,1.32,João Virgínia,8,Everton,44,GK,13
+2365,1.32,Jonas Lössl,8,Everton,44,GK,13
+2366,1.25,Jordan Pickford,8,Everton,50,GK,13
+2367,1.23,Christian Walton,8,Brighton,40,GK,4
+2368,1.22,Jason Steele,8,Brighton,40,GK,4
+2369,1.17,Jed Steer,8,Aston Villa,40,GK,1
+2370,1.14,Kepa Arrizabalaga,8,Chelsea,48,GK,15
+2371,1.12,Tom Heaton,8,Aston Villa,45,GK,1
+2372,1.12,Rúnar Alex Rúnarsson,8,Arsenal,45,GK,2
+2373,1.12,Zack Steffen,8,Man City,45,GK,11
+2374,1.12,Matt Macey,8,Arsenal,40,GK,2
+2375,1.12,Claudio Bravo,8,Man City,45,GK,11
+2376,1.12,Caoimhin Kelleher,8,Liverpool,45,GK,12
+2377,1.01,Bailey Peacock-Farrell,8,Burnley,40,GK,3
+2378,1.01,Will Norris,8,Burnley,40,GK,3
+2379,0.92,David Button,8,West Brom,40,GK,17
+2380,0.89,Fabricio Agosto Ramírez,8,Fulham,40,GK,19
+2381,0.89,Dean Henderson,8,Man Utd,53,GK,7
+2382,0.88,Marcus Bettinelli,8,Fulham,44,GK,19
+2383,0.88,Sergio Romero,8,Man Utd,49,GK,7
+2384,0.88,Martin Dubravka,8,Newcastle,49,GK,16
+2385,0.88,Mark Gillespie,8,Newcastle,44,GK,16
+2386,0.88,Marek Rodák,8,Fulham,44,GK,19
+2387,0.81,Matija Sarkic,8,Wolves,45,GK,9
+2388,0.81,Adrián San Miguel del Castillo,8,Liverpool,44,GK,12
+2389,0.81,Simon Moore,8,Sheffield Utd,44,GK,5
+2390,0.81,Kamil Miazek,8,Leeds,40,GK,6
+2391,0.81,Michael Verrips,8,Sheffield Utd,40,GK,5
+2392,0.81,Francisco Casilla Cortés,8,Leeds,43,GK,6
+2393,0.81,John Ruddy,8,Wolves,44,GK,9
+2394,0.81,Wes Foderingham,8,Sheffield Utd,44,GK,5
+2395,0.81,Elia Caprile,8,Leeds,40,GK,6
+2396,,Jack Butland,8,Crystal Palace,45,GK,10
+2397,,James Trafford,8,Man City,40,GK,11
+2398,,Robert Sánchez,8,Brighton,45,GK,4
+2399,,Karlo Ziger,8,Chelsea,40,GK,15
+2400,5.51,Benjamin Chilwell,8,Chelsea,59,DEF,15
+2401,5.09,Reece James,8,Chelsea,50,DEF,15
+2402,4.92,James Justin,8,Leicester,48,DEF,20
+2403,4.85,Kurt Zouma,8,Chelsea,53,DEF,15
+2404,4.7,Trent Alexander-Arnold,8,Liverpool,74,DEF,12
+2405,4.37,Tariq Lamptey,8,Brighton,47,DEF,4
+2406,4.32,Aaron Cresswell,8,West Ham,51,DEF,8
+2407,4.31,Gabriel Magalhães,8,Arsenal,51,DEF,2
+2408,4.1,Andrew Robertson,8,Liverpool,71,DEF,12
+2409,4.0,Scott Dann,8,Crystal Palace,44,DEF,10
+2410,3.97,Thiago Thiago,8,Chelsea,55,DEF,15
+2411,3.91,Arthur Masuaku,8,West Ham,45,DEF,8
+2412,3.86,Wesley Fofana,8,Leicester,50,DEF,20
+2413,3.83,João Pedro Cavaco Cancelo,8,Man City,54,DEF,11
+2414,3.79,Adam Webster,8,Brighton,44,DEF,4
+2415,3.78,Vladimir Coufal,8,West Ham,45,DEF,8
+2416,3.75,Kyle Walker-Peters,8,Southampton,45,DEF,14
+2417,3.67,Yerry Mina,8,Everton,55,DEF,13
+2418,3.62,Matt Targett,8,Aston Villa,45,DEF,1
+2419,3.46,Christian Fuchs,8,Leicester,45,DEF,20
+2420,3.45,Sergio Reguilón,8,Spurs,56,DEF,18
+2421,3.45,Jannik Vestergaard,8,Southampton,46,DEF,14
+2422,3.43,Nathaniel Clyne,8,Crystal Palace,45,DEF,10
+2423,3.42,Matt Doherty,8,Spurs,58,DEF,18
+2424,3.38,Patrick van Aanholt,8,Crystal Palace,54,DEF,10
+2425,3.37,Luke Thomas,8,Leicester,43,DEF,20
+2426,3.36,Kyle Walker,8,Man City,61,DEF,11
+2427,3.33,James Tarkowski,8,Burnley,54,DEF,3
+2428,3.26,Angelo Ogbonna,8,West Ham,49,DEF,8
+2429,3.26,Michael Keane,8,Everton,51,DEF,13
+2430,3.21,Tyrick Mitchell,8,Crystal Palace,42,DEF,10
+2431,3.2,Lucas Digne,8,Everton,61,DEF,13
+2432,3.15,Kieran Tierney,8,Arsenal,54,DEF,2
+2433,3.05,Toby Alderweireld,8,Spurs,54,DEF,18
+2434,3.04,Eric Dier,8,Spurs,49,DEF,18
+2435,2.95,Ben White,8,Brighton,45,DEF,4
+2436,2.93,Dan Burn,8,Brighton,44,DEF,4
+2437,2.89,Tyrone Mings,8,Aston Villa,52,DEF,1
+2438,2.86,Héctor Bellerín,8,Arsenal,51,DEF,2
+2439,2.77,Joseph Gomez,8,Liverpool,54,DEF,12
+2440,2.72,Fabián Balbuena,8,West Ham,44,DEF,8
+2441,2.71,Ezri Konsa Ngoyo,8,Aston Villa,47,DEF,1
+2442,2.7,Timothy Castagne,8,Leicester,57,DEF,20
+2443,2.65,Jan Bednarek,8,Southampton,45,DEF,14
+2444,2.56,Ryan Bertrand,8,Southampton,50,DEF,14
+2445,2.5,Joël Veltman,8,Brighton,43,DEF,4
+2446,2.39,Jonjoe Kenny,8,Everton,43,DEF,13
+2447,2.29,Aymeric Laporte,8,Man City,60,DEF,11
+2448,2.27,Rúben Santos Gato Alves Dias,8,Man City,55,DEF,11
+2449,2.26,Niels Nkounkou,8,Everton,40,DEF,13
+2450,2.26,Rob Holding,8,Arsenal,44,DEF,2
+2451,2.19,Matthew Cash,8,Aston Villa,50,DEF,1
+2452,2.14,Branislav Ivanovic,8,West Brom,45,DEF,17
+2453,2.14,Darnell Furlong,8,West Brom,45,DEF,17
+2454,2.08,Federico Fernández,8,Newcastle,49,DEF,16
+2455,2.05,Luke Shaw,8,Man Utd,49,DEF,7
+2456,2.04,Kevin Long,8,Burnley,45,DEF,3
+2457,2.02,César Azpilicueta,8,Chelsea,59,DEF,15
+2458,2.02,Jonny Evans,8,Leicester,55,DEF,20
+2459,2.0,Jamal Lewis,8,Newcastle,43,DEF,16
+2460,1.96,Jamaal Lascelles,8,Newcastle,44,DEF,16
+2461,1.95,Ben Davies,8,Spurs,48,DEF,18
+2462,1.84,Charlie Taylor,8,Burnley,45,DEF,3
+2463,1.8,Çaglar Söyüncü,8,Leicester,53,DEF,20
+2464,1.79,Conor Townsend,8,West Brom,45,DEF,17
+2465,1.78,Fabian Schär,8,Newcastle,49,DEF,16
+2466,1.78,Virgil van Dijk,8,Liverpool,63,DEF,12
+2467,1.77,Ben Godfrey,8,Everton,50,DEF,13
+2468,1.72,Harry Maguire,8,Man Utd,54,DEF,7
+2469,1.64,Aaron Wan-Bissaka,8,Man Utd,54,DEF,7
+2470,1.59,Ola Aina,8,Fulham,45,DEF,19
+2471,1.54,Matthew Lowton,8,Burnley,44,DEF,3
+2472,1.52,Marcos Alonso,8,Chelsea,58,DEF,15
+2473,1.52,Mamadou Sakho,8,Crystal Palace,45,DEF,10
+2474,1.49,Wes Morgan,8,Leicester,44,DEF,20
+2475,1.48,Daniel Amartey,8,Leicester,40,DEF,20
+2476,1.48,Stuart Dallas,8,Leeds,45,DEF,6
+2477,1.47,Antonio Rüdiger,8,Chelsea,46,DEF,15
+2478,1.47,Nathan Ferguson,8,Crystal Palace,40,DEF,10
+2479,1.45,Martin Kelly,8,Crystal Palace,43,DEF,10
+2480,1.44,Jack Stephens,8,Southampton,48,DEF,14
+2481,1.44,Bernardo Fernandes da Silva Junior,8,Brighton,39,DEF,4
+2482,1.44,Fikayo Tomori,8,Chelsea,48,DEF,15
+2483,1.44,Emerson Palmieri dos Santos,8,Chelsea,48,DEF,15
+2484,1.44,Luke Ayling,8,Leeds,45,DEF,6
+2485,1.43,Victor Lindelöf,8,Man Utd,49,DEF,7
+2486,1.43,Sam Woods,8,Crystal Palace,40,DEF,10
+2487,1.43,Ricardo Domingos Barbosa Pereira,8,Leicester,59,DEF,20
+2488,1.43,Ryan Inniss,8,Crystal Palace,40,DEF,10
+2489,1.43,Filip Benkovic,8,Leicester,43,DEF,20
+2490,1.43,James Tomkins,8,Crystal Palace,45,DEF,10
+2491,1.43,Chris Basham,8,Sheffield Utd,48,DEF,5
+2492,1.4,Andreas Christensen,8,Chelsea,48,DEF,15
+2493,1.38,Lewis Dunk,8,Brighton,48,DEF,4
+2494,1.38,Enda Stevens,8,Sheffield Utd,53,DEF,5
+2495,1.34,George Baldock,8,Sheffield Utd,53,DEF,5
+2496,1.34,Joel Ward,8,Crystal Palace,44,DEF,10
+2497,1.32,Antonee Robinson,8,Fulham,44,DEF,19
+2498,1.31,Joachim Andersen,8,Fulham,45,DEF,19
+2499,1.3,Gary Cahill,8,Crystal Palace,45,DEF,10
+2500,1.29,Ben Johnson,8,West Ham,40,DEF,8
+2501,1.28,Jarrad Branthwaite,8,Everton,39,DEF,13
+2502,1.28,Jake Vokins,8,Southampton,40,DEF,14
+2503,1.27,Issa Diop,8,West Ham,45,DEF,8
+2504,1.26,Ryan Fredericks,8,West Ham,44,DEF,8
+2505,1.26,Japhet Tanganga,8,Spurs,49,DEF,18
+2506,1.26,Ryan Sessegnon,8,Spurs,47,DEF,18
+2507,1.26,Juan Foyth,8,Spurs,43,DEF,18
+2508,1.26,Mason Holgate,8,Everton,48,DEF,13
+2509,1.26,Cameron Carter-Vickers,8,Spurs,40,DEF,18
+2510,1.26,Craig Dawson,8,West Ham,45,DEF,8
+2511,1.26,Yan Valery,8,Southampton,48,DEF,14
+2512,1.26,Mohammed Salisu,8,Southampton,43,DEF,14
+2513,1.26,Danny Rose,8,Spurs,48,DEF,18
+2514,1.25,Oluwasemilogo Adesewo Ibidapo Ajayi,8,West Brom,48,DEF,17
+2515,1.24,Tosin Adarabioyo,8,Fulham,45,DEF,19
+2516,1.24,Seamus Coleman,8,Everton,49,DEF,13
+2517,1.23,John Egan,8,Sheffield Utd,49,DEF,5
+2518,1.23,Serge Aurier,8,Spurs,52,DEF,18
+2519,1.22,Eric Garcia,8,Man City,48,DEF,11
+2520,1.18,Nélson Cabral Semedo,8,Wolves,55,DEF,9
+2521,1.17,David Luiz Moreira Marinho,8,Arsenal,55,DEF,2
+2522,1.17,Ahmed El Mohamady,8,Aston Villa,44,DEF,1
+2523,1.16,Rayan Ait Nouri,8,Wolves,50,DEF,9
+2524,1.14,Martín Montoya,8,Brighton,45,DEF,4
+2525,1.14,Shane Duffy,8,Brighton,44,DEF,4
+2526,1.14,Davinson Sánchez,8,Spurs,54,DEF,18
+2527,1.13,Matthew Clarke,8,Brighton,44,DEF,4
+2528,1.13,Shkodran Mustafi,8,Arsenal,50,DEF,2
+2529,1.11,Robin Koch,8,Leeds,45,DEF,6
+2530,1.08,Nathan Aké,8,Man City,55,DEF,11
+2531,1.04,Neco Williams,8,Liverpool,39,DEF,12
+2532,1.04,Max Lowe,8,Sheffield Utd,44,DEF,5
+2533,1.03,Ainsley Maitland-Niles,8,Arsenal,48,DEF,2
+2534,1.03,Conor Coady,8,Wolves,50,DEF,9
+2535,1.02,Oleksandr Zinchenko,8,Man City,55,DEF,11
+2536,1.02,Max Kilman,8,Wolves,43,DEF,9
+2537,1.02,William Saliba,8,Arsenal,41,DEF,2
+2538,1.02,Benjamin Mendy,8,Man City,59,DEF,11
+2539,1.01,John Stones,8,Man City,49,DEF,11
+2540,1.01,Fernando Luiz Rosa,8,Man City,54,DEF,11
+2541,1.01,Sokratis Papastathopoulos,8,Arsenal,49,DEF,2
+2542,1.01,James Bree,8,Aston Villa,45,DEF,1
+2543,1.01,Nicolás Otamendi,8,Man City,49,DEF,11
+2544,1.01,Konstantinos Tsimikas,8,Liverpool,49,DEF,12
+2545,1.01,Sead Kolasinac,8,Arsenal,48,DEF,2
+2546,1.01,Calum Chambers,8,Arsenal,45,DEF,2
+2547,1.01,Pablo Marí,8,Arsenal,44,DEF,2
+2548,1.01,Bjorn Engels,8,Aston Villa,44,DEF,1
+2549,1.01,Kortney Hause,8,Aston Villa,44,DEF,1
+2550,1.01,Cédric Soares,8,Arsenal,47,DEF,2
+2551,1.01,Neil Taylor,8,Aston Villa,44,DEF,1
+2552,1.01,Frédéric Guilbert,8,Aston Villa,44,DEF,1
+2553,1.0,Tim Ream,8,Fulham,44,DEF,19
+2554,0.98,Jimmy Dunne,8,Burnley,40,DEF,3
+2555,0.97,Willy Boly,8,Wolves,55,DEF,9
+2556,0.96,Bobby Thomas,8,Burnley,40,DEF,3
+2557,0.96,Ethan Ampadu,8,Sheffield Utd,44,DEF,5
+2558,0.96,Phil Bardsley,8,Burnley,45,DEF,3
+2559,0.95,Anthony Driscoll-Glennon,8,Burnley,40,DEF,3
+2560,0.95,Ben Gibson,8,Burnley,40,DEF,3
+2561,0.95,Ben Mee,8,Burnley,49,DEF,3
+2562,0.94,Joel Matip,8,Liverpool,54,DEF,12
+2563,0.93,Brandon Williams,8,Man Utd,43,DEF,7
+2564,0.93,Ezgjan Alioski,8,Leeds,44,DEF,6
+2565,0.93,Joe Bryan,8,Fulham,48,DEF,19
+2566,0.92,Phil Jones,8,Man Utd,49,DEF,7
+2567,0.92,Marcos Rojo,8,Man Utd,48,DEF,7
+2568,0.92,Cedric Kipre,8,West Brom,44,DEF,17
+2569,0.92,Kelland Watts,8,Newcastle,40,DEF,16
+2570,0.92,Axel Tuanzebe,8,Man Utd,45,DEF,7
+2571,0.92,Chris Smalling,8,Man Utd,49,DEF,7
+2572,0.92,Paul Dummett,8,Newcastle,44,DEF,16
+2573,0.92,Teden Mengi,8,Man Utd,40,DEF,7
+2574,0.92,Maxime Le Marchand,8,Fulham,43,DEF,19
+2575,0.92,Florian Lejeune,8,Newcastle,43,DEF,16
+2576,0.92,Zeze Steven Sessegnon,8,Fulham,43,DEF,19
+2577,0.92,DeAndre Yedlin,8,Newcastle,43,DEF,16
+2578,0.92,Michael Hector,8,Fulham,43,DEF,19
+2579,0.92,Kieran Gibbs,8,West Brom,44,DEF,17
+2580,0.92,Alfie Mawson,8,Fulham,44,DEF,19
+2581,0.92,Javier Manquillo,8,Newcastle,44,DEF,16
+2582,0.92,Ciaran Clark,8,Newcastle,45,DEF,16
+2583,0.92,Timothy Fosu-Mensah,8,Man Utd,44,DEF,7
+2584,0.92,Eric Bailly,8,Man Utd,49,DEF,7
+2585,0.92,Cyrus Christie,8,Fulham,43,DEF,19
+2586,0.92,José Diogo Dalot Teixeira,8,Man Utd,48,DEF,7
+2587,0.92,Kyle Bartley,8,West Brom,45,DEF,17
+2588,0.92,Kenny Tete,8,Fulham,44,DEF,19
+2589,0.92,Dara O'Shea,8,West Brom,43,DEF,17
+2590,0.92,Denis Odoi,8,Fulham,44,DEF,19
+2591,0.91,Alex Nicolao Telles,8,Man Utd,55,DEF,7
+2592,0.88,Liam Cooper,8,Leeds,44,DEF,6
+2593,0.87,Barry Douglas,8,Leeds,39,DEF,6
+2594,0.85,Emil Krafth,8,Newcastle,44,DEF,16
+2595,0.84,Oskar Buur,8,Wolves,40,DEF,9
+2596,0.84,Fernando Marçal,8,Wolves,48,DEF,9
+2597,0.84,Rúben Gonçalo Silva Nascimento Vinagre,8,Wolves,42,DEF,9
+2598,0.83,Phil Jagielka,8,Sheffield Utd,40,DEF,5
+2599,0.83,Jack O'Connell,8,Sheffield Utd,48,DEF,5
+2600,0.83,Diego Llorente,8,Leeds,44,DEF,6
+2601,0.83,Oliver Casey,8,Leeds,39,DEF,6
+2602,0.83,Ki-Jana Hoever,8,Wolves,45,DEF,9
+2603,0.83,Jonathan Castro Otto,8,Wolves,54,DEF,9
+2604,0.83,Leif Davis,8,Leeds,40,DEF,6
+2605,0.83,Jayden Bogle,8,Sheffield Utd,44,DEF,5
+2606,0.83,Ryan Bennett,8,Wolves,44,DEF,9
+2607,0.79,Pascal Struijk,8,Leeds,40,DEF,6
+2608,0.79,Erik Pieters,8,Burnley,43,DEF,3
+2609,0.77,Romain Saïss,8,Wolves,53,DEF,9
+2610,0.74,Ahmed El-Sayed Hegazy,8,West Brom,42,DEF,17
+2611,0.66,Jack Robinson,8,Sheffield Utd,44,DEF,5
+2612,,Lee Peltier,8,West Brom,40,DEF,17
+2613,,Nathaniel Phillips,8,Liverpool,40,DEF,12
+2614,,Terence Kongolo,8,Fulham,45,DEF,19
+2615,,Joe Rodon,8,Spurs,50,DEF,18
+2616,,Rhys Williams,8,Liverpool,40,DEF,12
+2617,,Kayne Ramsay,8,Southampton,40,DEF,14
+2618,9.22,Wilfried Zaha,8,Crystal Palace,74,MID,10
+2619,9.08,Heung-Min Son,8,Spurs,96,MID,18
+2620,7.58,Mohamed Salah,8,Liverpool,124,MID,12
+2621,6.38,Jack Grealish,8,Aston Villa,74,MID,1
+2622,5.42,Marcus Rashford,8,Man Utd,96,MID,7
+2623,4.93,James Ward-Prowse,8,Southampton,59,MID,14
+2624,4.93,Sadio Mané,8,Liverpool,120,MID,12
+2625,4.91,Bruno Miguel Borges Fernandes,8,Man Utd,105,MID,7
+2626,4.73,Raheem Sterling,8,Man City,116,MID,11
+2627,4.68,Jairo Riedewald,8,Crystal Palace,44,MID,10
+2628,4.62,James Rodríguez,8,Everton,79,MID,13
+2629,4.6,Phil Foden,8,Man City,66,MID,11
+2630,4.59,Riyad Mahrez,8,Man City,83,MID,11
+2631,4.54,Ross Barkley,8,Aston Villa,60,MID,1
+2632,4.49,Kevin De Bruyne,8,Man City,115,MID,11
+2633,4.42,Kai Havertz,8,Chelsea,84,MID,15
+2634,4.38,Harvey Barnes,8,Leicester,69,MID,20
+2635,4.35,James Maddison,8,Leicester,70,MID,20
+2636,4.34,Mason Mount,8,Chelsea,68,MID,15
+2637,4.31,Tom Cairney,8,Fulham,53,MID,19
+2638,4.29,Ademola Lookman,8,Fulham,50,MID,19
+2639,4.23,Youri Tielemans,8,Leicester,64,MID,20
+2640,4.1,Gylfi Sigurdsson,8,Everton,68,MID,13
+2641,3.96,Hakim Ziyech,8,Chelsea,80,MID,15
+2642,3.94,Diogo Jota,8,Liverpool,64,MID,12
+2643,3.76,Pablo Fornals,8,West Ham,64,MID,8
+2644,3.72,Eberechi Eze,8,Crystal Palace,58,MID,10
+2645,3.61,Andros Townsend,8,Crystal Palace,60,MID,10
+2646,3.61,Stuart Armstrong,8,Southampton,55,MID,14
+2647,3.61,Pierre-Emerick Aubameyang,8,Arsenal,117,MID,2
+2648,3.5,Christian Pulisic,8,Chelsea,83,MID,15
+2649,3.49,Cengiz Ünder,8,Leicester,59,MID,20
+2650,3.46,Bukayo Saka,8,Arsenal,53,MID,2
+2651,3.45,Sander Berge,8,Sheffield Utd,50,MID,5
+2652,3.45,Abdoulaye Doucouré,8,Everton,53,MID,13
+2653,3.39,Ferran Torres,8,Man City,69,MID,11
+2654,3.37,Pascal Groß,8,Brighton,58,MID,4
+2655,3.28,Leandro Trossard,8,Brighton,60,MID,4
+2656,3.27,Tomas Soucek,8,West Ham,49,MID,8
+2657,3.27,Jeffrey Schlupp,8,Crystal Palace,55,MID,10
+2658,3.26,Theo Walcott,8,Southampton,58,MID,14
+2659,3.22,Pedro Lomba Neto,8,Wolves,55,MID,9
+2660,3.22,Erik Lamela,8,Spurs,58,MID,18
+2661,3.21,Alex Iwobi,8,Everton,59,MID,13
+2662,3.2,Marc Albrighton,8,Leicester,53,MID,20
+2663,3.18,Adam Lallana,8,Brighton,62,MID,4
+2664,3.15,Ayoze Pérez,8,Leicester,61,MID,20
+2665,3.15,Gareth Bale,8,Spurs,95,MID,18
+2666,3.15,Jack Harrison,8,Leeds,55,MID,6
+2667,3.11,N'Golo Kanté,8,Chelsea,49,MID,15
+2668,3.08,Giovani Lo Celso,8,Spurs,69,MID,18
+2669,3.03,Jarrod Bowen,8,West Ham,63,MID,8
+2670,3.0,Mahmoud Ahmed Ibrahim Hassan,8,Aston Villa,54,MID,1
+2671,2.99,Solomon March,8,Brighton,50,MID,4
+2672,2.93,Daniel Castelo Podence,8,Wolves,55,MID,9
+2673,2.87,Hélder Wander Sousa de Azevedo e Costa,8,Leeds,57,MID,6
+2674,2.83,Tanguy Ndombele,8,Spurs,59,MID,18
+2675,2.79,Jacob Murphy,8,Newcastle,49,MID,16
+2676,2.79,Dennis Praet,8,Leicester,55,MID,20
+2677,2.72,Yves Bissouma,8,Brighton,45,MID,4
+2678,2.71,Douglas Luiz Soares de Paulo,8,Aston Villa,49,MID,1
+2679,2.71,John McGinn,8,Aston Villa,55,MID,1
+2680,2.68,Luka Milivojevic,8,Crystal Palace,57,MID,10
+2681,2.66,Nampalys Mendy,8,Leicester,45,MID,20
+2682,2.64,Allan Marques Loureiro,8,Everton,54,MID,13
+2683,2.58,Mateusz Klich,8,Leeds,56,MID,6
+2684,2.56,Callum Hudson-Odoi,8,Chelsea,58,MID,15
+2685,2.51,André Filipe Tavares Gomes,8,Everton,55,MID,13
+2686,2.5,Rúben Diogo da Silva Neves,8,Wolves,53,MID,9
+2687,2.47,Ashley Westwood,8,Burnley,54,MID,3
+2688,2.47,Rodrigo Hernandez,8,Man City,54,MID,11
+2689,2.44,Cheikhou Kouyaté,8,Crystal Palace,50,MID,10
+2690,2.43,Sean Longstaff,8,Newcastle,48,MID,16
+2691,2.43,Jordan Henderson,8,Liverpool,54,MID,12
+2692,2.41,Bernard Anício Caldeira Duarte,8,Everton,58,MID,13
+2693,2.41,Jorge Luiz Frello Filho,8,Chelsea,53,MID,15
+2694,2.4,Willian Borges Da Silva,8,Arsenal,78,MID,2
+2695,2.37,Grady Diangana,8,West Brom,55,MID,17
+2696,2.36,Oriol Romeu Vidal,8,Southampton,45,MID,14
+2697,2.34,Declan Rice,8,West Ham,48,MID,8
+2698,2.31,Xherdan Shaqiri,8,Liverpool,64,MID,12
+2699,2.29,André-Frank Zambo Anguissa,8,Fulham,45,MID,19
+2700,2.28,Matheus Pereira,8,West Brom,59,MID,17
+2701,2.28,Bernardo Mota Veiga de Carvalho e Silva,8,Man City,74,MID,11
+2702,2.26,Pierre-Emile Højbjerg,8,Spurs,49,MID,18
+2703,2.25,Thomas Partey,8,Arsenal,50,MID,2
+2704,2.22,Nathan Redmond,8,Southampton,64,MID,14
+2705,2.18,Lucas Rodrigues Moura da Silva,8,Spurs,68,MID,18
+2706,2.17,Georginio Wijnaldum,8,Liverpool,53,MID,12
+2707,2.14,Moussa Sissoko,8,Spurs,48,MID,18
+2708,2.12,James McCarthy,8,Crystal Palace,45,MID,10
+2709,2.12,Josh Brownhill,8,Burnley,50,MID,3
+2710,2.11,Miguel Almirón,8,Newcastle,57,MID,16
+2711,2.09,Mohamed Naser El Sayed Elneny,8,Arsenal,44,MID,2
+2712,2.09,Dwight McNeil,8,Burnley,58,MID,3
+2713,2.08,Allan Saint-Maximin,8,Newcastle,53,MID,16
+2714,2.08,Mason Greenwood,8,Man Utd,72,MID,7
+2715,2.07,Paul Pogba,8,Man Utd,78,MID,7
+2716,2.06,Manuel Lanzini,8,West Ham,64,MID,8
+2717,2.05,Conor Gallagher,8,West Brom,55,MID,17
+2718,2.02,Alexis Mac Allister,8,Brighton,53,MID,4
+2719,2.02,Fabian Delph,8,Everton,49,MID,13
+2720,1.99,Wilfred Ndidi,8,Leicester,48,MID,20
+2721,1.98,Scott McTominay,8,Man Utd,49,MID,7
+2722,1.97,Leander Dendoncker,8,Wolves,49,MID,9
+2723,1.96,Matty James,8,Leicester,43,MID,20
+2724,1.96,Jeff Hendrick,8,Newcastle,49,MID,16
+2725,1.96,Adrien Silva,8,Leicester,44,MID,20
+2726,1.95,Mateo Kovacic,8,Chelsea,53,MID,15
+2727,1.92,Brandon Pierrick,8,Crystal Palace,44,MID,10
+2728,1.92,Max Meyer,8,Crystal Palace,48,MID,10
+2729,1.92,Billy Gilmour,8,Chelsea,44,MID,15
+2730,1.92,Demarai Gray,8,Leicester,53,MID,20
+2731,1.9,Hamza Choudhury,8,Leicester,48,MID,20
+2732,1.88,Andriy Yarmolenko,8,West Ham,57,MID,8
+2733,1.81,Filip Krovinovic,8,West Brom,50,MID,17
+2734,1.73,Frederico Rodrigues de Paula Santos,8,Man Utd,53,MID,7
+2735,1.72,Harry Winks,8,Spurs,53,MID,18
+2736,1.72,Juan Mata,8,Man Utd,59,MID,7
+2737,1.71,Steven Bergwijn,8,Spurs,71,MID,18
+2738,1.69,Jamie Shackleton,8,Leeds,48,MID,6
+2739,1.69,Curtis Jones,8,Liverpool,44,MID,12
+2740,1.69,John Lundstram,8,Sheffield Utd,52,MID,5
+2741,1.65,Adama Traoré,8,Wolves,63,MID,9
+2742,1.65,Pablo Hernández Domínguez,8,Leeds,58,MID,6
+2743,1.64,Ryan Fraser,8,Newcastle,57,MID,16
+2744,1.62,Jake Livermore,8,West Brom,48,MID,17
+2745,1.61,Mario Lemina,8,Fulham,45,MID,19
+2746,1.6,Bertrand Traoré,8,Aston Villa,59,MID,1
+2747,1.6,Ben Osborn,8,Sheffield Utd,49,MID,5
+2748,1.59,Daniel Ceballos Fernández,8,Arsenal,49,MID,2
+2749,1.59,Mark Noble,8,West Ham,47,MID,8
+2750,1.58,Bamidele Alli,8,Spurs,75,MID,18
+2751,1.58,Harrison Reed,8,Fulham,45,MID,19
+2752,1.57,Ibrahima Diallo,8,Southampton,45,MID,14
+2753,1.56,William Smallbone,8,Southampton,45,MID,14
+2754,1.56,James McArthur,8,Crystal Palace,53,MID,10
+2755,1.55,Daniel James,8,Man Utd,63,MID,7
+2756,1.55,Felipe Anderson Pereira Gomes,8,West Ham,61,MID,8
+2757,1.55,Nathan Tella,8,Southampton,44,MID,14
+2758,1.55,Anthony Gordon,8,Everton,44,MID,13
+2759,1.54,Moussa Djenepo,8,Southampton,54,MID,14
+2760,1.54,Josh Sims,8,Southampton,44,MID,14
+2761,1.54,Tom Davies,8,Everton,53,MID,13
+2762,1.54,Jack Wilshere,8,West Ham,49,MID,8
+2763,1.53,Oliver Skipp,8,Spurs,44,MID,18
+2764,1.53,Sofiane Boufal,8,Southampton,54,MID,14
+2765,1.53,Jean-Philippe Gbamin,8,Everton,50,MID,13
+2766,1.53,Gedson Carvalho Fernandes,8,Spurs,48,MID,18
+2767,1.49,Dale Stephens,8,Burnley,44,MID,3
+2768,1.47,Fabio Henrique Tavares,8,Liverpool,54,MID,12
+2769,1.47,Nicolas Pépé,8,Arsenal,77,MID,2
+2770,1.47,Robert Snodgrass,8,West Ham,58,MID,8
+2771,1.46,Matt Phillips,8,West Brom,51,MID,17
+2772,1.43,Ian Carlo Poveda-Ocampo,8,Leeds,44,MID,6
+2773,1.41,Ilkay Gündogan,8,Man City,54,MID,11
+2774,1.41,Johann Berg Gudmundsson,8,Burnley,54,MID,3
+2775,1.4,Nemanja Matic,8,Man Utd,49,MID,7
+2776,1.4,Granit Xhaka,8,Arsenal,53,MID,2
+2777,1.37,Donny van de Beek,8,Man Utd,68,MID,7
+2778,1.36,Romaine Sawyers,8,West Brom,48,MID,17
+2779,1.29,Steven Alzate,8,Brighton,45,MID,4
+2780,1.28,Robbie Brady,8,Burnley,50,MID,3
+2781,1.26,Ruben Loftus-Cheek,8,Fulham,59,MID,19
+2782,1.25,Aaron Mooy,8,Brighton,50,MID,4
+2783,1.25,Jayson Molumby,8,Brighton,45,MID,4
+2784,1.25,Davy Pröpper,8,Brighton,48,MID,4
+2785,1.25,José Izquierdo,8,Brighton,55,MID,4
+2786,1.25,Alireza Jahanbakhsh,8,Brighton,54,MID,4
+2787,1.23,Tyler Roberts,8,Leeds,49,MID,6
+2788,1.23,Thiago Alcántara do Nascimento,8,Liverpool,59,MID,12
+2789,1.2,João Filipe Iria Santos Moutinho,8,Wolves,53,MID,9
+2790,1.14,Jonjo Shelvey,8,Newcastle,53,MID,16
+2791,1.12,James Milner,8,Liverpool,53,MID,12
+2792,1.12,Mesut Özil,8,Arsenal,68,MID,2
+2793,1.12,Oliver Norwood,8,Sheffield Utd,47,MID,5
+2794,1.11,Conor Hourihane,8,Aston Villa,60,MID,1
+2795,1.11,Naby Keita,8,Liverpool,52,MID,12
+2796,1.11,Kyle Edwards,8,West Brom,48,MID,17
+2797,1.11,Marvelous Nakamba,8,Aston Villa,44,MID,1
+2798,1.11,Takumi Minamino,8,Liverpool,61,MID,12
+2799,1.1,Anwar El Ghazi,8,Aston Villa,58,MID,1
+2800,1.1,Jacob Ramsey,8,Aston Villa,45,MID,1
+2801,1.1,Harvey Elliott,8,Liverpool,44,MID,12
+2802,1.1,Tommy Doyle,8,Man City,44,MID,11
+2803,1.1,Gabriel Teodoro Martinelli Silva,8,Arsenal,49,MID,2
+2804,1.1,Reiss Nelson,8,Arsenal,52,MID,2
+2805,1.1,Henri Lansbury,8,Aston Villa,44,MID,1
+2806,1.1,Joseph Willock,8,Arsenal,48,MID,2
+2807,1.1,José Ignacio Peleteiro Romallo,8,Aston Villa,59,MID,1
+2808,1.1,Harry Wilson,8,Liverpool,51,MID,12
+2809,1.1,Cole Palmer,8,Man City,45,MID,11
+2810,1.1,Alex Oxlade-Chamberlain,8,Liverpool,64,MID,12
+2811,1.1,Adrián Bernabé,8,Man City,45,MID,11
+2812,1.1,Emile Smith Rowe,8,Arsenal,44,MID,2
+2813,1.1,Lucas Torreira,8,Arsenal,47,MID,2
+2814,1.1,Matteo Guendouzi,8,Arsenal,47,MID,2
+2815,1.09,Ivan Ricardo Neves Abreu Cavaleiro,8,Fulham,53,MID,19
+2816,1.09,Aboubakar Kamara,8,Fulham,48,MID,19
+2817,1.06,Jack Cork,8,Burnley,50,MID,3
+2818,1.06,Mace Goodridge,8,Burnley,45,MID,3
+2819,1.06,Isaac Hayden,8,Newcastle,48,MID,16
+2820,1.06,Josh Benson,8,Burnley,45,MID,3
+2821,1.06,Oliver Burke,8,Sheffield Utd,44,MID,5
+2822,1.05,Rekeem Harper,8,West Brom,44,MID,17
+2823,1.04,Kamil Grosicki,8,West Brom,53,MID,17
+2824,1.04,Jean Michaël Seri,8,Fulham,47,MID,19
+2825,1.04,Jesse Lingard,8,Man Utd,59,MID,7
+2826,1.04,James Garner,8,Man Utd,44,MID,7
+2827,1.04,Matt Ritchie,8,Newcastle,49,MID,16
+2828,1.04,Christian Atsu,8,Newcastle,53,MID,16
+2829,1.04,Raphael Dias Belloli,8,Leeds,55,MID,6
+2830,1.04,Matthew Longstaff,8,Newcastle,49,MID,16
+2831,1.04,Neeskens Kebano,8,Fulham,48,MID,19
+2832,1.04,Andreas Pereira,8,Man Utd,48,MID,7
+2833,1.04,Jonathan Leko,8,West Brom,45,MID,17
+2834,1.04,Anthony Knockaert,8,Fulham,51,MID,19
+2835,1.04,Kevin McDonald,8,Fulham,47,MID,19
+2836,1.04,Tahith Chong,8,Man Utd,45,MID,7
+2837,1.04,Facundo Pellistri,8,Man Utd,54,MID,7
+2838,1.04,Sam Field,8,West Brom,48,MID,17
+2839,1.04,Rolando Aarons,8,Newcastle,48,MID,16
+2840,1.04,Stefan Johansen,8,Fulham,48,MID,19
+2841,1.04,Josh Onomah,8,Fulham,47,MID,19
+2842,1.03,Jordan Stevens,8,Leeds,44,MID,6
+2843,1.03,Bruno André Cavaco Jordao,8,Wolves,44,MID,9
+2844,1.03,Jay-Roy Grot,8,Leeds,48,MID,6
+2845,1.03,John Fleck,8,Sheffield Utd,57,MID,5
+2846,1.03,Vitor Ferreira,8,Wolves,48,MID,9
+2847,1.02,Mateusz Bogusz,8,Leeds,44,MID,6
+2848,1.02,Luke Freeman,8,Sheffield Utd,50,MID,5
+2849,1.02,Adam Forshaw,8,Leeds,48,MID,6
+2850,1.02,Owen Otasowie,8,Wolves,45,MID,9
+2851,1.02,Meritan Shabani,8,Wolves,45,MID,9
+2852,1.02,Morgan Gibbs-White,8,Wolves,49,MID,9
+2853,1.01,Kalvin Phillips,8,Leeds,49,MID,6
+2854,,Jack Jenkins,8,Leeds,45,MID,6
+2855,,Saïd Benrahma,8,West Ham,60,MID,8
+2856,6.74,Dominic Calvert-Lewin,8,Everton,77,FWD,13
+2857,6.3,Timo Werner,8,Chelsea,94,FWD,15
+2858,6.13,Harry Kane,8,Spurs,110,FWD,18
+2859,5.18,Jamie Vardy,8,Leicester,100,FWD,20
+2860,5.04,Che Adams,8,Southampton,58,FWD,14
+2861,4.98,Danny Ings,8,Southampton,84,FWD,14
+2862,4.63,Callum Wilson,8,Newcastle,66,FWD,16
+2863,4.09,Michy Batshuayi,8,Crystal Palace,58,FWD,10
+2864,3.89,Ollie Watkins,8,Aston Villa,60,FWD,1
+2865,3.84,Tammy Abraham,8,Chelsea,72,FWD,15
+2866,3.59,Raúl Jiménez,8,Wolves,85,FWD,9
+2867,3.56,Patrick Bamford,8,Leeds,60,FWD,6
+2868,3.45,Aleksandar Mitrović,8,Fulham,58,FWD,19
+2869,3.42,Alexandre Lacazette,8,Arsenal,84,FWD,2
+2870,3.29,Roberto Firmino,8,Liverpool,92,FWD,12
+2871,3.08,Ashley Barnes,8,Burnley,60,FWD,3
+2872,2.88,Sébastien Haller,8,West Ham,61,FWD,8
+2873,2.87,Chris Wood,8,Burnley,63,FWD,3
+2874,2.85,Bobby Decordova-Reid,8,Fulham,53,FWD,19
+2875,2.73,Karlan Grant,8,West Brom,60,FWD,17
+2876,2.37,Michail Antonio,8,West Ham,62,FWD,8
+2877,2.3,Jordan Ayew,8,Crystal Palace,57,FWD,10
+2878,2.29,Oliver McBurnie,8,Sheffield Utd,57,FWD,5
+2879,2.29,Neal Maupay,8,Brighton,65,FWD,4
+2880,2.26,Rhian Brewster,8,Sheffield Utd,45,FWD,5
+2881,2.25,Cenk Tosun,8,Everton,60,FWD,13
+2882,2.2,Olivier Giroud,8,Chelsea,67,FWD,15
+2883,2.1,Christian Benteke,8,Crystal Palace,55,FWD,10
+2884,2.0,Connor Wickham,8,Crystal Palace,45,FWD,10
+2885,1.9,Islam Slimani,8,Leicester,50,FWD,20
+2886,1.9,Jay Rodriguez,8,Burnley,58,FWD,3
+2887,1.88,Shane Long,8,Southampton,52,FWD,14
+2888,1.76,Richarlison de Andrade,8,Everton,78,FWD,13
+2889,1.75,Michael Obafemi,8,Southampton,47,FWD,14
+2890,1.72,Moise Kean,8,Everton,58,FWD,13
+2891,1.71,Carlos Vinicius Alves Morais,8,Spurs,70,FWD,18
+2892,1.71,Jordan Hugill,8,West Ham,55,FWD,8
+2893,1.71,Albian Ajeti,8,West Ham,55,FWD,8
+2894,1.59,Callum Robinson,8,West Brom,55,FWD,17
+2895,1.59,Kelechi Iheanacho,8,Leicester,57,FWD,20
+2896,1.49,Keinan Davis,8,Aston Villa,43,FWD,1
+2897,1.45,Glenn Murray,8,Brighton,48,FWD,4
+2898,1.45,Florin Andone,8,Brighton,48,FWD,4
+2899,1.45,Andi Zeqiri,8,Brighton,50,FWD,4
+2900,1.41,Edward Nketiah,8,Arsenal,56,FWD,2
+2901,1.34,Aaron Connolly,8,Brighton,54,FWD,4
+2902,1.22,Liam Delap,8,Man City,44,FWD,11
+2903,1.22,Indiana Vassilev,8,Aston Villa,44,FWD,1
+2904,1.21,Divock Origi,8,Liverpool,52,FWD,12
+2905,1.21,Gabriel Fernando de Jesus,8,Man City,93,FWD,11
+2906,1.21,Sergio Agüero,8,Man City,103,FWD,11
+2907,1.19,Mbwana Samatta,8,Aston Villa,59,FWD,1
+2908,1.19,Wesley Moraes,8,Aston Villa,60,FWD,1
+2909,1.13,Rodrigo Moreno,8,Leeds,58,FWD,6
+2910,1.03,Edinson Cavani,8,Man Utd,80,FWD,7
+2911,1.02,Matej Vydra,8,Burnley,49,FWD,3
+2912,0.93,David McGoldrick,8,Sheffield Utd,53,FWD,5
+2913,0.92,Anthony Martial,8,Man Utd,87,FWD,7
+2914,0.92,Andy Carroll,8,Newcastle,53,FWD,16
+2915,0.88,Joelinton Cássio Apolinário de Lira,8,Newcastle,57,FWD,16
+2916,0.85,Billy Sharp,8,Sheffield Utd,57,FWD,5
+2917,0.84,Charlie Austin,8,West Brom,51,FWD,17
+2918,0.84,Hal Robson-Kanu,8,West Brom,52,FWD,17
+2919,0.84,Kenneth Zohore,8,West Brom,49,FWD,17
+2920,0.84,Yoshinori Muto,8,Newcastle,48,FWD,16
+2921,0.84,Dwight Gayle,8,Newcastle,59,FWD,16
+2922,0.84,Odion Ighalo,8,Man Utd,62,FWD,7
+2923,0.77,Fabio Silva,8,Wolves,52,FWD,9
+2924,0.76,Leonardo Campana,8,Wolves,49,FWD,9
+2925,0.76,Lys Mousset,8,Sheffield Utd,58,FWD,5
+2926,0.76,Léo Bonatini,8,Wolves,49,FWD,9
+2927,,Danny Welbeck,8,Brighton,55,FWD,4
+2928,,Max Thompson,8,Burnley,45,FWD,3
+2929,,Daniel N'Lundulu,8,Southampton,45,FWD,14
+2930,,Ellis Simms,8,Everton,45,FWD,13
+2931,,Lewis Richardson,8,Burnley,45,FWD,3
+2932,3.94,Emiliano Martínez,9,Aston Villa,48,GK,3
+2933,3.56,Alex McCarthy,9,Southampton,45,GK,20
+2934,3.54,Bernd Leno,9,Arsenal,50,GK,10
+2935,3.51,Edouard Mendy,9,Chelsea,51,GK,14
+2936,3.38,Lukasz Fabianski,9,West Ham,50,GK,15
+2937,3.3,Vicente Guaita,9,Crystal Palace,50,GK,4
+2938,3.22,Rui Pedro dos Santos Patrício,9,Wolves,55,GK,16
+2939,3.15,Ederson Santana de Moraes,9,Man City,60,GK,17
+2940,3.15,Kasper Schmeichel,9,Leicester,55,GK,11
+2941,2.99,Jordan Pickford,9,Everton,50,GK,8
+2942,2.98,Nick Pope,9,Burnley,54,GK,6
+2943,2.97,Hugo Lloris,9,Spurs,55,GK,12
+2944,2.82,Sam Johnstone,9,West Brom,45,GK,13
+2945,2.76,David de Gea,9,Man Utd,54,GK,18
+2946,2.75,Mathew Ryan,9,Brighton,45,GK,2
+2947,2.68,Alisson Ramses Becker,9,Liverpool,59,GK,9
+2948,2.63,Karl Darlow,9,Newcastle,50,GK,5
+2949,2.55,Aaron Ramsdale,9,Sheffield Utd,49,GK,19
+2950,2.43,Alphonse Areola,9,Fulham,45,GK,7
+2951,2.27,Illan Meslier,9,Leeds,45,GK,1
+2952,1.53,Robin Olsen,9,Everton,45,GK,8
+2953,1.39,Kepa Arrizabalaga,9,Chelsea,48,GK,14
+2954,0.89,Adrián San Miguel del Castillo,9,Liverpool,44,GK,9
+2955,5.12,Benjamin Chilwell,9,Chelsea,59,DEF,14
+2956,5.0,Reece James,9,Chelsea,50,DEF,14
+2957,4.95,Vladimir Coufal,9,West Ham,45,DEF,15
+2958,4.69,Scott Dann,9,Crystal Palace,44,DEF,4
+2959,4.65,Thiago Thiago,9,Chelsea,55,DEF,14
+2960,4.59,James Justin,9,Leicester,48,DEF,11
+2961,4.41,Aaron Cresswell,9,West Ham,51,DEF,15
+2962,4.13,Gabriel Magalhães,9,Arsenal,51,DEF,10
+2963,4.13,Kyle Walker-Peters,9,Southampton,45,DEF,20
+2964,4.04,Matt Doherty,9,Spurs,58,DEF,12
+2965,3.95,Kieran Tierney,9,Arsenal,54,DEF,10
+2966,3.87,Trent Alexander-Arnold,9,Liverpool,74,DEF,9
+2967,3.79,Michael Keane,9,Everton,51,DEF,8
+2968,3.79,Arthur Masuaku,9,West Ham,45,DEF,15
+2969,3.76,Fabián Balbuena,9,West Ham,44,DEF,15
+2970,3.74,Jan Bednarek,9,Southampton,45,DEF,20
+2971,3.7,Wesley Fofana,9,Leicester,50,DEF,11
+2972,3.68,Ezri Konsa Ngoyo,9,Aston Villa,47,DEF,3
+2973,3.66,Nathaniel Clyne,9,Crystal Palace,45,DEF,4
+2974,3.64,Christian Fuchs,9,Leicester,45,DEF,11
+2975,3.61,Sergio Reguilón,9,Spurs,56,DEF,12
+2976,3.59,Matthew Cash,9,Aston Villa,50,DEF,3
+2977,3.56,Lucas Digne,9,Everton,61,DEF,8
+2978,3.51,Harry Maguire,9,Man Utd,54,DEF,18
+2979,3.49,Toby Alderweireld,9,Spurs,54,DEF,12
+2980,3.43,Héctor Bellerín,9,Arsenal,51,DEF,10
+2981,3.32,Angelo Ogbonna,9,West Ham,49,DEF,15
+2982,3.28,Jonny Evans,9,Leicester,55,DEF,11
+2983,3.16,Eric Dier,9,Spurs,49,DEF,12
+2984,3.14,Tyrick Mitchell,9,Crystal Palace,42,DEF,4
+2985,3.08,Jannik Vestergaard,9,Southampton,46,DEF,20
+2986,3.0,Patrick van Aanholt,9,Crystal Palace,54,DEF,4
+2987,2.98,Tyrone Mings,9,Aston Villa,52,DEF,3
+2988,2.92,Darnell Furlong,9,West Brom,45,DEF,13
+2989,2.86,Conor Townsend,9,West Brom,45,DEF,13
+2990,2.85,Aaron Wan-Bissaka,9,Man Utd,54,DEF,18
+2991,2.8,Oluwasemilogo Adesewo Ibidapo Ajayi,9,West Brom,48,DEF,13
+2992,2.8,Adam Webster,9,Brighton,44,DEF,2
+2993,2.8,Victor Lindelöf,9,Man Utd,49,DEF,18
+2994,2.78,Luke Thomas,9,Leicester,43,DEF,11
+2995,2.77,Dan Burn,9,Brighton,44,DEF,2
+2996,2.74,Kurt Zouma,9,Chelsea,53,DEF,14
+2997,2.72,Rob Holding,9,Arsenal,44,DEF,10
+2998,2.69,Timothy Castagne,9,Leicester,57,DEF,11
+2999,2.59,João Pedro Cavaco Cancelo,9,Man City,54,DEF,17
+3000,2.57,Andrew Robertson,9,Liverpool,71,DEF,9
+3001,2.54,Joël Veltman,9,Brighton,43,DEF,2
+3002,2.51,Matt Targett,9,Aston Villa,45,DEF,3
+3003,2.41,Yerry Mina,9,Everton,55,DEF,8
+3004,2.34,Ben White,9,Brighton,45,DEF,2
+3005,2.04,George Baldock,9,Sheffield Utd,53,DEF,19
+3006,2.01,Jamaal Lascelles,9,Newcastle,44,DEF,5
+3007,1.97,Niels Nkounkou,9,Everton,40,DEF,8
+3008,1.95,Jonjoe Kenny,9,Everton,43,DEF,8
+3009,1.94,Robin Koch,9,Leeds,45,DEF,1
+3010,1.94,Ryan Bertrand,9,Southampton,50,DEF,20
+3011,1.94,Fabian Schär,9,Newcastle,49,DEF,5
+3012,1.91,Rúben Santos Gato Alves Dias,9,Man City,55,DEF,17
+3013,1.9,John Egan,9,Sheffield Utd,49,DEF,19
+3014,1.87,Tariq Lamptey,9,Brighton,47,DEF,2
+3015,1.79,Chris Basham,9,Sheffield Utd,48,DEF,19
+3016,1.76,Jamal Lewis,9,Newcastle,43,DEF,5
+3017,1.75,Enda Stevens,9,Sheffield Utd,53,DEF,19
+3018,1.73,Kyle Walker,9,Man City,61,DEF,17
+3019,1.73,Luke Shaw,9,Man Utd,49,DEF,18
+3020,1.71,Antonee Robinson,9,Fulham,44,DEF,7
+3021,1.69,Conor Coady,9,Wolves,50,DEF,16
+3022,1.68,Federico Fernández,9,Newcastle,49,DEF,5
+3023,1.67,Charlie Taylor,9,Burnley,45,DEF,6
+3024,1.65,Joseph Gomez,9,Liverpool,54,DEF,9
+3025,1.62,Willy Boly,9,Wolves,55,DEF,16
+3026,1.6,Joel Ward,9,Crystal Palace,44,DEF,4
+3027,1.56,Gary Cahill,9,Crystal Palace,45,DEF,4
+3028,1.55,Nélson Cabral Semedo,9,Wolves,55,DEF,16
+3029,1.55,Aymeric Laporte,9,Man City,60,DEF,17
+3030,1.54,Ezgjan Alioski,9,Leeds,44,DEF,1
+3031,1.54,Luke Ayling,9,Leeds,45,DEF,1
+3032,1.53,Rayan Ait Nouri,9,Wolves,50,DEF,16
+3033,1.39,César Azpilicueta,9,Chelsea,59,DEF,14
+3034,1.39,Ben Godfrey,9,Everton,50,DEF,8
+3035,1.39,Max Lowe,9,Sheffield Utd,44,DEF,19
+3036,1.39,Andreas Christensen,9,Chelsea,48,DEF,14
+3037,1.38,Tosin Adarabioyo,9,Fulham,45,DEF,7
+3038,1.37,James Tarkowski,9,Burnley,54,DEF,6
+3039,1.37,Stuart Dallas,9,Leeds,45,DEF,1
+3040,1.33,Branislav Ivanovic,9,West Brom,45,DEF,13
+3041,1.31,David Luiz Moreira Marinho,9,Arsenal,55,DEF,10
+3042,1.3,Max Kilman,9,Wolves,43,DEF,16
+3043,1.3,Ola Aina,9,Fulham,45,DEF,7
+3044,1.28,Joel Matip,9,Liverpool,54,DEF,9
+3045,1.27,Liam Cooper,9,Leeds,44,DEF,1
+3046,1.24,Serge Aurier,9,Spurs,52,DEF,12
+3047,1.22,Davinson Sánchez,9,Spurs,54,DEF,12
+3048,1.16,Ben Davies,9,Spurs,48,DEF,12
+3049,1.15,Matthew Lowton,9,Burnley,44,DEF,6
+3050,1.12,Lewis Dunk,9,Brighton,48,DEF,2
+3051,1.09,Nathan Aké,9,Man City,55,DEF,17
+3052,1.09,Ahmed El-Sayed Hegazy,9,West Brom,42,DEF,13
+3053,1.03,Joachim Andersen,9,Fulham,45,DEF,7
+3054,0.99,Pascal Struijk,9,Leeds,40,DEF,1
+3055,0.98,Emil Krafth,9,Newcastle,44,DEF,5
+3056,0.98,Jack Robinson,9,Sheffield Utd,44,DEF,19
+3057,0.96,Ethan Ampadu,9,Sheffield Utd,44,DEF,19
+3058,0.94,Kevin Long,9,Burnley,45,DEF,6
+3059,0.92,Erik Pieters,9,Burnley,43,DEF,6
+3060,0.91,Eric Garcia,9,Man City,48,DEF,17
+3061,0.91,Romain Saïss,9,Wolves,53,DEF,16
+3062,0.74,Tim Ream,9,Fulham,44,DEF,7
+3063,8.03,Jack Grealish,9,Aston Villa,74,MID,3
+3064,7.66,Wilfried Zaha,9,Crystal Palace,74,MID,4
+3065,6.17,Heung-Min Son,9,Spurs,96,MID,12
+3066,6.07,Mohamed Salah,9,Liverpool,124,MID,9
+3067,5.44,Hakim Ziyech,9,Chelsea,80,MID,14
+3068,5.31,James Ward-Prowse,9,Southampton,59,MID,20
+3069,5.16,Ross Barkley,9,Aston Villa,60,MID,3
+3070,4.87,James Rodríguez,9,Everton,79,MID,8
+3071,4.85,Youri Tielemans,9,Leicester,64,MID,11
+3072,4.72,Pierre-Emerick Aubameyang,9,Arsenal,117,MID,10
+3073,4.64,Bruno Miguel Borges Fernandes,9,Man Utd,105,MID,18
+3074,4.58,Kevin De Bruyne,9,Man City,115,MID,17
+3075,4.5,Theo Walcott,9,Southampton,58,MID,20
+3076,4.46,Mason Mount,9,Chelsea,68,MID,14
+3077,4.45,Mahmoud Ahmed Ibrahim Hassan,9,Aston Villa,54,MID,3
+3078,4.28,Andros Townsend,9,Crystal Palace,60,MID,4
+3079,4.22,Harvey Barnes,9,Leicester,69,MID,11
+3080,4.1,Pablo Fornals,9,West Ham,64,MID,15
+3081,4.08,Marcus Rashford,9,Man Utd,96,MID,18
+3082,3.98,Gylfi Sigurdsson,9,Everton,68,MID,8
+3083,3.86,Jairo Riedewald,9,Crystal Palace,44,MID,4
+3084,3.85,Abdoulaye Doucouré,9,Everton,53,MID,8
+3085,3.82,Stuart Armstrong,9,Southampton,55,MID,20
+3086,3.81,Bernard Anício Caldeira Duarte,9,Everton,58,MID,8
+3087,3.7,Tomas Soucek,9,West Ham,49,MID,15
+3088,3.57,Oriol Romeu Vidal,9,Southampton,45,MID,20
+3089,3.57,Raheem Sterling,9,Man City,116,MID,17
+3090,3.46,James Maddison,9,Leicester,70,MID,11
+3091,3.45,Jarrod Bowen,9,West Ham,63,MID,15
+3092,3.4,Adam Lallana,9,Brighton,62,MID,2
+3093,3.4,Dennis Praet,9,Leicester,55,MID,11
+3094,3.35,Sadio Mané,9,Liverpool,120,MID,9
+3095,3.24,Pascal Groß,9,Brighton,58,MID,2
+3096,3.23,N'Golo Kanté,9,Chelsea,49,MID,14
+3097,3.22,Jack Harrison,9,Leeds,55,MID,1
+3098,3.21,Willian Borges Da Silva,9,Arsenal,78,MID,10
+3099,3.2,Daniel Castelo Podence,9,Wolves,55,MID,16
+3100,3.19,Pedro Lomba Neto,9,Wolves,55,MID,16
+3101,3.17,Diogo Jota,9,Liverpool,64,MID,9
+3102,3.17,Kai Havertz,9,Chelsea,84,MID,14
+3103,3.05,Jeffrey Schlupp,9,Crystal Palace,55,MID,4
+3104,3.01,Bukayo Saka,9,Arsenal,53,MID,10
+3105,3.0,Ferran Torres,9,Man City,69,MID,17
+3106,2.94,Mateusz Klich,9,Leeds,56,MID,1
+3107,2.87,John McGinn,9,Aston Villa,55,MID,3
+3108,2.85,Tanguy Ndombele,9,Spurs,59,MID,12
+3109,2.78,Rúben Diogo da Silva Neves,9,Wolves,53,MID,16
+3110,2.76,Ademola Lookman,9,Fulham,50,MID,7
+3111,2.73,Tom Cairney,9,Fulham,53,MID,7
+3112,2.7,James McArthur,9,Crystal Palace,53,MID,4
+3113,2.69,Filip Krovinovic,9,West Brom,50,MID,13
+3114,2.69,Alex Iwobi,9,Everton,59,MID,8
+3115,2.66,Conor Gallagher,9,West Brom,55,MID,13
+3116,2.64,Sander Berge,9,Sheffield Utd,50,MID,19
+3117,2.61,Hélder Wander Sousa de Azevedo e Costa,9,Leeds,57,MID,1
+3118,2.6,Cheikhou Kouyaté,9,Crystal Palace,50,MID,4
+3119,2.6,Declan Rice,9,West Ham,48,MID,15
+3120,2.59,Juan Mata,9,Man Utd,59,MID,18
+3121,2.57,Thomas Partey,9,Arsenal,50,MID,10
+3122,2.56,Christian Pulisic,9,Chelsea,83,MID,14
+3123,2.56,Allan Marques Loureiro,9,Everton,54,MID,8
+3124,2.55,Marc Albrighton,9,Leicester,53,MID,11
+3125,2.54,Sean Longstaff,9,Newcastle,48,MID,5
+3126,2.51,Jorge Luiz Frello Filho,9,Chelsea,53,MID,14
+3127,2.47,Douglas Luiz Soares de Paulo,9,Aston Villa,49,MID,3
+3128,2.4,Nicolas Pépé,9,Arsenal,77,MID,10
+3129,2.38,Nathan Redmond,9,Southampton,64,MID,20
+3130,2.37,Riyad Mahrez,9,Man City,83,MID,17
+3131,2.35,Nampalys Mendy,9,Leicester,45,MID,11
+3132,2.3,Scott McTominay,9,Man Utd,49,MID,18
+3133,2.3,Luka Milivojevic,9,Crystal Palace,57,MID,4
+3134,2.26,Jacob Murphy,9,Newcastle,49,MID,5
+3135,2.23,Mohamed Naser El Sayed Elneny,9,Arsenal,44,MID,10
+3136,2.23,Yves Bissouma,9,Brighton,45,MID,2
+3137,2.18,Daniel Ceballos Fernández,9,Arsenal,49,MID,10
+3138,2.15,John Lundstram,9,Sheffield Utd,52,MID,19
+3139,2.15,Pierre-Emile Højbjerg,9,Spurs,49,MID,12
+3140,2.13,Jake Livermore,9,West Brom,48,MID,13
+3141,2.12,Allan Saint-Maximin,9,Newcastle,53,MID,5
+3142,2.07,Ilkay Gündogan,9,Man City,54,MID,17
+3143,2.05,André Filipe Tavares Gomes,9,Everton,55,MID,8
+3144,2.05,Dwight McNeil,9,Burnley,58,MID,6
+3145,2.05,Ashley Westwood,9,Burnley,54,MID,6
+3146,2.03,Moussa Sissoko,9,Spurs,48,MID,12
+3147,2.02,André-Frank Zambo Anguissa,9,Fulham,45,MID,7
+3148,2.0,Grady Diangana,9,West Brom,55,MID,13
+3149,1.98,Jordan Henderson,9,Liverpool,54,MID,9
+3150,1.98,Leander Dendoncker,9,Wolves,49,MID,16
+3151,1.96,Frederico Rodrigues de Paula Santos,9,Man Utd,53,MID,18
+3152,1.91,Georginio Wijnaldum,9,Liverpool,53,MID,9
+3153,1.9,Rodrigo Hernandez,9,Man City,54,MID,17
+3154,1.89,Josh Brownhill,9,Burnley,50,MID,6
+3155,1.83,Miguel Almirón,9,Newcastle,57,MID,5
+3156,1.81,Jeff Hendrick,9,Newcastle,49,MID,5
+3157,1.79,Adama Traoré,9,Wolves,63,MID,16
+3158,1.78,Fabian Delph,9,Everton,49,MID,8
+3159,1.76,Andriy Yarmolenko,9,West Ham,57,MID,15
+3160,1.75,Erik Lamela,9,Spurs,58,MID,12
+3161,1.75,Harrison Reed,9,Fulham,45,MID,7
+3162,1.72,Bernardo Mota Veiga de Carvalho e Silva,9,Man City,74,MID,17
+3163,1.68,Phil Foden,9,Man City,66,MID,17
+3164,1.66,Lucas Rodrigues Moura da Silva,9,Spurs,68,MID,12
+3165,1.64,Matheus Pereira,9,West Brom,59,MID,13
+3166,1.62,Paul Pogba,9,Man Utd,78,MID,18
+3167,1.58,Mason Greenwood,9,Man Utd,72,MID,18
+3168,1.56,Leandro Trossard,9,Brighton,60,MID,2
+3169,1.55,Ben Osborn,9,Sheffield Utd,49,MID,19
+3170,1.51,Ayoze Pérez,9,Leicester,61,MID,11
+3171,1.51,Solomon March,9,Brighton,50,MID,2
+3172,1.49,Oliver Norwood,9,Sheffield Utd,47,MID,19
+3173,1.48,Bertrand Traoré,9,Aston Villa,59,MID,3
+3174,1.37,Granit Xhaka,9,Arsenal,53,MID,10
+3175,1.31,Jamie Shackleton,9,Leeds,48,MID,1
+3176,1.21,Daniel James,9,Man Utd,63,MID,18
+3177,1.2,Ryan Fraser,9,Newcastle,57,MID,5
+3178,1.19,Steven Bergwijn,9,Spurs,71,MID,12
+3179,1.19,Mario Lemina,9,Fulham,45,MID,7
+3180,1.18,Ruben Loftus-Cheek,9,Fulham,59,MID,7
+3181,1.13,Pablo Hernández Domínguez,9,Leeds,58,MID,1
+3182,1.12,João Filipe Iria Santos Moutinho,9,Wolves,53,MID,16
+3183,1.09,Ivan Ricardo Neves Abreu Cavaleiro,9,Fulham,53,MID,7
+3184,1.08,Curtis Jones,9,Liverpool,44,MID,9
+3185,1.06,Kalvin Phillips,9,Leeds,49,MID,1
+3186,1.06,Ian Carlo Poveda-Ocampo,9,Leeds,44,MID,1
+3187,1.05,Thiago Alcántara do Nascimento,9,Liverpool,59,MID,9
+3188,1.03,Jonjo Shelvey,9,Newcastle,53,MID,5
+3189,1.03,Isaac Hayden,9,Newcastle,48,MID,5
+3190,1.02,Johann Berg Gudmundsson,9,Burnley,54,MID,6
+3191,0.98,Fabio Henrique Tavares,9,Liverpool,54,MID,9
+3192,6.13,Harry Kane,9,Spurs,110,FWD,12
+3193,5.18,Dominic Calvert-Lewin,9,Everton,77,FWD,8
+3194,5.08,Jamie Vardy,9,Leicester,100,FWD,11
+3195,4.8,Patrick Bamford,9,Leeds,60,FWD,1
+3196,4.52,Tammy Abraham,9,Chelsea,72,FWD,14
+3197,4.47,Ollie Watkins,9,Aston Villa,60,FWD,3
+3198,4.37,Timo Werner,9,Chelsea,94,FWD,14
+3199,4.23,Che Adams,9,Southampton,58,FWD,20
+3200,3.58,Sébastien Haller,9,West Ham,61,FWD,15
+3201,3.05,Callum Robinson,9,West Brom,55,FWD,13
+3202,2.95,Danny Ings,9,Southampton,84,FWD,20
+3203,2.95,Neal Maupay,9,Brighton,65,FWD,2
+3204,2.94,Alexandre Lacazette,9,Arsenal,84,FWD,10
+3205,2.89,Karlan Grant,9,West Brom,60,FWD,13
+3206,2.84,Aleksandar Mitrović,9,Fulham,58,FWD,7
+3207,2.84,Raúl Jiménez,9,Wolves,85,FWD,16
+3208,2.75,Bobby Decordova-Reid,9,Fulham,53,FWD,7
+3209,2.69,Callum Wilson,9,Newcastle,66,FWD,5
+3210,2.36,David McGoldrick,9,Sheffield Utd,53,FWD,19
+3211,2.28,Michy Batshuayi,9,Crystal Palace,58,FWD,4
+3212,2.1,Roberto Firmino,9,Liverpool,92,FWD,9
+3213,2.06,Rhian Brewster,9,Sheffield Utd,45,FWD,19
+3214,1.95,Chris Wood,9,Burnley,63,FWD,6
+3215,1.93,Richarlison de Andrade,9,Everton,78,FWD,8
+3216,1.63,Kelechi Iheanacho,9,Leicester,57,FWD,11
+3217,1.62,Edinson Cavani,9,Man Utd,80,FWD,18
+3218,1.56,Ashley Barnes,9,Burnley,60,FWD,6
+3219,1.55,Oliver McBurnie,9,Sheffield Utd,57,FWD,19
+3220,1.55,Michail Antonio,9,West Ham,62,FWD,15
+3221,1.09,Joelinton Cássio Apolinário de Lira,9,Newcastle,57,FWD,5
+3222,1.05,Sergio Agüero,9,Man City,103,FWD,17
+3223,0.99,Rodrigo Moreno,9,Leeds,58,FWD,1
+3224,0.77,Jay Rodriguez,9,Burnley,58,FWD,6
+3225,3.94,Emiliano Martínez,9,Aston Villa,48,GK,3
+3226,3.56,Alex McCarthy,9,Southampton,45,GK,20
+3227,3.54,Bernd Leno,9,Arsenal,50,GK,10
+3228,3.51,Edouard Mendy,9,Chelsea,51,GK,14
+3229,3.38,Lukasz Fabianski,9,West Ham,50,GK,15
+3230,3.3,Vicente Guaita,9,Crystal Palace,50,GK,4
+3231,3.22,Rui Pedro dos Santos Patrício,9,Wolves,55,GK,16
+3232,3.15,Ederson Santana de Moraes,9,Man City,60,GK,17
+3233,3.15,Kasper Schmeichel,9,Leicester,55,GK,11
+3234,2.99,Jordan Pickford,9,Everton,50,GK,8
+3235,2.98,Nick Pope,9,Burnley,54,GK,6
+3236,2.97,Hugo Lloris,9,Spurs,55,GK,12
+3237,2.82,Sam Johnstone,9,West Brom,45,GK,13
+3238,2.76,David de Gea,9,Man Utd,54,GK,18
+3239,2.75,Mathew Ryan,9,Brighton,45,GK,2
+3240,2.68,Alisson Ramses Becker,9,Liverpool,59,GK,9
+3241,2.63,Karl Darlow,9,Newcastle,50,GK,5
+3242,2.55,Aaron Ramsdale,9,Sheffield Utd,49,GK,19
+3243,2.43,Alphonse Areola,9,Fulham,45,GK,7
+3244,2.27,Illan Meslier,9,Leeds,45,GK,1
+3245,1.53,Robin Olsen,9,Everton,45,GK,8
+3246,1.39,Kepa Arrizabalaga,9,Chelsea,48,GK,14
+3247,0.89,Adrián San Miguel del Castillo,9,Liverpool,44,GK,9
+3248,5.12,Benjamin Chilwell,9,Chelsea,59,DEF,14
+3249,5.0,Reece James,9,Chelsea,50,DEF,14
+3250,4.95,Vladimir Coufal,9,West Ham,45,DEF,15
+3251,4.69,Scott Dann,9,Crystal Palace,44,DEF,4
+3252,4.65,Thiago Thiago,9,Chelsea,55,DEF,14
+3253,4.59,James Justin,9,Leicester,48,DEF,11
+3254,4.41,Aaron Cresswell,9,West Ham,51,DEF,15
+3255,4.13,Gabriel Magalhães,9,Arsenal,51,DEF,10
+3256,4.13,Kyle Walker-Peters,9,Southampton,45,DEF,20
+3257,4.04,Matt Doherty,9,Spurs,58,DEF,12
+3258,3.95,Kieran Tierney,9,Arsenal,54,DEF,10
+3259,3.87,Trent Alexander-Arnold,9,Liverpool,74,DEF,9
+3260,3.79,Michael Keane,9,Everton,51,DEF,8
+3261,3.79,Arthur Masuaku,9,West Ham,45,DEF,15
+3262,3.76,Fabián Balbuena,9,West Ham,44,DEF,15
+3263,3.74,Jan Bednarek,9,Southampton,45,DEF,20
+3264,3.7,Wesley Fofana,9,Leicester,50,DEF,11
+3265,3.68,Ezri Konsa Ngoyo,9,Aston Villa,47,DEF,3
+3266,3.66,Nathaniel Clyne,9,Crystal Palace,45,DEF,4
+3267,3.64,Christian Fuchs,9,Leicester,45,DEF,11
+3268,3.61,Sergio Reguilón,9,Spurs,56,DEF,12
+3269,3.59,Matthew Cash,9,Aston Villa,50,DEF,3
+3270,3.56,Lucas Digne,9,Everton,61,DEF,8
+3271,3.51,Harry Maguire,9,Man Utd,54,DEF,18
+3272,3.49,Toby Alderweireld,9,Spurs,54,DEF,12
+3273,3.43,Héctor Bellerín,9,Arsenal,51,DEF,10
+3274,3.32,Angelo Ogbonna,9,West Ham,49,DEF,15
+3275,3.28,Jonny Evans,9,Leicester,55,DEF,11
+3276,3.16,Eric Dier,9,Spurs,49,DEF,12
+3277,3.14,Tyrick Mitchell,9,Crystal Palace,42,DEF,4
+3278,3.08,Jannik Vestergaard,9,Southampton,46,DEF,20
+3279,3.0,Patrick van Aanholt,9,Crystal Palace,54,DEF,4
+3280,2.98,Tyrone Mings,9,Aston Villa,52,DEF,3
+3281,2.92,Darnell Furlong,9,West Brom,45,DEF,13
+3282,2.86,Conor Townsend,9,West Brom,45,DEF,13
+3283,2.85,Aaron Wan-Bissaka,9,Man Utd,54,DEF,18
+3284,2.8,Oluwasemilogo Adesewo Ibidapo Ajayi,9,West Brom,48,DEF,13
+3285,2.8,Adam Webster,9,Brighton,44,DEF,2
+3286,2.8,Victor Lindelöf,9,Man Utd,49,DEF,18
+3287,2.78,Luke Thomas,9,Leicester,43,DEF,11
+3288,2.77,Dan Burn,9,Brighton,44,DEF,2
+3289,2.74,Kurt Zouma,9,Chelsea,53,DEF,14
+3290,2.72,Rob Holding,9,Arsenal,44,DEF,10
+3291,2.69,Timothy Castagne,9,Leicester,57,DEF,11
+3292,2.59,João Pedro Cavaco Cancelo,9,Man City,54,DEF,17
+3293,2.57,Andrew Robertson,9,Liverpool,71,DEF,9
+3294,2.54,Joël Veltman,9,Brighton,43,DEF,2
+3295,2.51,Matt Targett,9,Aston Villa,45,DEF,3
+3296,2.41,Yerry Mina,9,Everton,55,DEF,8
+3297,2.34,Ben White,9,Brighton,45,DEF,2
+3298,2.04,George Baldock,9,Sheffield Utd,53,DEF,19
+3299,2.01,Jamaal Lascelles,9,Newcastle,44,DEF,5
+3300,1.97,Niels Nkounkou,9,Everton,40,DEF,8
+3301,1.95,Jonjoe Kenny,9,Everton,43,DEF,8
+3302,1.94,Robin Koch,9,Leeds,45,DEF,1
+3303,1.94,Ryan Bertrand,9,Southampton,50,DEF,20
+3304,1.94,Fabian Schär,9,Newcastle,49,DEF,5
+3305,1.91,Rúben Santos Gato Alves Dias,9,Man City,55,DEF,17
+3306,1.9,John Egan,9,Sheffield Utd,49,DEF,19
+3307,1.87,Tariq Lamptey,9,Brighton,47,DEF,2
+3308,1.79,Chris Basham,9,Sheffield Utd,48,DEF,19
+3309,1.76,Jamal Lewis,9,Newcastle,43,DEF,5
+3310,1.75,Enda Stevens,9,Sheffield Utd,53,DEF,19
+3311,1.73,Kyle Walker,9,Man City,61,DEF,17
+3312,1.73,Luke Shaw,9,Man Utd,49,DEF,18
+3313,1.71,Antonee Robinson,9,Fulham,44,DEF,7
+3314,1.69,Conor Coady,9,Wolves,50,DEF,16
+3315,1.68,Federico Fernández,9,Newcastle,49,DEF,5
+3316,1.67,Charlie Taylor,9,Burnley,45,DEF,6
+3317,1.65,Joseph Gomez,9,Liverpool,54,DEF,9
+3318,1.62,Willy Boly,9,Wolves,55,DEF,16
+3319,1.6,Joel Ward,9,Crystal Palace,44,DEF,4
+3320,1.56,Gary Cahill,9,Crystal Palace,45,DEF,4
+3321,1.55,Nélson Cabral Semedo,9,Wolves,55,DEF,16
+3322,1.55,Aymeric Laporte,9,Man City,60,DEF,17
+3323,1.54,Ezgjan Alioski,9,Leeds,44,DEF,1
+3324,1.54,Luke Ayling,9,Leeds,45,DEF,1
+3325,1.53,Rayan Ait Nouri,9,Wolves,50,DEF,16
+3326,1.39,César Azpilicueta,9,Chelsea,59,DEF,14
+3327,1.39,Ben Godfrey,9,Everton,50,DEF,8
+3328,1.39,Max Lowe,9,Sheffield Utd,44,DEF,19
+3329,1.39,Andreas Christensen,9,Chelsea,48,DEF,14
+3330,1.38,Tosin Adarabioyo,9,Fulham,45,DEF,7
+3331,1.37,James Tarkowski,9,Burnley,54,DEF,6
+3332,1.37,Stuart Dallas,9,Leeds,45,DEF,1
+3333,1.33,Branislav Ivanovic,9,West Brom,45,DEF,13
+3334,1.31,David Luiz Moreira Marinho,9,Arsenal,55,DEF,10
+3335,1.3,Max Kilman,9,Wolves,43,DEF,16
+3336,1.3,Ola Aina,9,Fulham,45,DEF,7
+3337,1.28,Joel Matip,9,Liverpool,54,DEF,9
+3338,1.27,Liam Cooper,9,Leeds,44,DEF,1
+3339,1.24,Serge Aurier,9,Spurs,52,DEF,12
+3340,1.22,Davinson Sánchez,9,Spurs,54,DEF,12
+3341,1.16,Ben Davies,9,Spurs,48,DEF,12
+3342,1.15,Matthew Lowton,9,Burnley,44,DEF,6
+3343,1.12,Lewis Dunk,9,Brighton,48,DEF,2
+3344,1.09,Nathan Aké,9,Man City,55,DEF,17
+3345,1.09,Ahmed El-Sayed Hegazy,9,West Brom,42,DEF,13
+3346,1.03,Joachim Andersen,9,Fulham,45,DEF,7
+3347,0.99,Pascal Struijk,9,Leeds,40,DEF,1
+3348,0.98,Emil Krafth,9,Newcastle,44,DEF,5
+3349,0.98,Jack Robinson,9,Sheffield Utd,44,DEF,19
+3350,0.96,Ethan Ampadu,9,Sheffield Utd,44,DEF,19
+3351,0.94,Kevin Long,9,Burnley,45,DEF,6
+3352,0.92,Erik Pieters,9,Burnley,43,DEF,6
+3353,0.91,Eric Garcia,9,Man City,48,DEF,17
+3354,0.91,Romain Saïss,9,Wolves,53,DEF,16
+3355,0.74,Tim Ream,9,Fulham,44,DEF,7
+3356,8.03,Jack Grealish,9,Aston Villa,74,MID,3
+3357,7.66,Wilfried Zaha,9,Crystal Palace,74,MID,4
+3358,6.17,Heung-Min Son,9,Spurs,96,MID,12
+3359,6.07,Mohamed Salah,9,Liverpool,124,MID,9
+3360,5.44,Hakim Ziyech,9,Chelsea,80,MID,14
+3361,5.31,James Ward-Prowse,9,Southampton,59,MID,20
+3362,5.16,Ross Barkley,9,Aston Villa,60,MID,3
+3363,4.87,James Rodríguez,9,Everton,79,MID,8
+3364,4.85,Youri Tielemans,9,Leicester,64,MID,11
+3365,4.72,Pierre-Emerick Aubameyang,9,Arsenal,117,MID,10
+3366,4.64,Bruno Miguel Borges Fernandes,9,Man Utd,105,MID,18
+3367,4.58,Kevin De Bruyne,9,Man City,115,MID,17
+3368,4.5,Theo Walcott,9,Southampton,58,MID,20
+3369,4.46,Mason Mount,9,Chelsea,68,MID,14
+3370,4.45,Mahmoud Ahmed Ibrahim Hassan,9,Aston Villa,54,MID,3
+3371,4.28,Andros Townsend,9,Crystal Palace,60,MID,4
+3372,4.22,Harvey Barnes,9,Leicester,69,MID,11
+3373,4.1,Pablo Fornals,9,West Ham,64,MID,15
+3374,4.08,Marcus Rashford,9,Man Utd,96,MID,18
+3375,3.98,Gylfi Sigurdsson,9,Everton,68,MID,8
+3376,3.86,Jairo Riedewald,9,Crystal Palace,44,MID,4
+3377,3.85,Abdoulaye Doucouré,9,Everton,53,MID,8
+3378,3.82,Stuart Armstrong,9,Southampton,55,MID,20
+3379,3.81,Bernard Anício Caldeira Duarte,9,Everton,58,MID,8
+3380,3.7,Tomas Soucek,9,West Ham,49,MID,15
+3381,3.57,Oriol Romeu Vidal,9,Southampton,45,MID,20
+3382,3.57,Raheem Sterling,9,Man City,116,MID,17
+3383,3.46,James Maddison,9,Leicester,70,MID,11
+3384,3.45,Jarrod Bowen,9,West Ham,63,MID,15
+3385,3.4,Adam Lallana,9,Brighton,62,MID,2
+3386,3.4,Dennis Praet,9,Leicester,55,MID,11
+3387,3.35,Sadio Mané,9,Liverpool,120,MID,9
+3388,3.24,Pascal Groß,9,Brighton,58,MID,2
+3389,3.23,N'Golo Kanté,9,Chelsea,49,MID,14
+3390,3.22,Jack Harrison,9,Leeds,55,MID,1
+3391,3.21,Willian Borges Da Silva,9,Arsenal,78,MID,10
+3392,3.2,Daniel Castelo Podence,9,Wolves,55,MID,16
+3393,3.19,Pedro Lomba Neto,9,Wolves,55,MID,16
+3394,3.17,Diogo Jota,9,Liverpool,64,MID,9
+3395,3.17,Kai Havertz,9,Chelsea,84,MID,14
+3396,3.05,Jeffrey Schlupp,9,Crystal Palace,55,MID,4
+3397,3.01,Bukayo Saka,9,Arsenal,53,MID,10
+3398,3.0,Ferran Torres,9,Man City,69,MID,17
+3399,2.94,Mateusz Klich,9,Leeds,56,MID,1
+3400,2.87,John McGinn,9,Aston Villa,55,MID,3
+3401,2.85,Tanguy Ndombele,9,Spurs,59,MID,12
+3402,2.78,Rúben Diogo da Silva Neves,9,Wolves,53,MID,16
+3403,2.76,Ademola Lookman,9,Fulham,50,MID,7
+3404,2.73,Tom Cairney,9,Fulham,53,MID,7
+3405,2.7,James McArthur,9,Crystal Palace,53,MID,4
+3406,2.69,Filip Krovinovic,9,West Brom,50,MID,13
+3407,2.69,Alex Iwobi,9,Everton,59,MID,8
+3408,2.66,Conor Gallagher,9,West Brom,55,MID,13
+3409,2.64,Sander Berge,9,Sheffield Utd,50,MID,19
+3410,2.61,Hélder Wander Sousa de Azevedo e Costa,9,Leeds,57,MID,1
+3411,2.6,Cheikhou Kouyaté,9,Crystal Palace,50,MID,4
+3412,2.6,Declan Rice,9,West Ham,48,MID,15
+3413,2.59,Juan Mata,9,Man Utd,59,MID,18
+3414,2.57,Thomas Partey,9,Arsenal,50,MID,10
+3415,2.56,Christian Pulisic,9,Chelsea,83,MID,14
+3416,2.56,Allan Marques Loureiro,9,Everton,54,MID,8
+3417,2.55,Marc Albrighton,9,Leicester,53,MID,11
+3418,2.54,Sean Longstaff,9,Newcastle,48,MID,5
+3419,2.51,Jorge Luiz Frello Filho,9,Chelsea,53,MID,14
+3420,2.47,Douglas Luiz Soares de Paulo,9,Aston Villa,49,MID,3
+3421,2.4,Nicolas Pépé,9,Arsenal,77,MID,10
+3422,2.38,Nathan Redmond,9,Southampton,64,MID,20
+3423,2.37,Riyad Mahrez,9,Man City,83,MID,17
+3424,2.35,Nampalys Mendy,9,Leicester,45,MID,11
+3425,2.3,Scott McTominay,9,Man Utd,49,MID,18
+3426,2.3,Luka Milivojevic,9,Crystal Palace,57,MID,4
+3427,2.26,Jacob Murphy,9,Newcastle,49,MID,5
+3428,2.23,Mohamed Naser El Sayed Elneny,9,Arsenal,44,MID,10
+3429,2.23,Yves Bissouma,9,Brighton,45,MID,2
+3430,2.18,Daniel Ceballos Fernández,9,Arsenal,49,MID,10
+3431,2.15,John Lundstram,9,Sheffield Utd,52,MID,19
+3432,2.15,Pierre-Emile Højbjerg,9,Spurs,49,MID,12
+3433,2.13,Jake Livermore,9,West Brom,48,MID,13
+3434,2.12,Allan Saint-Maximin,9,Newcastle,53,MID,5
+3435,2.07,Ilkay Gündogan,9,Man City,54,MID,17
+3436,2.05,André Filipe Tavares Gomes,9,Everton,55,MID,8
+3437,2.05,Dwight McNeil,9,Burnley,58,MID,6
+3438,2.05,Ashley Westwood,9,Burnley,54,MID,6
+3439,2.03,Moussa Sissoko,9,Spurs,48,MID,12
+3440,2.02,André-Frank Zambo Anguissa,9,Fulham,45,MID,7
+3441,2.0,Grady Diangana,9,West Brom,55,MID,13
+3442,1.98,Jordan Henderson,9,Liverpool,54,MID,9
+3443,1.98,Leander Dendoncker,9,Wolves,49,MID,16
+3444,1.96,Frederico Rodrigues de Paula Santos,9,Man Utd,53,MID,18
+3445,1.91,Georginio Wijnaldum,9,Liverpool,53,MID,9
+3446,1.9,Rodrigo Hernandez,9,Man City,54,MID,17
+3447,1.89,Josh Brownhill,9,Burnley,50,MID,6
+3448,1.83,Miguel Almirón,9,Newcastle,57,MID,5
+3449,1.81,Jeff Hendrick,9,Newcastle,49,MID,5
+3450,1.79,Adama Traoré,9,Wolves,63,MID,16
+3451,1.78,Fabian Delph,9,Everton,49,MID,8
+3452,1.76,Andriy Yarmolenko,9,West Ham,57,MID,15
+3453,1.75,Erik Lamela,9,Spurs,58,MID,12
+3454,1.75,Harrison Reed,9,Fulham,45,MID,7
+3455,1.72,Bernardo Mota Veiga de Carvalho e Silva,9,Man City,74,MID,17
+3456,1.68,Phil Foden,9,Man City,66,MID,17
+3457,1.66,Lucas Rodrigues Moura da Silva,9,Spurs,68,MID,12
+3458,1.64,Matheus Pereira,9,West Brom,59,MID,13
+3459,1.62,Paul Pogba,9,Man Utd,78,MID,18
+3460,1.58,Mason Greenwood,9,Man Utd,72,MID,18
+3461,1.56,Leandro Trossard,9,Brighton,60,MID,2
+3462,1.55,Ben Osborn,9,Sheffield Utd,49,MID,19
+3463,1.51,Ayoze Pérez,9,Leicester,61,MID,11
+3464,1.51,Solomon March,9,Brighton,50,MID,2
+3465,1.49,Oliver Norwood,9,Sheffield Utd,47,MID,19
+3466,1.48,Bertrand Traoré,9,Aston Villa,59,MID,3
+3467,1.37,Granit Xhaka,9,Arsenal,53,MID,10
+3468,1.31,Jamie Shackleton,9,Leeds,48,MID,1
+3469,1.21,Daniel James,9,Man Utd,63,MID,18
+3470,1.2,Ryan Fraser,9,Newcastle,57,MID,5
+3471,1.19,Steven Bergwijn,9,Spurs,71,MID,12
+3472,1.19,Mario Lemina,9,Fulham,45,MID,7
+3473,1.18,Ruben Loftus-Cheek,9,Fulham,59,MID,7
+3474,1.13,Pablo Hernández Domínguez,9,Leeds,58,MID,1
+3475,1.12,João Filipe Iria Santos Moutinho,9,Wolves,53,MID,16
+3476,1.09,Ivan Ricardo Neves Abreu Cavaleiro,9,Fulham,53,MID,7
+3477,1.08,Curtis Jones,9,Liverpool,44,MID,9
+3478,1.06,Kalvin Phillips,9,Leeds,49,MID,1
+3479,1.06,Ian Carlo Poveda-Ocampo,9,Leeds,44,MID,1
+3480,1.05,Thiago Alcántara do Nascimento,9,Liverpool,59,MID,9
+3481,1.03,Jonjo Shelvey,9,Newcastle,53,MID,5
+3482,1.03,Isaac Hayden,9,Newcastle,48,MID,5
+3483,1.02,Johann Berg Gudmundsson,9,Burnley,54,MID,6
+3484,0.98,Fabio Henrique Tavares,9,Liverpool,54,MID,9
+3485,6.13,Harry Kane,9,Spurs,110,FWD,12
+3486,5.18,Dominic Calvert-Lewin,9,Everton,77,FWD,8
+3487,5.08,Jamie Vardy,9,Leicester,100,FWD,11
+3488,4.8,Patrick Bamford,9,Leeds,60,FWD,1
+3489,4.52,Tammy Abraham,9,Chelsea,72,FWD,14
+3490,4.47,Ollie Watkins,9,Aston Villa,60,FWD,3
+3491,4.37,Timo Werner,9,Chelsea,94,FWD,14
+3492,4.23,Che Adams,9,Southampton,58,FWD,20
+3493,3.58,Sébastien Haller,9,West Ham,61,FWD,15
+3494,3.05,Callum Robinson,9,West Brom,55,FWD,13
+3495,2.95,Danny Ings,9,Southampton,84,FWD,20
+3496,2.95,Neal Maupay,9,Brighton,65,FWD,2
+3497,2.94,Alexandre Lacazette,9,Arsenal,84,FWD,10
+3498,2.89,Karlan Grant,9,West Brom,60,FWD,13
+3499,2.84,Aleksandar Mitrović,9,Fulham,58,FWD,7
+3500,2.84,Raúl Jiménez,9,Wolves,85,FWD,16
+3501,2.75,Bobby Decordova-Reid,9,Fulham,53,FWD,7
+3502,2.69,Callum Wilson,9,Newcastle,66,FWD,5
+3503,2.36,David McGoldrick,9,Sheffield Utd,53,FWD,19
+3504,2.28,Michy Batshuayi,9,Crystal Palace,58,FWD,4
+3505,2.1,Roberto Firmino,9,Liverpool,92,FWD,9
+3506,2.06,Rhian Brewster,9,Sheffield Utd,45,FWD,19
+3507,1.95,Chris Wood,9,Burnley,63,FWD,6
+3508,1.93,Richarlison de Andrade,9,Everton,78,FWD,8
+3509,1.63,Kelechi Iheanacho,9,Leicester,57,FWD,11
+3510,1.62,Edinson Cavani,9,Man Utd,80,FWD,18
+3511,1.56,Ashley Barnes,9,Burnley,60,FWD,6
+3512,1.55,Oliver McBurnie,9,Sheffield Utd,57,FWD,19
+3513,1.55,Michail Antonio,9,West Ham,62,FWD,15
+3514,1.09,Joelinton Cássio Apolinário de Lira,9,Newcastle,57,FWD,5
+3515,1.05,Sergio Agüero,9,Man City,103,FWD,17
+3516,0.99,Rodrigo Moreno,9,Leeds,58,FWD,1
+3517,0.77,Jay Rodriguez,9,Burnley,58,FWD,6

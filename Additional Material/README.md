@@ -37,6 +37,8 @@ Each week do:
 5. Formulate consatraind optimization problem and solve by the Simplex method to construct the predicted dream team
 
 
+
+
 The code for step 1 - 4 is provided in the file SimplexFPL_preprocessing.
 
 The code for step 5 is provided in the file SimplexFPL.

@@ -2,6 +2,7 @@ keras
 matplotlib
 numpy==1.18.0
 pandas
+pulp
 scikit-learn
 seaborn
 sklearn

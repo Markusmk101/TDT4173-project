@@ -5,6 +5,7 @@
 - fpl_data.csv is the dataset to build the models.
 - Data.ipynb fetches and preprocesses the data and then saves the data in the file called fpl_data.csv.
 - Models.ipynb defines and builds the models based on fpl_data.csv, as well as evaluating and comparing the models.
+- Additional Material contains additional information and code related to the website created to make us of models. There is another README inside that folder. 
 
 
 ## Setup:
